@@ -1,0 +1,38 @@
+Editorial
+Editor's Desk: Clarkesworld by the Numbers
+I’m a data junkie. Over the last five-plus years, I’ve collected a lot of data about all things Clarkesworld and some about the state of online fiction. This month, I thought I’d dig into that data and share some of the more interesting data and what they mean to me.
+I’m going to start with something that says a lot about the history of Clarkesworld and perhaps even a little about the growing acceptance of online fiction since 2006:
+The solid line in this chart indicates unique readers per issue and the dotted line is a cumulative six-month average that influences how I determine our monthly readership.
+One of the first things I notice when I look at this graph are the spikes and how they become more pronounced over time. When we first launched in 2006, online fiction was still suffering from an image problem, the audience was much smaller, and there were very few SFWA-qualifying online magazines. None of those problems exist today. The spikes for those early years are small and reflect the lower potential audience of the time. This fits within the context of discussions I’ve had with other editors that were around at the time.
+If the size of a spike can help you guage the changes in potential market, the frequency should demonstrate interest in what the magazine has to offer. It’s also a great visual indicator of the viral nature of the medium we’re working in. If you like something, you are more likely to share it. If someone shares something with you and you like it, you might just stick around and become a regular reader. In a sense, this is just good old-fashioned word-of-mouth marketing, but on steroids.
+I do feel the need to comment here. When we select stories or articles, our goal is to pick great content. As far as we’re concerned, spikes happen when people think we met our goal. They are a side-effect, not the objective.
+By now, you’re probably curious about what triggered some of those spikes, so here’s a few:
+1. An editorial on the state of short fiction
+2. “Spar” by Kij Johnson
+3. “The Things” by Peter Watts
+4. Hugo and Nebula Award nominations for Clarkesworld, “Spar” and “Non-Zero Probabilities” by N. K. Jemisin.
+5. Hugo win for Best Semiprozine.
+6. Several items, including a resurgence in activity for “The Things”, “Spar”, and various non-fiction. Also strong showings for the first part of the serialization of “Silently and Very Fast” by Catherynne M. Valente and “Tying Knots” by Ken Liu.
+OUR READERS
+We don’t know much about our readers, not even the ones that are subscribing to our Kindle or EPUB editions at Amazon and Weightless. (Ok, we do know you’re all really classy people who empower us to keep doing what we do!) However, web statistics give us a hint. For example:
+70% of our readers are in the USA
+20% of our readers are in the UK, Canada or Australia
+10% read from a total of over 30 different countries, more than half of which aren’t English-speaking countries
+35% use an Apple computer
+15% use Windows XP
+5% use some form of Unix/Linux
+Our most widely read story is “The Things” by Peter Watts (240K+ readers)
+Our most widely listened to story is also “The Things” (17K+ listeners)
+Roughly 5-6K of you listen to our stories on our podcast
+According to Facebook:
+Obviously, this is more a profile of the 3500 people who are willing to follow us on Facebook (as opposed to the over 25K reading the magazine), but it does paint an interesting picture. This is something I’d love to have better data on, but in the end, it doesn’t influence us all that much though it might come in handy if someone decides they want to buy ad space from us.
+SHORT STORIES
+Since 2009, I’ve been using an online submission form to collect stories from authors interested in being published in our magazine. These stories make up what is known as the “slush pile” and I occasionally post slush pile statistics over on my blog. Here, I’m going to focus on the big picture.
+The solid line is the number of stories submitted to Clarkesworld on a monthly basis. The dotted line is the number of rejection letters that go out in the same month. As you can see, we receive a lot more stories than we could ever publish. The two dips to zero were months we closed to submissions, typically Christmas break. The huge jump after the second reopening maps to a change in submission guidelines (allowing longer stories) and surge in readership and award nominations very close to spike #3 on the chart above.
+Let’s dig a little deeper:
+There isn’t a lot to be said about this. I have no way of knowing whether or not what we are seeing here is an accurate representation of the short fiction authors in the science fiction and fantasy field. This data is more interesting in comparison to the following:
+Over the years, I’ve found it very interesting that the gender breakdown for accepted stories at any given period in our history is nearly evenly split, despite the wider disparity between the genders in the volume of submissions. I’ve seen all sorts of interesting interpretations of this data, but from my standpoint it simply says that when it comes to talent, neither gender has an upper hand. In the end, quantity loses to quality.
+Now, let’s look at international submissions:
+The top eleven are shown, with the Phillipines just missing the cut at number 12. They and ninety other countries represent that “other” wedge of the pie. I’m very pleased by the variety of countries represented, but the top four tend to dominate the stories we publish. In the last year, however, we have had the pleasure of publishing two Chinese translations. This is an aspect of the magazine that I hope to see expand over the next few years and a way data is influencing how I run things.
+If you’ve made it this far, you can consider yourself a fellow data junkie. If you’d like to see more, or have any questions, please feel free to jump into the comments and ask away.
+Neil Clarke is the editor of Clarkesworld Magazine and Forever Magazine; owner of Wyrm Publishing; and a ten-time Hugo Award Nominee for Best Editor (short form). His anthologies include Upgraded, Galactic Empires, More Human Than Human, Touchable Unreality, The Final Frontier, Not One of Us, The Eagle has Landed, and the Best Science Fiction of the Years series. His latest anthology, The Best Science Fiction of the Year: Volume 6, is now available from Night Shade Books. He currently lives in NJ with his wife and two sons.

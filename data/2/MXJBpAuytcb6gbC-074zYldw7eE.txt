@@ -1,0 +1,341 @@
+11370 words, novelette, REPRINT
+Forever Bound
+I’d thought that being a graduate student in physics would keep me from being drafted. But I was sitting safely boxed in my library carrel, reading a journal article, when the screen went blank and then blinked PAPER DOCUMENT INCOMING, which had never happened before—who would bother to track you down at the library?—and I had a premonition that was instantly confirmed.
+One sheet of paper slid out with the sigil of the National Service Commission. I turned it right side up and pressed my thumb onto the thumbprint circle, and the words appeared: “You have been chosen to represent your country as a member of the Ninth Infantry Division, Twelfth Remote Combat Infantry Brigade,” Soldierboys. “You will report to Fort Leonard Wood, Missouri, to begin RCIU training at 1200, 3 September 2054.”
+Just before class registration, how considerate. I wouldn’t be pulled out of school. I even had two weeks to pack and say my goodbyes.
+Various options came to mind as I sat staring at the page. I could run to Sweden or Finland, where I’d also face national service, but it wouldn’t have to be military. I could take the Commission itself to court, pleading pacifism, asking to be reassigned to Road Service or Forestry. But I didn’t belong to any pacifist groups and couldn’t claim any religion.
+I could do like Bruce Cramer last year. Stoke up on painkillers and vodka and shoot off a toe. But his draft notice had been for the regular infantry, pretty dangerous.
+People who ran soldierboys never got shot at directly—they sat in an underground bunker hundreds of miles from the battlefield, and operated remote robots that were invincible and armed to the teeth. Sort of like a sim, but the people you kill actually are people, and they actually do die.
+Most soldierboys didn’t do that, I knew. There were about 20,000 of them dispersed throughout Ngumi territory, and most of them just stood guard, huge and impregnable, unkillable, symbols of Alliance might. Which is to say, American might, though about twelve percent came from elsewhere.
+My advisor, Blaze Harding, was in her office a couple of buildings away, and said to bring the document over.
+She studied the letter for much longer than it would take to read it. “Let me explain to you . . . in how many dimensions you are fucked.
+“You could run. Finland, Sweden, Formosa. Forget Canada. It’s a combat assignment, and you’d be extradited. In any case, you’d lose your grant, and it would be the end of your academic career. Likewise with going to jail.
+“If you obey the law and go in, you’ll be like Sira Tolliver over in Mac Roman’s office. You ‘only’ have to report ten days a month. But she seems to spend half her time recovering from those ten days.”
+“Just sitting in a little room?”
+“A cage, she calls it. Evidently it’s a little more strenuous than sitting.
+“The plus side is that the department wouldn’t dare drop you. If you just show up for work, your position with the Jupiter Project is as safe as tenure. As long as the grant holds out, which should be approximately forever.” The Jupiter Project was building a huge supercollider in orbit around Jupiter, millions of electromagnetic doughnuts circling out by the orbit of Io.
+“Once they turn it on,” I said, “our worries will be over anyhow. Instantly sucked into a huge black hole.”
+“No, I favor the ‘explode and be scattered to the edge of the universe’ theory. I always wanted to travel.” We shared a laugh. The Project would simulate conditions 10 to the minus 35th seconds after the Big Bang, and the tabloids loved it.
+“Well, at least I’ll lose a few pounds in basic training. I’ve been putting on two or three pounds a year since I graduated and left the soccer team.”
+“Some of us like them a little plump,” she said, pinching the skin on my forearm. It was a funny situation. We’d been attracted to each other since the day we met, three years ago, but it had never gone beyond banter. She was fifteen years older than me, and white. Which was not a problem on campus, but outside, Texas is Texas.
+“I goo-wikied something you ought to see. Running a soldierboy isn’t really just sitting around.” She turned her clipboard around so I could read the screen.
+DISABILITY AND DEATH
+by
+MILITARY OCCUPATIONAL SPECIALTY
+per 100,000 annually
+|COMBAT
+|
+INJURY/DEATH
+|NON-COMBAT
+|
+INJURY/DEATH
+|INFANTRY||949.2 / 207.4||630.8 / 123.5|
+|RCI||248.9 / 201.7||223.9 / 125.6|
+“Not really so safe, then.”
+“And the injuries in the RCI, combat or not, would all be brain injuries. You’d be out of a job here.”
+“You’re just saying that to cheer me up.”
+“No, but I’m thinking you ought to try switching to the infantry, as crazy as that sounds. With your education and age, they’d put you behind a desk for sure.”
+“Well, I’ve got two weeks to nose around. See how much latitude I’ll have. But what about my job here?”
+She waved a hand in dismissal. “You can do it in twenty days a month. Actually, I was going to take you off the physics lab babysitting anyhow; just grade papers for 60 and help me with the 299 special projects.” She looked at her calendar. “I guess basic training will be full-time.”
+“I don’t know. Sounds like it, from what I’ve heard.”
+“Find out for me. If I have to kidnap somebody for October and November, I’d better start looking around.” She reached across the desk and patted my hand. “It’s an inconvenience, Julian, but not a disaster. You’ll come out on top.”
+Blaze hadn’t brought up the largest danger and the biggest attraction of being a “mechanic,” as the soldiers who operated the soldierboys were called. They all had to be jacked, a hole drilled into the back of the skull and an electronic interface inserted, so you shared the thoughts and observations, feelings, of the rest of your platoon. There were five men and five women in a platoon, so you become like a mythical beast, with ten brains, twenty arms, and five cocks, and five cunts. A lot of people tried to join up for that experience. That was not quite what the army was looking for.
+Almost all mechanics were drafted, because the army needed a peculiar mix of attitudes and eptitudes. Empathy is obvious, being able to stay sane with nine other people sharing your deepest feelings and memories. But they also needed people who were comfortable with killing, for the so-called “hunter-killer” platoons. They were the ones who got all the attention, the bonuses, even fan clubs. I could assume I wasn’t going to be one of them. I didn’t even like to go fishing, because of the blood and guts and hurting the fish.
+The installation of the jack was also risky. The rate of failure was classified, but various sources put it between five and fifteen percent. Most of the failures didn’t die, but I wondered how many of them went back to intellectual pursuits.
+I found out that basic training was indeed full time, for eight weeks. The first four weeks were intensely physical, old-fashioned boot camp—not obviously useful for people who would spend their military career sitting in a cage, thinking. After four weeks, they installed the jack, and you started training in tandem with your other nine.
+I did apply to be reassigned, to infantry or medical or quartermaster (they crossed that off; you can’t join a non-combat arm in time of war). I was rejected the day I applied.
+So I increased my jogging from one mile a day to three, and worked out out on the gym machines every other day. Basic training had a bad reputation, and I wanted to be ready for the physical side of it.
+I also spent more social time with Blaze than I ever had before. She had no teaching load during the summer. I had legitimate reasons to drop by the Jupiter Project, though I could do most of my work from any computer console anywhere in the world. I tended to show up around lunchtime or when the office nominally closed at 5:00.
+You couldn’t call it dating, given the difference in our ages, but it wasn’t just coworkers having lunch, either. It could have evolved into something if there’d been more than two weeks, perhaps.
+But on September second, she took me to the airport and gave me a tight hug and a kiss that was a little more interesting than a coworker saying “goodbye for now.”
+When I got off the plane in St. Louis, there was a woman in uniform holding a card with my name and two others on it. She was bigger than me, and white, and looked pretty mean. I stifled the impulse to walk right by her and get a ticket to Finland.
+When the other two, a woman and a man, showed up, she walked us to an emergency exit that apparently had been disabled, then down onto the tarmac in the 105-degree heat. We walked a fast quarter-mile to where a couple of dozen people stood in ranks sweating beside a military bus.
+“No talking. Get your sorry ass in line.” A big black man who didn’t need a megaphone. “Put your bags on the cart. You’ll get them back in eight weeks.”
+“My medicine—” a woman said.
+“Did I say no talking?” He glared at her. “If you filled out your medical forms correctly, your pills will be waiting for you. If not, you’ll just have to die.”
+A couple of people chuckled. “Shut up. I’m not kidding.” He stepped up to the biggest man and spoke quietly, his face inches away. “I’m not kidding. In the next eight weeks, some of you may die. Usually from not following orders.”
+When the fiftieth person came, he loaded us all into the bus, a wheeled oven. My god, I thought, Fort Leonard Wood must be over a hundred miles away. The windows didn’t open.
+I sat down next to a pretty white woman. She glanced at me and then looked straight ahead. “Are you going to mechanics’ school?”
+“Go where they send me,” she said with a South Texas drawl, not looking at me. Later that day I would learn that mechanics train with the regular infantry, “shoes,” for the first month, and it’s not wise to reveal that you were going to spend all of your subsequent career sitting down in the air conditioning.
+We only drove a couple of miles, though, to the military airport adjacent to the civil one, and piled into a flying-wing troop transport, where we were stuffed onto benches without seatbelts. It was a fast and bumpy twenty-minute flight, the big sergeant standing in front of us, hanging on to a strap, glaring. “Anybody pukes, he has to clean it up while everybody else waits.” Nobody did.
+We landed on a seriously bumpy runway and were separated by gender and marched off in two different directions. The men, or “dicks,” were led into a hot metal building, where we took off all our clothes and put them in plastic bags marked with our names. If they were going to ferment for eight weeks, the army could keep them.
+They said we would get clothes when we needed them, and had us shuffle through a line where we contributed blood and urine and got two shots in each arm and one in the butt, the old-fashioned way, painful. Then we walked through a welcome shower into a room with piles of towels and clothing, fatigues sorted more or less by size. Then we actually got to sit down while three dour men with robot assistants measured our feet and brought us boots.
+There was a rotating holo of a handsome guy showing us what we were supposed to look like—the trouser legs “bloused” into boots, shirt seam perfectly aligned with belt buckle and fly, shirt sleeves neatly rolled to mid-forearm. His fatigues were new and tailored, though; ours were used and approximate. He wasn’t sweating.
+I thought I’d second-guessed the army by having my hair cut down to a half-inch burr. They shaved me down to the skin, in retribution.
+The sun was low and it had cooled down to about ninety, so they took us for a little run. That didn’t bother me except for being overdressed. We went around a quarter-mile cinder track, in formation. After four laps, the women joined us, and together we did eight more.
+Then they piled all of us, hot and dripping, into a freezing mess hall. We waited in a long line for cold greasy fried chicken, cold mashed potatoes, and warm wilted salad.
+The woman who sat down across from me watched me strip the sodden fried batter from the chicken. “On a diet?”
+“Yeah. No disgusting food.”
+“I think you goin’ to lose a lot of weight.” We shook hands across the table. Carolyn from Georgia, a pretty black woman a little younger than me. “What, you graduated and got nailed?”
+“Yeah. Ph.D. in physics.”
+She laughed. “I know where you’re goin’.”
+“You, too?”
+“Yeah, but I don’t know why. B.F.A. in Creative Viewing.”
+“So what’s your favorite show?”
+“Hate ‘em all. Unlike most folks, I know why I hate ‘em. Now tell me you’d die if you didn’t get your Kill Squad fix every week.”
+“Don’t have a cube, or time to watch it. When I was a kid, my parents only let me watch ten hours a week.”
+“Wow . . . would you marry me? Or you got somethin’ goin’ already.”
+“I’m gay, except for sheep.”
+“Ewe.” We both laughed a little too hard at that.
+Shoe training was about half PT and half learning how to use weapons we’d never see again, as mechanics. Even the shoes would probably never use a bayonet or knife or bare hands—how often would you not have a gun, and face an enemy who didn’t have one either?
+(I knew the rationale was more subtle, training us to be aggressive. I wasn’t sure that was a good idea for mechanics, though—your soldierboy might wipe out a village because you lost your temper.)
+Carolyn’s last name was Collins, and we were next to each other in the alphabet. We spent a lot of time talking, sometimes sotto voce when we were standing in formation, which got us into trouble a couple of times. (“One of you lovebirds runs around the track while the other finishes painting this wall.”)
+I was really smitten with her—I mean the kind of brain-chemistry-level addiction that you ought to be able to control by the time you’re eighteen. I thought of her all the time, and lived to see her face when we mustered in the mornings. Her expressions and gestures made me think she felt the same way about me, though we carefully wouldn’t use the word “love.”
+After two weeks of constant training, they unexpectedly gave us half a Sunday off. A bus took us into St. Robert, a small town that existed to separate soldiers from their money. We had to be back by 6 sharp, or we’d be AWOL.
+On the way to the bus station in St. Robert, we passed several hotels and motels that advertised HOURLY RATES / CLEAN SHEETS. When we got off the bus, I faltered, trying to frame a proposition, and she grabbed me by the arm and pulled me through the closest place’s door.
+We’d never even kissed before. So we did some of that while trying to get each other’s fatigues off without popping any buttons.
+Speaking of popping, I was not exactly the long-lasting partner-oriented lover I would’ve liked to have been. But I had a certain amount of hydrostatic as well as psychological pressure built up; the barracks offered no privacy for masturbation.
+She laughed that off, though, and we just played around for awhile, until I was ready for a more patient and slow coupling. It was better than my dreams.
+We had an hour before we had to be on the bus. There was a bar next door, but Carolyn didn’t feel like being stared at by our fellow draftees. So we sat on the damp and rumpled sheets and shared a glass of metallic-tasting water.
+“Did you try to get out of it?” she asked.
+“Well, yeah. My adviser pointed out that if I joined the infantry, at my age and with my education, I’d just have a desk job for a couple of years.”
+“Yeah, right. You believe that now?”
+I laughed. “They’d put me in a bayonets-only platoon. Get out there and stab for your country.”
+“God and country. Don’t forget God.”
+“If it weren’t for God, we wouldn’t get half of Sunday off.”
+“Praise the Lord.” She took my penis between two fingers and wiggled it. “Don’t suppose there’s any juice left in this little guy.”
+“Not for a while. We could do it on the bus.”
+“Okay. Hold you to it.” She yawned and stretched, so hard a couple of joints popped. “Maybe we should go get a beer. Show those lonely cunts who got her man.”
+“Let’s.” Though I doubted there was much loneliness in town.
+She dressed me carefully, smoothing the uniform down with long slow strokes. Then she stroked my face and my hands, eyes closed, as if she were memorizing.
+She held me close then, and took a long deep breath. “Thank you, Julian,” she whispered. “It’s been some while.”
+So I tried to dress her, but got the buttons wrong. All very romantic. It’s also easier to take panties off of someone than put them back on.
+The nonsmoking part of the bar still had a whiff of tobacco and light weed. Ice-cold beer but no place to sit. So we stayed at the bar, loud with music and laughing, and nodded hello to some of our fellow trainees.
+“You didn’t grow up in the south,” she said. “You talk funny, you don’t mind my sayin’.”
+“Actually, I was born in Georgia, but my parents moved north before I started school, Delaware. Then four years at Harvard will screw up your accent forever.”
+“You majored in science.”
+“Physics, then astrophysics for the master’s. Moved into particle physics for the doctorate. Post-doc, too, assuming basic doesn’t kill me.”
+“I don’t know shit about any of that.”
+“Never expect anyone to.” I put my hand on hers. “Like I know anything about film.”
+“Joo-lian.” She slid her hand away. “Never condescend to someone who can kill you with a single blow. Six different ways.”
+“Sorry. Takes you four years to get a degree at Harvard, and then forty to get over it.”
+“Well, I ain’t waitin’ forty. You best get your shit together.” But she smiled and put her hand back.
+A short private from the permanent party walked through the door with a megaphone. “Aw-right, you listen up. Trainees Charlie Company, you bus is heah. You not in that bus in five minutes, you AWOL. We come back heah and put you ass in chains.”
+There was a moment of silence when he went through the door, and then a low murmur.
+“How could they put just your ass in chains, and not the rest of you?”
+“Think big stapler,” she said, and finished off her beer. “Chariot awaits.”
+The next two weeks didn’t have any Sundays. Now that they were pretty sure that no one was going to have a heart attack doing laps, they pushed us to the wall. The morning after our afternoon-long furlough, they woke us up at 2:30, striding through the barracks beating on metal pans. Five minutes to dress, then a ten-mile run with full pack and rifle. When people stopped to puke, we had to run in place, shouting “Pussy, pussy!”
+They continued with the early-morning runs about every third day, increasing them by a mile each time. The drill instructors acted like it was malicious torture, but it was obviously well planned. We had to get the running in, but if we did it during those hundred-degree-plus days, people would get heatstroke and die.
+The instructors also made sure everybody knew that the intensity of training was our own fault. “Only got four weeks to turn these CGI pussies into soldiers” was the refrain.
+Carolyn and I did have one more opportunity, a thirty-minute lunch break in thick woods. I got poison ivy on my butt, and she on her feet. We had the same medic look at us, and he advised us to next time take along something like a shelter half or at least a newspaper. But there never was a next time, not in basic training.
+The first day of CGI training, they took the fifty of us in a bus with blacked-out windows to someplace that might have been a half-hour away, or a mile, going in circles. It was in deep woods, though, and underground.
+A camouflaged door slid open to reveal dimly-lit stairs going down. The entrance was guarded by two huge soldierboys, whose camouflage perfectly mimicked the woods behind them. If you stood still, you couldn’t see them; walking by them, they looked like a heat shimmer roughly the shape of a nine-foot-tall man.
+The underground complex was large. We stood in formation in a foyer and a private read our names off a clipboard and gave us platoon designations and room numbers. Carolyn and I were both Alpha Platoon and went to room A.
+There were ten hard chairs in the room and, incongruously, a table with party snacks and a tub full of iced drinks. An older man in a jumpsuit with no insignia watched us file in.
+He didn’t speak until the last of us sat down. “I’m going to leave you here alone for one hour and thirty minutes. Your job is to get to know one another.
+“In a couple of days, you’re all going to be jacked, and none of you will have any secrets from the others. That’s all I’m going to say.
+“When I leave the room, please take off all your clothes. Get a drink and a snack and . . . tell each other your secrets, your problems. It will be easier for you to deal with one another if you have some preparation.
+“When the bell rings, you should get dressed, and I’ll come back to talk with you. Yes, private?”
+“Sir,” she said, “I . . . I’ve never been naked in front of a man. I—”
+“You’re about to be. You didn’t have brothers?”
+“No, sir.”
+“In a couple of days, you’ll have five of them. And ‘naked’ does not begin to describe how exposed you’ll be. But you will all be gentlemen?”
+“Yes, sir,” we all said. She was a pretty little blonde, and I was half looking forward to seeing the rest of her and half sympathetic with her anxiety.
+He smiled, face crinkling. “Just look each other in the eyes and you’ll be all right.” He left the room.
+I talked with Lou Mangiani while we undressed, both of us studiously not looking at the women (but seeing them with some intensity). Lou’s in his late twenties, working as a baker in New York City, for his father’s Italian restaurant. That’s about as much as I knew about anybody except Carolyn. For the past four weeks, we had trained till we dropped and got up hours before our bodies wanted to; not much time for chat.
+Carolyn and Candi joined us. We’d wondered in shoe training what Candi was doing here. She was a gentle—you’d have to say “delicate”—woman, whose civilian job was grief counseling. I suppose you have to be pretty tough to do that, actually.
+She was also a natural leader for this sort of thing. She clapped once. “Let’s get these chairs in a circle,” she said to everyone. “Get sorted out boy-girl, boy-girl.”
+Richard Lasalle was beet-red, with a large prominent erection. I was myself trying to think about anything else, running through prime numbers and tables of integrals.
+None of the women were eager to sit next to him. Carolyn gave my hand a little tug and strode over to him, and stuck her hand out. “You’re Richard, aren’t you?” He nodded—“Dick” would not be a good choice—and she introduced herself and sat down. I took the other seat next to her and the pretty little blonde, Arlie, quickly perched on the other side of me, probably figuring I was “taken” and therefore safe. She crossed her perfect legs and hid her breasts behind folded arms.
+Candi was the opposite, totally casual, leaning back legs akimbo. Samantha and Sara, who had been in modest crouches, looked at Candi and unfolded.
+“So let’s go around the circle and everybody come up with something important that you normally keep secret. After tomorrow, we won’t have any secrets.” Slow nods. “I should start it.” She paused for some time, rubbing her chin and the side of her face. “My clients, my patients, don’t know this. Why I became a grief counselor. I was once so devastated I, I killed myself.
+“I jumped off a bridge. In Cape Cod in January. I was dead for ten or twelve minutes, but the water was so cold they were able to bring me back.”
+“What was it like?” Akeem said. “Being dead.”
+“Nothing; I just went unconscious. I think the impact knocked me out.” She ran a finger between her breasts. “I woke up when they shocked my heart, in the ambulance.”
+“You had a reason,” I said.
+She nodded. “Watched my father die. We were on the interstate and the steering and the failsafes cut out at the same time. We flipped and crashed into traffic. The airbags inflated but the accident kept happening; another truck smashed into us and knocked us off an overpass. When we finally came to rest . . . my mother’s head was crushed and my father was drowning in his own blood. I wasn’t in too bad shape, but was pinned in place. I had to just hang there upside down and watch my father die. About two feet away.
+“I couldn’t get his image out of my head. So I jumped off the bridge. And somehow wound up here. Lou?”
+He shrugged. “God, I never had anything like that.” He shook his head a couple of times, looking down. “I was maybe thirteen. There was a gang my parents forbid me to hang around with, so of course I did. They thought I was out doing church stuff, but they never went, so I could fake it, I thought.
+“These were junior goombahs, apprentice Mafia. I was the lookout while they did nickel-and-dime stuff. Robbing machines, shoplifting. Stealing cars for joyrides when people were careless enough to leave them unlocked.
+“We got word that this old Jew who ran a news shop and candy store in the Bronx sold guns under the table. The back door looked like it would be easy enough to break in. So at one in the morning, I snuck down the fire escape and ran down a bunch of side streets to meet them.
+“They knew for sure the old guy locked up and went home about ten. It was easy to crack the back door with a crowbar.
+“This was the first thing we’d done where I wasn’t ‘the kid.’ A younger boy stood lookout and I went in first, because I was still a juvenile. If something went wrong, I wouldn’t get hard time.
+“I went in with a flashlight and started opening drawers, looking for guns. Well, I found one, but it was in the fist of the old Jew. He hadn’t gone home that night.
+“I heard him cock the gun and swung around, and I guess dazzled him with the light. ‘Turn that off, boy,’ he said. But the guy with the crowbar had come up behind him, and bashed his head with a two-handed swing. He went down like a log, but the guy kept hitting him. Then he picked the gun up off the floor and thanked me for thinking fast.
+“We ransacked the place, wearing rubber gloves, but there were no other guns, nor anything else of much value. We couldn’t open or even move the cash box. We took a bunch of candy and cigarettes.
+“The next day the newspaper reported the murder-robbery. I didn’t say anything to anybody. I could have called in anonymously and identified the murderer, but I was afraid.”
+“He ever get caught?” Mel asked.
+“Not that I know of. He went down for drug dealing and I went off to college. Now I’m here.”
+Everybody looked at Arlie. “I got caught having sex. With the wrong person.” She looked at the floor. “By my husband. In our bedroom. I promised not to see this person again . . . not to see her again.” She looked up with a trembling smile. “Details tomorrow.”
+My turn. “I got caught jerking off?” Some nervous laughter. “I guess the worst thing . . . it might seem even more trivial, to some. But it drove me crazy with guilt at the time, and it still bothers me, more than ten years later.
+“I was, what, fifteen, walking down an alley, and I saw a turtle, which was rare. A pretty big box turtle. It pulled in its head and legs. I poked it with a stick and it just sat there, of course.
+“On impulse, I picked up a brick and threw it down with all my might. The shell cracked open and the turtle squirmed around, all pale and bloody. I ran away as fast as I could go.”
+After a pause, Candi said, “Yeah, I can see that. Even though my family used to fish for turtles and cut them up for soup. I grew up thinking of them as food.” She looked at Carolyn and raised her eyebrows.
+She shook her head. “Guess I’ve led a sheltered life. Nothing sexy or violent. I did get caught masturbating, but my mother just laughed and told me to do it in my own room.
+“There was a test, a chemistry final, when I was a junior in high school. A girl who worked in the office found a copy of it and sold it to me for ten bucks.
+“That was bad enough; I mean, I’d never done anything like that before. But what was worse was that I already knew most of the answers—would’ve gotten a B, anyhow. And now this girl had proof that I was a cheat, and could tell anybody anytime.
+“So I killed her.” She looked up and grinned. “Only in my dreams, actually.”
+Richard had enlivened a grown-ups’ party by putting a laxative in the punch, but he used a bit too much, and put several people in the hospital. (Including himself, to deflect attention.)
+Samantha stole money from her mother’s purse for years, whenever she came home drunk.
+Mel played vicious tricks on his retarded brother.
+Sara helped her father die.
+Akeem struggled, and finally confessed that he had never believed in Allah, not even as a child, but had lacked the courage to admit it and leave the faith.
+It was an exhausting and awkward two hours, but obviously necessary.
+When we got the bell to get dressed, I was a little surprised to find that I wasn’t looking at the women sexually anymore. But there were a couple that perhaps I could love.
+We never went back to Fort Leonard Wood. The blacked-out bus took us to the St. Louis airport, where they gave us back the personal effects we’d surrendered a month before, laundered, and put us aboard a flight to Portobello.
+The plane went over a lot of water, staying carefully away from Nicaraguan and Costa Rican airspace. Ngumi nations don’t have air forces; our flyboys would just disintegrate them. But they could still throw missiles at us.
+It was nighttime when we landed, the air thick and greasy. The base was an unremarkable collection of low buildings, with the solid gleaming presence of the occasional soldierboy. They stood guard around the perimeter of the base, which they said had never been successfully attacked. I had to wonder how much damage an “unsuccessful” attack could do.
+But that’s good. We would be spending a third of our lives here, somewhere underground, only dozens of miles from enemy territory. Nice to be safe behind a phalanx of invulnerable telepathic robots. Feel safe, anyhow.
+Not really robots, and not completely invulnerable. Each was really an oversized, heavily armed suit of armor that was the telepresent avatar of one man or woman, who operated in instant concert with nine others. Each ten-person platoon was a telepathic family that, with training, would work as one powerful entity.
+The enemy could destroy an individual soldierboy, but its operator, the mechanic, could be instantly switched to a reserve machine and be back in the field in minutes—or even seconds, if the backup was stored nearby. And whoever had destroyed the first one, they well knew, would get special attention from its replacement.
+I suspected that was just propaganda, part of the mystique that personified the machines, to make them more effective psychological weapons. Any emotion that makes a human being dangerous, they had. But they couldn’t die, or even be hurt.
+(The “hurt” part was not completely true, which was a closely guarded secret and perennial rumor. If a soldierboy was disabled and captured, the Ngumi would elaborately torture it in front of cameras, before destroying it.)
+Americans laughed that off, saying that it might work with voodoo dolls, but not machines. You turn a machine off, it’s just a bag of bolts.
+But you have to turn it off in time.
+Our quarters in Portobello were neat but perfunctory, and barely large enough to turn around in. But we wouldn’t be spending much time in them. Mechanics worked and slept, ate and drank and eliminated, without being unplugged, which took a certain amount of intrusive plumbing. But they didn’t open you up for that surgery until they knew whether you could be jacked.
+The first day in Portobello, we were wheeled off one at a time for the most dramatic “routine” surgery known to medicine—the installation of cybernetic cranial implants, or jacks, as they were always called. It seems more dangerous than it is. They’ve done it a hundred thousand times, and it’s worked for about ninety thousand.
+Of the one in ten for whom it doesn’t work, most simply go back to regular life, without the ambiguous gift of being able to share another’s mind and body totally. Some few for whom it doesn’t work become mentally or emotionally handicapped. Some few die.
+The numbers are not published.
+Being a physicist, I can figure out some numbers by myself. If something—jacking successfully—has a ninety percent chance of success, and if ten people do it, the probability of one of them failing is one minus 0.9 to the tenth power, which equals 0.65. So 65% of the time, more than half, at least one of the ten is going to fail.
+So logic would say “do eleven.” But what if all eleven made it? You’d have to pull one out, and that would be like a casualty, they say. It’s easier to add to a family than subtract.
+All ten of us made it, and spent the next two days in bed rest. The third day, we started exploring the gift.
+The man who first led us through it, Kerry, was apparently a civilian, a therapist in his seventies.
+“Your first time shouldn’t be with a beginner,” he said. We were back in a place like Room A, government-green walls, the hard chairs and tub of drinks, but with an addition: two couches waiting with a black box between them. Two cables snaked out of the black box.
+“You’re all going to jack with me for a few minutes first. That will take about an hour for ten people. I don’t foresee any trouble, but if there is, best to have someone like me in the circuit.”
+“Like you, sir?” Candi said.
+“You’ll see why.” He looked at a clipboard. “Azuzi first.” Akeem stood and followed him to the couches.
+“Close your eyes. Lie down.” He took a cable and planted the jack in the base of Akeem’s skull with a soft click. Then he sat on the edge of the other couch and did the same to himself.
+He closed his eyes and rocked gently for a couple of minutes. Then he unplugged himself and Akeem.
+Akeem shook his head and sat up with a shiver. “Oh. That was . . . extreme,” he whispered.
+Kerry nodded. Neither of them elaborated. “Julian Class?”
+I went over and lay down and faced the wall away from him. There was a little click when the jack touched the metal implant, and then I was sort of seeing double with my whole body.
+It’s hard to describe accurately. I still saw the wall, two feet away, but almost as clearly, I saw what Kerry was looking at, the group of mechanics staring back at him and me.
+And all at once, I knew him, almost the way I knew myself. I could feel the body in his clothes as well as the clothes on his body; the somatic shifting of soft organs inside, and the complex array of muscle and bone—things that we feel all the time, but which become invisible with familiarity—small twinges and itches and deep pain in the right shoulder I’d have to, he’d have to, stop ignoring . . .
+I remembered everything he routinely remembered about himself, bad and good and neutral. Comfortable childhood cut short by divorce, college a magnificent escape; a rewarding doctorate in developmental psychology. Sex with two women and dozens of men. Somehow that didn’t seem even odd. Four years as a mechanic in Africa, driving trucks that got blown up regularly.
+Like a memory of a memory, I could feel the union he’d felt with the other mechanics in his transportation platoon, and his longing for the sensation.
+It was over with a click. I looked at him. “That’s why you’re doing this?”
+He smiled. “Though it’s not the same. Like singing in the shower when you used to be in a choir.”
+Carolyn was next, and when she sat back down next to me, she softly nudged me with her hip, and you didn’t need telepathy to know we were thinking the same thing.
+One by one, the others had their sample.
+“Okay,” Kerry said, “That was the first stage of your warm-up. Now we go to the next level.” We followed him into an adjacent room.
+Ten of the so-called “cages” were lined up along the far wall. They were like recliners with lots of plumbing and electronics attached.
+We wouldn’t have to do the plumbing until the end of Basic, since we wouldn’t be plugged in for more than a few hours at a time. When it became ten days, our usual monthly stint, we’d have to be fed and emptied automatically, which they said wasn’t bad once you got used to it.
+The soldierboys we were going to be plugged into were in a vacant lot somewhere outside. For the first couple of days, we did “raise your right foot, raise your left foot” exercises; then walking and going up stairs. By the third day, we were jogging in formation, having crossed a major threshold: knowing you had to stop thinking about what you were doing, and just do it. Trust the machine. The machine is you.
+Meanwhile, we started hooking up to each other in the evenings, without the soldierboys, one on one and then in larger groups.
+Being with Carolyn was thrilling and a little scary—if anything, she felt even more strongly about me than I did about her. And we were so totally different—her intuitive intelligence versus my analytical nature, her streetwise emotionally jarring youth played out against the support and love I’d gotten from my family. Our bodies were different not just in female/male matters; she was small and fast and I was neither. We enjoyed experimenting with each other’s bodies; she said every girl should have a dick of her own for awhile. I enjoyed the strangeness of being her, and then the familiarity, though the first time I menstruated it was like a shocking wound, even though I was ready for it. She was sympathetic but amused—“you big pussy”—and I eventually got over it, though I never got to the point, like her, of looking forward to it, as a kind of affirmation of “my” womanhood.
+(None of the other women had that attitude, I came to find out. Sara and Arlie had suppressed ovulation for an indefinite length of time, and the other two didn’t especially like it, but didn’t like the anti-fertility drugs either.)
+Being linked to the others, male and female, was less intense than with Caroline, though it was pretty sexual with Sara, Candi, and Mel. That was odd enough—Mel wasn’t like Kerry; he’d never had or desired sex with a man. When he was linked with me or one of the other guys, though, it was pretty obvious that he’d been suppressing a natural attraction to his own sex, and that’s something you couldn’t hide from another mechanic even if you wanted to. After some initial embarrassment, he didn’t want to hide it.
+When we were just doing one-on-one, the other eight people’s life stories were pretty far away, like a novel you’d intensely studied in school. When we started doing threesomes and more, it was a lot more complicated. At first, you’d lose track of who—or where—the “I” was. With two, you could be in a state where both lives merged in a kind of selfless integration. I could do that with about half of them.
+With three in the circuit, that couldn’t happen. At first, there was a kind of existential battle for possession, for “turf,” but with experience it became obvious that each person had to hold on to his or her own sense of “I,” or the asymmetries would drive everybody crazy. It was hard for me and Carolyn, and a few other pairs, like Samantha and Arlie, to let go of one another and let a third person in, but if you didn’t, the triad would never work together. One person always on the outside, looking in on a love feast.
+We spent a lot of time, about four days, switching around among triads. That made the foursomes and larger groups pretty simple, having mastered the basic trick: Each of us was an “I” identified by the life story we had when we weren’t jacked, but you had a number of partners, between two and nine of them, each with the same degree of autonomy as you, who intimately shared their pasts and presence.
+We could only be jacked for a maximum of two hours running, followed by at least thirty minutes unplugged, which was frustrating. It would be years before we understood why: if you stayed jacked for too long, the feeling of empathy with others became so strong that any human became a part of you; killing anybody would be as impossible as suicide. Which could be a real handicap for a soldier.
+We did learn about soldiering at visceral second hand, by jacking into crystals other people had recorded during battle. It was confusing at first, because you were intimate with ten strangers, and you had no physical control over the soldierboy you inhabited. But the combat was real enough, more real than it could ever be, second-hand, merely human.
+Candi was deeply depressed by the experience, and I think only Mel was eager to repeat it. But we all saw how necessary it was. A dress rehearsal for Hell.
+I was surprised when they made me platoon leader. I was the oldest, but not by much, and the most educated, but particle physics wasn’t exactly relevant to leadership. The unflattering truth became obvious early on. They didn’t want a “natural leader,” like Lou or Candi, in charge, because he or she would take over the platoon too completely—instead of ten people working in concert, you’d have one guy making all the decisions, with nine people reviewing them after the fact. That would mirror old-fashioned hierarchic military organization, with the alpha male calling the shots and the lesser doggies falling into line. But if that happened, you’d just wasted a lot of time and money, and risked ten brains in surgery, for no advantage. A soldierboy platoon was like one huge machine that could take over acres of battlefield, making instant decisions with a kind of gestalt intelligence. It was eerie to watch, but became less and less strange to be part of.
+We had the minor surgery that took care of nutrition, hydration, and excretion, recovered for a couple of days, and then went out on our first “field exercise”—in the middle of enemy territory.
+The ten of us, of course, were safe underground, in a bombproof bunker in Portobello. But our soldierboys walked out ten miles beyond the perimeter, where any pedro could risk his life and attack. But there was an experienced hunter-killer platoon in a protective circle around our machines. Safer than sitting at home, watching it on the cube. You could get struck by lightning there.
+We had two more walkabouts like that, never confronting an enemy, and then Basic was over, and we could go home for twenty days. None of us went straight home, though. We had to try the jack joints that ringed the base at Portobello.
+At a jack joint, you could pay to plug into other people’s experiences. A lot of them were records of soldierboy battle encounters, which we didn’t have to pay for, thank you. The flyboy crystals did look appealing, “being” an aircraft capable of banks and dives and accelerations that no human pilot could execute.
+But apart from the military ones, there were adventure crystals, of people doing dangerous things in odd places, and “appetite” ones, where you could experience food and drink you could never afford. There were even suicide crystals, for the most extreme experience possible, though you had to sign a waiver before they’d let you enjoy it, in case you empathized enough to die yourself. It was the ultimate in something, like that Japanese sushi with natural neurotoxins that will kill you if the chef makes a mistake.
+And of course there was sex. Sex with beautiful people who in real life would never even say hello to you, sex in places where you would be arrested if they caught you, daredevil sex, weird sex, sweet and sour and salty sex.
+Sex with Carolyn.
+During training they only jacked you through cages, to get used to it, so you couldn’t physically touch anyone you were jacked with. Most of the jack joints outside the base only offered solitary experiences, but in a few expensive ones, two people could jack together in real time, in private. Sort of like the motels in Rock City, though they advertised environmentos sanitos rather than clean sheets, and charged by the minute rather than the hour.
+We asked around and went to Celito Lindo, a place that did look clean. The women who hovered around the entrance, so-called jills, didn’t molest us, but stared deeply at me, and some at Carolyn: if you think it’s good with an amateur, come back and try it again with a pro.
+The mamacita in charge was fat and jolly, and told us the rules: Timer starts the second you close the door, and stops when you come back to the desk and pick up your credit card. Lie there and murmur sweet nothings; they cost the same as sweet somethings.
+I asked her whether people ever burst out of the room stark naked, and sprint for the credit card. “I have them arrested for indecent exposure,” she said, “unless I’m extremely entertained.” I decided not to press my luck.
+The room was small and clean and smelled heavily of jasmine. There was nothing in it but a large bed with a pile of pillows. The sheet felt like freshly starched cotton, but was dispensed by a practical and unromantic roller.
+We’d had sex a couple of hours earlier, so it wouldn’t be over immediately, but we were both more than ready when we shucked our clothes and jacked and fell into bed. I kissed and tasted her all over, feeling our mutual tongue on the skin we shared. When we tasted me inside of her, I shared her orgasm, but kept just enough “I” not to ejaculate.
+She straddled me and slid back and forth once, and I snapped into her with the springy force of a horny teenager. She held my hips still, telling me wordlessly not to thrust, and for a few moments we merged completely, as I flowed into her and she into me, until neither of us could stand it, and we bucked so hard we rolled off the bed, and lay there gasping.
+“Nice carpet,” she said while we felt our skin against the rough pile. One of us had bruised a hip in the fall. When we unjacked, I realized it was hers.
+“Sorry,” I said. “Clumsy.” She stroked my retreating dick.
+“That musta been at least ten seconds,” she said huskily. “Why don’t you put on some pants and go get your card.”
+We went to the Celito Lindo three more times, and once tried Falling In Love, where you made love, or had sex, during an endless fall from an airplane, and floated gently to earth afterward. But then we did have to literally get back down to earth, Carolyn to her studies and me to my measurements and equations.
+Parting was like losing a limb, or part of your mind, but knowing you’d be whole again in three weeks.
+I tried to explain it to Blaze, the first day I was back. We were having coffee in a quiet corner of the Student Center.
+“You know what it sounds like,” she said, “and I’m just being an old mother hen here . . . but it’s like you had an intense summer romance, rendered even more intense by the pressure of the military environment, and then the jacking squared it, and then making love while you were jacked cubed it. But you can square x and cube x, and it’s still x.”
+“Still just an infatuation.”
+She nodded. “You really think it will last forever, though.”
+“As much of forever as we get.”
+She sipped her coffee, still nodding. “The Siamese-twin aspect. That’s a little creepy.”
+I laughed. “It is. It’s really impossible to explain in words.”
+She stared at me in a funny way. “Wish I could try it. I’m just jealous.” Maybe I blushed. “Not of Carolyn, silly. Of you both, of the whole experience.”
+Blaze would lose her grant and her job if she got jacked. Most contracts for intellectual jobs had no-jacking clauses, for obvious reasons; I was protected because my military jack wasn’t voluntary. The operation for jacking wasn’t even legal in the States for civilians, though hundreds crossed the border every day to have it done.
+I had tremendous respect for Blaze, and wanted so much for her to understand. But I suppose it was like a deeply religious person trying to explain her ecstasy to someone like me, before. Samantha was like that, and I understood her instantly, below the level of words, the moment we jacked together. As she understood me, and forgave my unbelief.
+Blaze did have legitimate professional concerns, because I was far from being an ideal coworker. I couldn’t concentrate well. At some level, I was never not thinking about Carolyn, and at another level it had to show. I couldn’t look at a calendar without counting the days until I gave up my freedom again.
+“Why don’t you take the weekend off and go to Georgia?” Blaze said on Thursday morning. “Can’t you soldierboys fly for free?”
+I was a mechanic, and the machine was a soldierboy, but it was a mistake often made. “I was planning to work over the weekend, catch up.”
+She laughed. “Why don’t you catch up with Carolyn instead? The Jupiter Project will lurch along somehow without you.”
+I wasn’t happy about being so transparent, but couldn’t pass it up. I called Carolyn and she was ecstatic. Her roommate agreed to get lost for a few days, and I got booked on a transport headed for Macon Friday afternoon.
+It turned out strange. Of course, there was no place to jack in Macon, and we were back to basics. We had the unspoken assumption that that would be enough, but in fact, it wasn’t. I wasn’t impotent, exactly, and she wasn’t unreceptive, exactly. But early Saturday morning we took a bus to Atlanta and got a cheap room a couple of blocks from the jack joints outside Fort McPherson.
+The Stars and Stripes Forever was the cheapest place, no frills, which was fine with both of us. Sunday morning, though, we counted our pennies and splurged on Private Space, which gave the illusion of zero gravity, surrounded by whirling galaxies, and that was extraordinary.
+We did talk a little bit about it. It was unsettling, but we agreed it was in large measure the fact that jacking was still new to us. We parted very much in love, but a little shaken by the contrast between the normal and enhanced states.
+Making love in her apartment, we’d both been fantasizing like mad about the previous week.
+In a couple of weeks, we were on our first independent combat mission.
+Bravo platoon was H&I, a Harassment and Interdiction unit. So our main job was to go in there and screw things up for the enemy. Confusion rather than killing.
+In this case, our assignment was a little focused chaos. The Ngumi had put together a command center in a remote valley in Costa Rica, laboriously carrying in equipment and munitions by night, by hand. No heat signature visible from above the tree canopy. They didn’t know yet that we had seeded the entire countryside with microscopic olfactory devices whose simple job was to ping their location when a sweating human walked by. So we knew exactly where the enemy was and what trails they had taken.
+We stayed off those trails. If you’re careful and slow, you can move the heavy soldierboy through pretty thick brush without a sound. I guided the ten of us up both sides of the main trail, averaging about one mile per hour. Twice, their patrols tip-toed right through our platoon without noticing us, our suits set on camo in the dark.
+Arlie got to their perimeter first. She stood quietly a few yards away from a dozing sentry while the rest of us encircled the camp. I was poised to start the attack instantly, if one of us was detected, but we all got into place without a hitch.
+I was nominally in charge, but all ten of us were essentially wired in parallel. At my thought, we all attacked at once.
+No weapons at first but light and sound: ten lights much brighter than the sun; ten deafening speakers shrieking a dissonant chord. Then a billow of gas from ten directions.
+They were out of their tents firing wildly, but almost all took one breath of KO gas and fell unconscious. Two had been able to don gas masks. Mel took one and I took the other. Knocked away his rifle and tapped him on the chest, which flung him to the ground. I pulled off his gas mask and tossed it away, and moved with the others to the central objective, a tetrahedral mini-fort of some bulletproof plastic. They’d evidently brought it up piecemeal and glued it together.
+Our forces had encountered them in the African desert (invisible to radar and tough on flyboys), but this was the first one we knew of in Costa Rica. They fired 155-mm. explosive armor-piercing shells, which could disable a soldierboy, but the barrel was external. It spun around fast, but we could anticipate it and duck. They were firing dumb shells, fortunately.
+We could just keep ducking and dodging until he ran out of ammunition, but he was firing all over the place, and liable to kill some of his own people, or civilian mules. So Carolyn and I fried two corners of the thing with lasers, re-aiming several times a second as we evaded its fire, which finally heated up the inside and filled it with burning-plastic fumes. A door popped open and two people spilled out, coughing. We KO’ed them, too, and then gathered up all the sleeping bodies and stacked them. Then we lasered a clearing out of the forest to use as a landing zone, and called for a chopper to come get them.
+From turning on the lights to loading the “captives” aboard the chopper, it was about twelve minutes. No casualties.
+Mel was not able to hide his resentment at that. Thanks . . . we’re still virgins. He apologized, but it hung in the air.
+I would have called it a textbook-perfect operation, but while we were waiting for pick-up, we got the word from the officers’ review board, which had been hooked up with us for evaluation. Three out of the seven thought we should have destroyed the mini-fort and its two occupants immediately, before they could harm a soldierboy or bystanders.
+Okay, I thought, you come down and kill them. While the soldierboys were on the chopper back, and we were unjacked in the relative privacy of the situation room, we chewed that over. Seven of the platoon agreed with me, predictably; all but Mel and Sara. The disagreement was mild, though; they said they would have done it differently, but it was my call. They didn’t think much of the long-distance quarterbacking.
+Of course, the officers had really been no farther from the action than we were.
+They gave us Sunday afternoon off, and I managed to get an advance in pay (borrowing against it, actually; paying the government ten percent interest) so we could go downtown and jack.
+It was called the Hotel de Dream. An uninhabited desert island this time, and I paid ahead for thirty minutes, so after we made love in the low morning sun, we swam in the warm water for a few minutes, and then sat and held each other while the gentle surf rolled over us. It was jarring when the time ran out suddenly and we were in that hard plain bed, hardly even touching.
+No money for a hotel room. We had hot dogs for dinner and a couple of beers, and then walked back to the base and our separate beds.
+Blaze was amused but shook her head. “You’re in for four years, ten days at a time?”
+“Yeah. I see what you mean.” We were alone at the coffee place, mid-morning.
+“By the time you get out, you’ll owe the army a million dollars. At ten percent interest.” I could just shrug, and I guess smile sheepishly.
+“You know it’s like addictive behavior. If the army had gotten you hooked on DD’s, we’d be down there with a brace of lawyers, getting you pulled from service and into detox. But they’ve got you hooked on love!”
+“Come on . . . ”
+“Try to be objective about it. I know Carolyn’s a nice girl and so forth—
+“Watch out, Blaze.”
+“Listen to me for just one minute, okay?” She took out her notebook and clicked a couple of times. “Do you know what your brain chemistry looks like when you go down to that Motel de Dream?”
+“Hotel. Pretty strange, I suppose.”
+“Not strange at all. It’s a seething stew of oxytocin, serotonin, and endogenous opioids. Your vasopressin receptors are wide open. You would be totally juiced even if Carolyn was a gerbil!”
+I could feel myself almost grinning. “Nice job of objectifying it. But if you haven’t been there, you just don’t know. It really is love.”
+“Okay. So do me a favor. Do it with one of the other women. Watch yourself fall in love with her.”
+“No.” Just the thought was disgusting. “Blaze, that’s awful. It’s like I was a lovesick teenager, and Dad gives me a wad of money to go to a whorehouse and get it out of my system.”
+“Nothing like that. I just want you to engage your critical side, your objectivity.”
+“Yeah. That always works with love.”
+We didn’t talk about that any more that month—or much else. I went to the airport alone.
+Carolyn and I had one embrace, and then off to the cages.
+It was a routine show of force. The governor-general of Panama, our well-loved puppet, was giving a speech in Panama City, and we were there to stand at attention and look ominous. Which we did, I had to admit, nine of the soldierboys set to “camouflage” in the bright sun. That didn’t hide them; it made them glittering, shifting statues you couldn’t quite focus on. Scary. My own soldierboy, platoon leader, was shiny black.
+Our presence wasn’t really needed, except for the press. The crowd was hand-selected, and applauded and cheered on cue, no doubt eager to have it over with and get back into the air conditioning. It was in the high nineties and steamy still.
+Do you feel warm? Carolyn asked without words. I thought back that it was psychosomatic, sympathy for those poor proles outside, and she agreed.
+Then the speech was over, and we got together in a line for our dramatic exit. It was a routine extraction, but it was a good demonstration of our inhuman strength: we stood shoulder-to-shoulder with our left hands raised, and a cargo helicopter with a retrieval bar came swooping in, churning along below treetop-level at more than a hundred miles per hour, and snatched us away. It would have torn off a human’s arm, but we hardly felt it.
+Carolyn’s output suddenly went black, apparently unplugged by the mechanical shock. “Carolyn?” I said over the emergency vocal circuit.
+When she didn’t respond, I asked permission to disengage. There was no reason for us to stay in the soldierboys, other than the convenience of walking them to storage after we landed. My request wasn’t answered by Command. They were probably off fighting a war someplace, I figured.
+So we landed by the service bay and walked our machines in. Carolyn’s wasn’t under her control, obviously; the soldierboy normally mimicked her natural physical grace. This time it staggered like a cartoon robot, some tech moving it with a joystick.
+I popped our cages and we were suddenly in the real world, naked and sweaty, joints popping as we stretched.
+Carolyn’s cage was open but she wasn’t there.
+One person in the room was dressed, a medical officer. She walked over. “Private Collins had a massive cerebrovascular failure, just prior to extraction. She’s in surgery now.”
+I felt the blood chase away from my face and arms. “She’ll be all right?”
+“No, sergeant. They’re trying, but I’m afraid she’s . . . well, she’s clinically dead.”
+I sat down on the edge of the cage base, hard concrete, my head spinning. “How is that different from plain dead?”
+“She has no higher brain function. We are contacting her next of kin. I’m sorry.”
+“But . . . I—I was in her brain just minutes ago.”
+She looked at her clipboard. “Time of death was 13:47. Twenty-five minutes.”
+“That’s not enough time. They bring people back.”
+“They’re trying, sergeant. Mechanics are too valuable to throw away. That’s all I can tell you.” She turned to go.
+“Wait! Can I see her?”
+“I don’t know where she is, sergeant. Sorry.”
+The others had gathered around me. I was surprised I wasn’t crying, or even trying not to cry. I felt gut-punched, helpless.
+“She’s gotta be at the base hospital,” Mel said. “Let’s go find her.”
+“And do what?” Candi said. “Get in the way?” She sat down next to me and put an arm around my shoulders. “We should go into the lounge and wait.”
+We did, me walking like a zombie. Like a soldierboy without a mechanic. Lou got a credit card from his locker and bought us all beers from the machine. We dressed and drank in awkward silence.
+Akeem didn’t drink. “Sometimes one wishes one could pray.” Samantha looked up from her meditation, and nodded. The rest of us just drank and watched the door.
+I got up to buy a round and the medical officer came back. I took one look at her eyes and collapsed.
+I woke up suddenly in a hospital bed, like a noiseless splash of ice water. A nurse stepped away with a hypodermic, and behind her was Blaze.
+“What time is it?”
+“Five in the morning,” she said. “Wednesday. I came as soon as I heard, and they said they were about to wake you up anyway.” She picked up a plastic cup and held the straw toward me. “Water?”
+I shook my head no. “What, I just passed out? Twelve hours ago?”
+“And they gave you something, to help you sleep. It’s what they do, when someone has a loss like yours.”
+It all came back and hit me like a car. “Carolyn.” She took my hand in both of hers and I jerked it away. Then I sat partway up and took her hand back.
+I closed my eyes and I was floating, falling. Maybe the drug. I swallowed, and couldn’t find my voice.
+“They said you’re on compassionate leave for the rest of the month. Come home with me.”
+“What about my people? My platoon?”
+“Most of them are waiting in the hall. They let me come in first.”
+I sat up and held her, she held me, until I was ready to see my mates. They came in as a group, and Blaze waited outside in the hall while we made a wheel, each right arm a spoke. Mel and Candi and Samantha whispered a few words, but it was more the silent communion than any specific sentiment, that gave me a place to be. A place where I could breathe for awhile.
+Blaze took me home with her, and after some long time, I was her lover rather than the friend who needed a strong arm, a soft breast. Later on, we laughed because neither of us could remember the exact night, or afternoon or morning, when it became sex. But I think I know when it became love.
+The army counselor I’d been going to said I should see my loss as a wound, which had to be protected by stitches, which is to say a set of responses that could protect me while it healed. Stitches that would fall away when they were no longer needed.
+But Blaze, a doctor of physics rather than of medicine, said he didn’t understand. There are wounds too large to close with stitches. You have to leave them open, and protect them, while keloid tissue grows over them. Keloid tissue doesn’t have normal nerve endings. It keeps you alive, but numb.
+That’s where I am, years later. For ten days each month, I lock myself into the cage that gives me superhuman power. The rest of the time, I have her calm and sweet acceptance of the loss that will always be my center.
+The soft cage of arms and legs that protects me, and gives me a measure of amnesia.
+Originally published in Warriors, edited by Gardner Dozois and George R. R. Martin.
+Born in Oklahoma City, Oklahoma, Joe Haldeman took a B.S. degree in physics and astronomy from the University of Maryland, and did postgraduate work in mathematics and computer science. But his plans for a career in science were cut short by the U.S. Army, which sent him to Vietnam in 1968 as a combat engineer. Seriously wounded in action, Haldeman returned home in 1969 and began to write. By 1976, he had garnered both the Nebula Award and the Hugo Award for his famous novel The Forever War, one of the landmark books of the '70s. He has since won four more Hugo Awards, another four Nebula Awards, the James Tiptree, Jr. Award for his novel Camouflage, the SFWA Grandmaster Award, and has been inducted into the Science Fiction Hall of Fame. His other books include a mainstream novel, War Year, the SF novels Mindbridge, All My Sins Remembered, Worlds, Worlds Apart, Worlds Enough and Time, Buying Time, The Hemingway Hoax, Tools of the Trade, The Coming, 1969, Old Twentieth, The Accidental Time-Machine, Marsbound, and Starbound. His short work has been gathered in the collections Infinite Dreams, Dealing in Futures, Vietnam and Other Alien Worlds, None So Blind, A Separate War and Other Stories, and an omnibus of fiction and non-fiction, War Stories. His most recent books are a new science fiction novel, Earthbound, and a big retrospective collection, The Best of Joe Haldeman. Haldeman lives part of the year in Boston, where he teaches writing at the Massachusetts Institute of Technology, and the rest of the year in Florida, where he and his wife, Gay, make their home.

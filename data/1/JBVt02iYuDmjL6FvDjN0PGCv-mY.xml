@@ -1,0 +1,290 @@
+<doc sitename="Clarkesworld Magazine" title="Clarkesworld Magazine - Science Fiction &amp; Fantasy" author="Susan E Connolly" date="2022-01-01" source="https://clarkesworldmagazine.com/connolly_06_14a/" hostname="clarkesworldmagazine.com" excerpt="Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: The Issue of Gender in Genre Fiction: The Math Behind it All by Susan E. Connolly" categories="" tags="" fingerprint="BymjCycjJsTjV0LvIrR8RM4Lu+0=">
+  <main>
+    <p>Non-Fiction</p>
+    <head rend="h1">The Issue of Gender in Genre Fiction: The Math Behind it All</head>
+    <p>Editor’s Note: Knowing that some people will be curious about the math behind Susan’s piece, we asked her to provide something a bit more technical for those more mathematically inclined among us.</p>
+    <p>Key Points for Understanding</p>
+    <list>
+      <item>Publications refers to prose fiction published by a market, including reprints and solicited stories.</item>
+      <item>Each publication is treated separately. Three publications by one market of stories by one author count as three separate data points for that category.</item>
+      <item>Dual-authored stories by a man-woman team are considered as half a data point for each category.</item>
+      <item>Serials are treated as follows:</item>
+      <item>Each installment is a separate data point for publications.</item>
+      <item>The series as a whole is one data point for acceptances.</item>
+      <item>Not all markets provided full data in all categories, which meant they had to be excluded from some analyses, or have their data transformed. This is not ideal, but such cases are marked.</item>
+      <item>No market in this study asks for authors to identify their gender when submitting. As such, this is not actually a study of science fiction publication and submission gender. Rather, it is a study of the apparent gender of submission authors based on:</item>
+      <item>Use of gender-associated first names</item>
+      <item>Use of gendered pronouns in public biographies</item>
+      <item>Public information about gender identity</item>
+      <item>The definition of “science fiction” is not easy. While some markets kept detailed data on science fiction vs. science fiction/fantasy vs. slipstream, most did not. As such, all such categories were considered as “science fiction.”</item>
+      <item>Specific notes on individual markets regarding publications:</item>
+      <item>Lightspeed operates a policy of gender parity in publications.</item>
+      <item>Buzzy Mag operates as a continuous publication, with publications here those with a published date of 2013.</item>
+      <item>The F&amp;SF Special Issue has not yet been published.</item>
+    </list>
+    <table>
+      <row>
+        <cell>Market</cell>
+        <cell>Time Period</cell>
+        <cell>Data Verified by Editor</cell>
+        <cell>Genre</cell>
+      </row>
+      <row>
+        <cell>AE</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Science fiction only</cell>
+      </row>
+      <row>
+        <cell>Analog</cell>
+        <cell>June 2013—May 2014</cell>
+        <cell>Yes</cell>
+        <cell>Science fiction only</cell>
+      </row>
+      <row>
+        <cell>Apex</cell>
+        <cell>Year 2013</cell>
+        <cell>No</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Asimov’s</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Bull Spec</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Buzzy Mag</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Clarkesworld</cell>
+        <cell>Year 7 (October 2012-September 2013)</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Daily Science Fiction</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Escape Pod</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Science fiction-only</cell>
+      </row>
+      <row>
+        <cell>F&amp;SF</cell>
+        <cell>Year 2013</cell>
+        <cell>No</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>F&amp;SF Special Issue</cell>
+        <cell>July/August Special Issue</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Flash Fiction Online</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>IGMS</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Lightspeed</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Nature</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Science fiction only</cell>
+      </row>
+      <row>
+        <cell>Strange Horizons</cell>
+        <cell>Year 2013</cell>
+        <cell>Yes</cell>
+        <cell>Mixed genre</cell>
+      </row>
+      <row>
+        <cell>Tor.com</cell>
+        <cell>Year 2013</cell>
+        <cell>No</cell>
+        <cell>Mixed genre</cell>
+      </row>
+    </table>
+    <head rend="h3">A1: Publications by Gender</head>
+    <p>Across seventeen markets, the total number of published stories was 996: 559.5 by men, 422.5 by women, 1 non-binary and 13 unknown.</p>
+    <p>The gender ratio was therefore 56.2% men, 42.4% women, 0.1% non-binary and 1.3% unknown.</p>
+    <p>Hypothesis: publications by men are equally likely as those by women to be above the median or not above the median.</p>
+    <p>Given a median of 50%, each market was assessed for whether its publications by men and publications by women were above or not above that median.</p>
+    <table>
+      <row>
+        <cell>Median chi-square total publications</cell>
+      </row>
+      <row>
+        <cell>Category</cell>
+        <cell>Authors who are men</cell>
+        <cell>Authors who are women</cell>
+        <cell>Total</cell>
+      </row>
+      <row>
+        <cell>Above median</cell>
+        <cell>9</cell>
+        <cell>7</cell>
+        <cell>16</cell>
+      </row>
+      <row>
+        <cell>not above median</cell>
+        <cell>8</cell>
+        <cell>10</cell>
+        <cell>18</cell>
+      </row>
+      <row>
+        <cell>Total</cell>
+        <cell>17</cell>
+        <cell>17</cell>
+        <cell>34</cell>
+      </row>
+    </table>
+    <p>Results:</p>
+    <list>
+      <item>chi square value: 0.472</item>
+      <item>With a probability of 0.05 (or 95%) I have a critical value of 3.84.</item>
+    </list>
+    <p>Therefore I cannot reject our initial hypothesis.</p>
+    <p>Hypothesis: There are no significant differences in gender ratios relationship between markets.</p>
+    <p>To test this hypothesis, I performed a chi-square test between the variables of “market” and “gender ratio.”</p>
+    <p>Results:</p>
+    <list>
+      <item>chi sq: 92.65</item>
+      <item>With a probability level of .001 (or 99.9%) our critical value is 39.25.</item>
+    </list>
+    <p>Therefore I can with confidence reject the hypothesis.</p>
+    <head rend="h3">A2: Science Fiction Publications by Gender</head>
+    <p>I performed the same tests for published science fiction stories.</p>
+    <p>Across seventeen markets, the total number of published science fiction stories was 639: 395 by men, 235 by women, 0 non-binary and 9 unknown.</p>
+    <p>The gender ratio was therefore 62.1% men, 36.5% women, 0% non-binary and 1.4% unknown.</p>
+    <table>
+      <row>
+        <cell>Median chi-square science fiction publications</cell>
+      </row>
+      <row>
+        <cell>Category</cell>
+        <cell>Authors who are men</cell>
+        <cell>Authors who are women</cell>
+        <cell>total</cell>
+      </row>
+      <row>
+        <cell>Above median</cell>
+        <cell>9</cell>
+        <cell>6</cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell>Not above median</cell>
+        <cell>8</cell>
+        <cell>11</cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell>Total</cell>
+        <cell>15</cell>
+        <cell>15</cell>
+        <cell>30</cell>
+      </row>
+    </table>
+    <p>Results:</p>
+    <list>
+      <item>Our median chi square result was 1.07.</item>
+    </list>
+    <p>Therefore I cannot reject the null hypothesis.</p>
+    <p>Hypothesis: There are no significant differences in gender ratios relationship between markets for science fiction stories.</p>
+    <list>
+      <item>Our chi-square result was 46.82.</item>
+      <item>With a probability level of .001 (or 99.9%) our critical value is 39.25.</item>
+    </list>
+    <p>Therefore I can with confidence reject the null hypothesis.</p>
+    <head rend="h3">A3: Science Fiction Story Publication Split by Genre of Market:</head>
+    <p>Across four markets that published only science fiction, the total number of published science fiction stories was 253: 182 by men and 71 by women. This gives a gender ratio of 71.9% men, 28.1% women, 0% unknown.</p>
+    <p>Across thirteen markets that published other genres in addition to science fiction, the total number of published science fiction stories was 386: 213 by men, 164 by women and 9 unknown. This gives a gender ratio of 55.2% men, 42.5% women and 2.3% unknown.</p>
+    <p>Hypothesis: there is no correlation between a market publishing only science fiction, and a greater proportion of science fiction stories by men.</p>
+    <p>To assess this hypothesis, I used a point-biserial correlation. Our result was 0.54 (considered moderate).</p>
+    <p>Is this significant? I performed a T test for independent means to get a T-value of 2.46, with a P-value of 0.01. At the 95% probability for a one tailed t test the critical value is 1.753.</p>
+    <p>Therefore I can reject the null hypothesis.</p>
+    <head rend="h3">A4: Non-Science_Fiction-Only Publications – Gender Split of Total Pubs vs. Gender Split of Science Fiction Pubs</head>
+    <p>Using a Pearson’s Correlation analysis I found an R value of 0.8863 (considered a strong positive correlation.)</p>
+    <p>So there is a tendency for markets which publish a high proportion of overall stories by men to publish a high proportion of science fiction stories by men (and vice-versa.)</p>
+    <head rend="h3">A5: Story Publication Split by Gender of Senior Editor</head>
+    <p>Note: One senior editor identifies as a genderqueer woman for political purposes and was included in the “woman” category for these assessments.</p>
+    <p>Across eight publications with men only as senior editor total stories published was 434, with 280 by men and 154 by women.</p>
+    <p>The gender ratio was therefore 64.52% men, 35.48% women.</p>
+    <p>Across five publications with women only as senior editor total stories published was 210, with 108.5 by men, 99.5 by women, 1 non-binary and 1 unknown.</p>
+    <p>The gender ratio was therefore 51.67%% men, 47.38% women.</p>
+    <p>Across four publications with mixed-gender editorial total stories published was 352 stories, with 171 by men, 169 by women, and 12 by unknown.</p>
+    <p>The gender ratio was therefore 48.58% men, 48.01% women and 3.41% unknown.</p>
+    <p>Hypothesis: Men-only senior editorial teams are not more likely to publish authors who are men.</p>
+    <p>I got a point-biserial correlation coefficient of 0.42, (considered moderate.)</p>
+    <p>I ran a T test for independent means to get a value of 1.80.</p>
+    <p>At the 95% probability for a one tailed t test the critical value is 1.75.</p>
+    <p>Therefore I can reject the null hypothesis.</p>
+    <head rend="h3">A6: Science Fiction Story Publication Split by Gender of Senior Editor</head>
+    <p>I performed the same tests for science fiction stories.</p>
+    <p>Across eight publications with men only as senior editors, total science fiction stories published was 320, with 210.5 by men and 109.5 by women.</p>
+    <p>The gender ratio was therefore 65.78% men, 34.22% women.</p>
+    <p>Across five publications with women only as senior editors, total science fiction stories published was 110, with 70.5 by men, 39.5 by women.</p>
+    <p>The gender ratio was therefore 64.1% men, 35.9% women.</p>
+    <p>Across four publications with mixed-gender editorial teams, total science fiction stories published was 205, with 117 by men, 79 by women, and 9 by unknown.</p>
+    <p>The gender ratio was therefore 57.07% men, 38.54% women and 4.39% unknown.</p>
+    <p>Hypothesis: Men-only senior editorial teams are not more likely to publish science fiction stories by men.</p>
+    <list>
+      <item>Point biserial correlation coefficient – 0.30 (moderate).</item>
+      <item>Student t-test – 1.21.</item>
+      <item>At the 95% probability for a one tailed t test the critical value is 1.75.</item>
+    </list>
+    <p>Therefore, I cannot reject the null hypothesis.</p>
+    <p>Given the percentage difference, there may be a correlation between mixed-gender editorial teams and a smaller proportion of authors who are men.</p>
+    <p>Hypothesis: Single-gender senior editorial teams are not more likely to publish science fiction stories by men.</p>
+    <list>
+      <item>Point biserial correlation coefficient – 0.34 (moderate).</item>
+      <item>Student t-test – 1.42.</item>
+      <item>At the 95% probability for a one tailed t test the critical value is 1.75.</item>
+    </list>
+    <p>Therefore, I cannot reject the null hypothesis.</p>
+    <head rend="h3">A7: Story Publication Split by Average Age of Senior Editorial Team</head>
+    <p>Four publications declined to provide age data: Apex, Nature, Buzzy Mag, Tor.com. This analysis used a Pearson’s correlation.</p>
+    <p>Mean Age vs. Total Publications by Men %</p>
+    <p>The value of R is 0.3198. This is technically a positive correlation, but the relationship is weak.</p>
+    <p>The value of R2, the coefficient of determination, is 0.1023.</p>
+    <p>Mean Age vs. Science Fiction Publications by Men %</p>
+    <p>The value of R is -0.0082. This is technically a negative correlation, but the relationship is weak.</p>
+    <p>The value of R2, the coefficient of determination, is 0.0001.</p>
+    <p>Median Age vs. Total Publications by Men %</p>
+    <p>The value of R is 0.3281. This is technically a positive correlation, but the relationship is weak.</p>
+    <p>The value of R2, the coefficient of determination, is 0.1076.</p>
+    <p>Median Age vs. Science Fiction Publications by Men %</p>
+    <p>The value of R is -0.0036. This is technically a positive correlation, but the relationship is weak.</p>
+    <p>The value of R2, the coefficient of determination, is 0.</p>
+    <p>Susan E. Connolly's short fiction and non-fiction have appeared in Strange Horizons, Daily Science Fiction, The Center For Digital Ethics and the fanzine Journey Planet. She is the author of Damsel, a middle-grade fantasy from Mercier Press and Granuaile, an upcoming historical comic book from Atomic Diner. Her degree in Veterinary Medicine given her strong opinions about the accurate portrayal of animal sidekicks in fiction. Susan lives in Ireland, near the mountains. Also near the sea. Also near the forest (Ireland is a small country).</p>
+  </main>
+  <comments/>
+</doc>

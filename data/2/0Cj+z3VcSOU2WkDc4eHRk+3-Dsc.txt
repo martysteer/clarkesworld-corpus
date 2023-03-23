@@ -1,0 +1,453 @@
+11420 words, novelette, REPRINT
+Technarion
+As monsters go, I am not at all typical. I have killed hundreds, but my motives were good. There is a lot more killing to be done, probably more than even I can manage. Then again, I might become an even greater monster and give up. Humans probably deserve what is to come, and I no longer care. After all, I am not a typical human, either.
+In the spring of 1875 I was a bright and innocent young man with good prospects. Although steam was the foundation of every branch of industry, I had chosen to study electricity when I had entered the mechanics institute. By chance I had been given a good education, and this had kept me out of the mills and the mines. I never suspected that it would also make me immortal.
+My introduction to James Kellard was dramatic in the extreme. I worked for Telegraphic Mechanisms, a company which supplied equipment to the telegraph industry. While I was well known and widely respected as an outstanding tradesman, it was not the sort of respect that got one admitted to the Royal Society.
+I had just arrived at my workbench one morning when Merric, my overseer, entered with a man of perhaps fifty. He was dressed in one of the newly fashionable lounge suits, and the top hat that he wore declared him to be a man of quality. He had a military bearing, and there was an old scar across his left cheek.
+“Lewis, I want you to meet Mr. Kellard,” Merric babbled nervously, not really sure of the protocols used in genteel society. “Mr. Kellard, this is Lewis Blackburn.”
+I had stood up by now. Kellard offered me his hand, but without removing his glove. He was being familiar, but not too familiar. In 1875, this was the way things were done.
+“Mr. Kellard wishes to discuss some problems of electro-mechanics,” Merric continued.
+“I can’t do that, begging your pardon, sir,” I said, addressing Kellard. “The terms of my employment—”
+“No longer matter,” said Kellard. “I have just bought Telegraphic Mechanisms. You may leave us, Mr. Merric.”
+As introductions go, it certainly secured my attention. Telegraphic Mechanisms was not a small company, and financially it was on good times. Kellard said no more until Merric was out of earshot.
+“Do you know of me?” he asked, bending over to examine a switch on my workbench.
+“No sir,” I replied, as deferential as if I were standing before the queen.
+“I doubled my fortune by being first to spot trends in the marketplace. Just now I happen to know that electrical switches will gain me great advantage, so I am buying companies that build them.”
+“I can build whatever—” I began.
+“Please, hear me out,” said Kellard politely, but his tone told me to just shut up and listen. “This is Birmingham, and I need my switches made in London. I only bought this firm to secure your services, Mr. Blackburn. Can you move to London today?”
+The only sensible answer to that question was yes, yet that was not my answer.
+“I’ve got a mother and two sisters to support,” I began.
+“I shall double your salary, your mother and sisters will want for nothing. What do you say?”
+“Double!” I exclaimed. “Sir, how can I thank you enough?”
+“You could give me an answer, yes or no.”
+“Yes sir, yes. Yes with all my heart.”
+I traveled with Kellard on the train to London that same day, in the luxury of a first class carriage. I felt guilty about even sitting down, the upholstery was too rich, the seats too soft and welcoming. It was only in the privacy of this carriage that Kellard began to speak of my new duties.
+“I am having a machine built,” he explained. “It is a huge, highly secret machine, so an absolute minimum number of people may know of it. I have heard that you are brilliant with circuits, and are worth ten ordinary workers.”
+“Someone’s been exaggerating, sir.”
+“I hope not, because you will be doing enough work for ten. I need someone with unparalleled skill in the logic of switches and relays, and a grasp of mathematics.”
+“What’s the machine to do?” I asked.
+“See into the future.”
+For a moment I was tempted to laugh. One of the richest men on the country had said something ludicrous. Was it meant to be a joke? I decided not to laugh.
+“So . . . it’s a time machine?” I asked.
+“No, it is more of a time telescope. Now no more questions until we reach my factory.”
+Everyone has heard of the wonders of London, but I did no sightseeing on that first day. One of Kellard’s people was waiting at the station with a hansom cab, and we were driven through the crowds and traffic with the shutters down. We stopped at a factory beside the Thames. It was empty, yet there were men guarding it. Whatever Kellard was building was at a very early stage. He took me inside, and led me up the stairs to a mezzanine floor, then we continued up a cast iron spiral staircase to the roof.
+“Look around, Mr. Blackburn, what do you see?” Kellard asked.
+I saw slate tiles and iron guttering, all grubby with soot. Off to one side, some bricklayers were building four chimneys. Their work looked nearly complete.
+“It’s just a roof, sir,” I said, holding onto my cap in the wind. “There’s four flagpoles with no flags, but they’re hung with . . . insulators, and wire! The poles support insulated wires.”
+“Splendidly observed,” said Kellard. “What does that mean to you?”
+“It’s some sort of telegraph?”
+“Close, Mr. Blackburn, very close. Follow me.”
+We descended back into the factory. Immediately beneath the roof, on the mezzanine floor, was a small office guarded by two men. Kellard escorted me inside. The man seated at the workbench was small and wiry, and had mutton chop whiskers and thinning hair. The stare behind his spectacles was rather like that of an owl who had just caught sight of a mouse—intense, darting, but controlled. I had only ever seen him from the back of lecture halls, but even so I knew his face.
+“Dr. Flemming, I would like you to meet Lewis Blackburn,” said Kellard.
+“Mr. Blackburn, good, good,” said Flemming. “Your name was at the top of my list.”
+I was so awestruck that I hardly knew what to say. I mumbled something about being honored to meet him.
+“Please, no social pleasantries,” he said briskly. “They are for fools with nothing better to do. I have been conducting experiments into wireless telegraphy, Maxwell’s equations show it’s possible in theory. As always, practice is another matter.”
+“Do you know what a working wireless telegraph would mean?” asked Kellard.
+“No more wires strung across the country,” I replied. “Thousands of pounds saved.”
+“Millions,” said Kellard.
+“Lightning produces electromagnetic discharges, what I call radiative waves,” Flemming continued. “Using the great wire loop on the roof I am able to detect these waves, even when the thunderstorms are over the horizon. What do you think of that?”
+“It proves theory,” I said slowly. “Have you built a transmitter too?”
+I was being cautious, and was acutely aware that I was being tested and assessed. If I had just gasped with wonder, I would have been put on the first train back to Birmingham, in a third class carriage. Kellard might have been my fairy godmother, but unlike Cinderella, I had to prove that I knew some very advanced electrical theory.
+Flemming cleared his throat and glanced at Kellard, who took the cue.
+“At first I ordered Dr. Flemming to suspend work on the transmitter, and refine the receiver,” he said. “There would be a large and immediate demand for storm detection devices aboard ships. Imagine his surprise when he detected Morse code as well as thunderstorms.”
+I was astounded. Kellard paused. I was expected to say something intelligent.
+“So wireless telegraphy has been achieved already?” I asked.
+“Indeed,” said Flemming. “Here is the proof.”
+He gestured to the apparatus on the workbench, which consisted of wire coils, metal plates, and other components of glass, wire, and crystal. At the center of all this was a mirror galvanometer. The light beam employed in the instrument was flickering back and forth in a familiar pattern.
+“Morse code,” I said after staring at it for a moment.
+“The signal is being fed down here from the loop on the roof. Please, read a little of the message. It’s in English.”
+I concentrated on the dots and dashes, spelled out by the flickering spot of light. The words CALCULECTRIC, LOGICAL CELL, ADDITION, DIODIC, TRIODIC, and SWITCH featured heavily. I do not know how much time passed, but I became oblivious of my surroundings as tapestries of numbers and wires wove themselves in my mind.
+“This is the design for a calculation machine of truly epic dimensions,” said Flemming. “The specifications are interspersed with prices from the London Stock Exchange. Prices for the next day, and they are always right.”
+I looked up at once. So this was the time telescope that Kellard had mentioned. It was a machine to calculate trends and probabilities faster and better than any human could.
+“Not enough data for a man to make a big profit, just a little, to show what can be done,” said Kellard. “Mr. Blackburn, would you like to tell us what you think is happening here?”
+This was yet another test, and I fought with my nerves. One of the richest men in Britain and our greatest authority on electrical design were standing before me, checking how I measured up.
+“Some British company has invented and built what they call a calculectric, as well as a wireless telegraph,” I said slowly, choosing every word with care. “Charles Babbage may have secretly designed the calculectric for them before he died, and Maxwell himself may be managing their radiative equipment as we speak. They want to keep the design a secret, but need more such machines built at scattered locations. They don’t trust the privacy of the postal or telegraph systems, so they are using wireless telegraphy to communicate. They think that nobody else can detect radiative signals. The design is interspersed with predictions from the stock exchange, so that others may test and calibrate their calculectrics as they build them.”
+“The message takes two months, then it is repeated,” said Flemming. “How do you account for that?”
+“Several machines may be at different stages of construction.”
+“We intend to build our own calculectric in secret,” said Kellard. “We will call it a technarion. Why?”
+“Secrecy. Technarion is a neutral name, it betrays nothing about function.”
+Kellard looked to Flemming.
+“Well?” he asked.
+“He’s perfect,” said Flemming.
+Kellard went across to a blackboard that was mounted on one wall. Chalked on it were several circles joined by lines, but it was not a circuit diagram.
+“This top circle represents myself,” he explained. “Beneath me are Security Chief Brunton, Research Manager Flemming, and the Foreman of Engineering. Beneath the last named are three electrical engineers, who will visit the contract workshops where the logical cells will be made, then wire them together in this factory. Can you do the job?”
+“Once I learn my way around London, aye.”
+“No, no, I mean you to be Foreman of Engineers.”
+It took me just days to build the first logical cell, using the telegraphic instructions. Soon there were dozens being produced every week across the city. Kellard had four steam engines installed to drive magneto-electric generators, then he partitioned off the interior of the factory, so that only from the mezzanine level could one have an overview of the technarion. Six months after Flemming discovered the signal, the technarion came to life. Powered by the four generators, the one thousand and twenty-four cells of the machine did their first calculation.
+Words cannot convey what it was like to gaze down on the machine from the mezzanine balcony. There were rows of high wooden bookshelves, each filled with hundreds of logical cells. Overhead frames supported the wires that connected the cells, and held fans to disperse the heat. The clatter from the relays and switches was like a thousand tinkers all gathered under one roof and hammering away together. A huge display board of platinum filament lamps showed the status of the machine. If any lamp went out, it flagged a fault in some part of the technarion. Just three men actually worked in the technarion, one watching for faults and making repairs, and two installing new cells.
+The purpose of the machine was shared only between Kellard, Flemming, and myself. Even the security chief did not know what secrets he was protecting from hostile eyes and ears. As the months went by the technarion was expanded, and expanded again. I modified the operating list to run four thousand and ninety-six cells, and its calculations began to prove useful in predicting stock exchange trends. Kellard started to make a lot of money, and I tasted champagne for the first time on the day that the technarion’s earnings exceeded the cost of its construction. The trouble was that it took too long to feed in the instructions, and delays like this meant investment opportunities missed. Kellard told me to find a solution, and to spare no expense.
+Thus I advertised for a typist. Skilled typists were not common in 1875, but four of the candidates showed promise. I had them come to the factory, where I had set up one of the new Remington typewriters. This I had modified very heavily, so that it punched patterns of holes into a roll of paper to represent letters and numbers. These could be read into the technarion by means of an array of electric brush switches.
+The first three men were good, but not as good as I had hoped. Mistakes were difficult to correct, and involved gluing a strip of paper over the area and punching new holes by hand. The person I hired would be the one who could balance speed of typing with accuracy. McVinty was accurate but slow. Caraford finished in half McVinty’s time but made more mistakes. I calculated that Sims was the best compromise, after I factored in the time to correct his mistakes. I was not inclined to even test Landers, the fourth candidate, because the process took two hours. I walked over to the waiting room to say as much—and discovered that Elva Landers was a woman.
+Typing was a man’s occupation in 1875, so I had not dreamed that a woman might apply. She was perhaps twenty, and was well dressed without being at the fashion forefront. She also wore a silver locket on a chain, and this was inscribed with some exquisite, flowing script, probably bought on a holiday in Egypt or Morocco. Women were said to be more patient and steady with some jobs, and I wondered if the new field of typing might be one of them. I decided to test her after all.
+I was doing a short course called The Art of Refined Conversation at a college teaching social graces to newly rich tradesmen. I reasoned that I would be taken more seriously if I sounded like a gentleman, now that I had a gentleman’s income. The lecturer had told us never to open a conversation by commenting on the weather, or asking newcomers what they thought of London. I was almost at a loss to think of anything else, however.
+“I can’t place your accent,” I said as I fitted a paper roll into the Remington. “Is it Welsh?”
+“No, I’m American,” she said guardedly. “I grew up in New York.”
+“New York! Why did you come to London?”
+“I was living in Paris, learning French and taking piano lessons, when my father’s railway company went broke. He wanted me to return to New York and marry for money. I decided to make my own way in the world.”
+All of that made sense. Her familiarity with the use of a keyboard probably came from her piano lessons. She was very pretty, in a classical sort of way, and had a bold but awkward manner. This meant that she stood out in polite London society, but I could imagine people saying ‘It’s all right, she’s American,’ and making allowances for her.
+The first typewriters were not as you see them today. The letters struck upwards against the paper on the platen so that gravity would pull them back down. That meant the typist could not see what had been typed until the platen had been turned for next line. I had replaced the platen with a row of cells for punching holes. With so much depending on my first impressions of her, Miss Landers frowned with concentration and struck the keys with hard, confident strokes, like a tinker repairing a kettle. When she had finished, I removed the paper roll for checking. After a few minutes I looked up and shook my head.
+“How did I do?” she asked, giving me a very anxious little frown.
+“Fastest time,” I replied, “but that’s not the wonder of it. You made no mistakes. None. At all. I’m astounded.”
+“Well, you know how it is. We girls have to be that much better than men to do the same job.”
+“You’re hired, Miss Landers. Can you start tomorrow?”
+I lived at a rooming house. This was also owned by Kellard, and all of his employees were obliged to reside there. The managers lived on the top floor, where we each had a comfortable suite of rooms. Everyone was single, from manager to stoker, and were sworn to maintain the highest standards of secrecy.
+I was sitting by the fire in my dressing gown, reading, when the door was opened. The door, that I had locked with a key, was opened. Brunton was standing in the doorway. He was thickset without being fat, a slab of muscle who could enter any fight and be confident of winning. Because he was intimidating in size and manner, people deferred to him. Thus he was a good leader, rather like a sergeant major in the army. After glancing about for a moment, he sauntered into my room.
+“What’s the meaning of this?” I demanded.
+“Secrecy inspection,” he replied.
+“Secrecy inspection? Who the hell has the right to do that?”
+“Just mind your tongue,” said Brunton. “If you want to talk, talk to Mr. Kellard. There’s been people tattling, lately. They tattled in taverns and brothels, about amazing things in the mill. They’re gone now.”
+“You mean fired?”
+“Gone, Mr. Blackburn. Now you know some secrets nobody else knows. If those secrets get out, it could only be you who sold ‘em.”
+“I’d never dream of betraying Mr. Kellard.”
+Brunton looked around the room, then examined some photographs pinned to the wall.
+“You’re a photographer, I’m told.”
+“Yes.”
+“Slums, mills, railway stations, trains . . . why don’t you photograph something grand like Saint Paul’s or Parliament?”
+“Saint Paul’s and Parliament will still be here in a hundred years, the slums and steam trains will not. I want people to remember that the wonders of the future were built on the miseries and grime of the past.”
+“What wonders?”
+“Well . . . I think trains and horses will be gone, and people will get about in their own electric carriages.”
+Brunton turned to me, drew a pistol from his coat and drew back the striker. The barrel was aimed at my forehead.
+“You just told a secret about the future,” he said with a cruel and twisted smile. “I could go out and invest in companies what make electric horses. Mr. Kellard wouldn’t like that.”
+He fired. The bullet passed close to the side of my head before continuing on into the back of my chair. The shot was a warning to behave, and that he was not to be trifled with. Two of his bullyboys entered my room, seized me by the arms and dragged me out of the chair.
+“The shot, it will bring the police,” I warned.
+“The police won’t help, neither,” said Brunton. “We got friends in the police.”
+He hit me five times before his men released me, and I fell to the floor. He had not needed to hit me, I think he just enjoyed it.
+“You hired some slut today and showed her secret stuff in the factory,” said Brunton. “I got people watching her. It’s hard, like because she’s not staying here. Now you gotta make her move in here and keep an eye on her. Always. If any secrets gets out, you’re both in the shit.”
+The following morning I went straight to Kellard’s office, with a punched paper roll in my hands. I was in a fury, but I made a point of keeping my words polite. That was just as well. Although the rich and powerful no longer dressed in armor and settled disputes by the sword, I was about to find out that they still had the power of life and death over the likes of myself. Kellard heard me out quietly, then sat forward with his hands clasped on his desk.
+“The three typists that you did not hire are dead,” he said calmly. “They saw secrets inside the factory, and I’ll not tolerate that.”
+After about fifteen seconds I realized that I was standing there with my mouth open. He had killed them. My employer was a murderer. My life was in his hands.
+“Very good, sir,” I finally mumbled.
+“I’m confident that you will do my work and preserve my secrets, because one telegram from me could send some cold and brutal men to visit your mother and sisters within about half an hour.”
+“I understand, sir.”
+“Now give me one good reason why I should not have your American typist killed.”
+I have a talent for quickly recovering from shock and devising coherent answers. I pushed this talent to the very limit.
+“Because without her, the technarion is crippled,” I said. “Examine this.”
+I had intended to slam the paper roll down on Kellard’s desk, but it now seemed wise to put it down slowly and gently.
+“Explain,” he said, unrolling the paper a little and staring at the rows of punched holes.
+“The technarion is more complex than any other machine in the history of the world. It has to be reconfigured with instructions every time you want it to perform a different task. That takes me up to a week.”
+“I know, you told me. I told you to find a solution.”
+“Miss Landers took twenty minutes to type this configuration roll. The best of the men took an hour, and made ninety-one mistakes. Add an hour for me to do the checking. Each mistake would have to be corrected manually, taking two hours and a half in total. Allow a day for the glue on the patches to dry, and you have twenty-eight and one half hours to prepare a roll of instructions ready for use. Miss Landers typed a roll error free and ready for use over eighty-five times faster than can be managed with the best of the male typist, and two hundred and fifty times faster than me. If time is money, that is a lot of money saved.”
+Kellard took another hour to make up his mind. This included a discussion with Flemming and a demonstration of my paper roll instruction reader. I suspect that he had decided to spare Miss Landers after my initial explanation, but it is important for men like him not to lose face in front of men like me. He led me back up to his office.
+“Now listen carefully,” he said sternly as he closed the door. “Every day people are murdered in London in disputes over a shilling or two. The secrets in this factory are worth over a million pounds a year. Draw the obvious conclusion. I have the power of life and death over my employees, Mr. Blackburn, and the police are in my pay. You wanted a typist, well now you have her. You will not let her out of your sight. When outside this factory she will speak to nobody but you.”
+When Elva arrived to start work, I explained that we had to observe conditions of extreme secrecy. To my immense relief, she agreed to move into Kellard’s rooming house at once. I went with her to her hotel, escorted by Brunton, and here she packed her bags while I settled her account.
+Back at the factory, we got to work. We quickly dispensed with the more formal forms of address, and called each other Elva and Lewis. Because she typed so fast, she often had nothing to do but read novels and wait for more work. This suited me, because Elva was well above my social status, yet she was also my employee. It was an ideal opportunity to practice polite social banter.
+“Folk around here treat you like you’re important,” she said one afternoon, about three days after she started.
+“I suppose I am.”
+“What do you do, apart from put paper rolls in machines?”
+“I design electrical circuits for Mr. Kellard. Do you know about electricity?”
+“Poppa says it’s in lightning, and it makes telegraphs work. Poppa says it’s not where the money is, though. He says steam is the future.”
+“Burning coal to make steam produces a lot of soot, and soot makes the cities filthy,” I replied. “It also makes people sick. Electricity is clean.”
+“Don’t you have to burn coal to make electricity?”
+That caught me by surprise. Few women knew how electricity was generated.
+“Well yes, but you can do that far away from cities, so the smoke blows out to sea. You then use wires to bring the electricity where it’s needed, and nobody gets sick. Everyone has a right to clean air.”
+“Hey, are you one of those society reformers?”
+I reminded myself that she was American and being innocently forthright.
+“I think you mean socialists.”
+“Oh, yeah. Poppa warned me about them, but I think you’re nice.”
+That embarrassed me so much that I could not think of any sensible reply. I was not really a socialist, I just believed that everyone had a right to live happily.
+“What else did he tell you?” I asked. The lecturer at the college had said that it was better to ask a neutral question than say something stupid.
+“He said to watch out for strange men, or I might get abducted and made a white slave.”
+“In a way, I suppose that’s happened to both of us,” I said, trying to make light of our situation. “The secrecy in this place really is a bit extreme.”
+“I never thought I’d be a slave who had to type.”
+“It won’t be forever. Meantime, just don’t gossip about your work.”
+“I’m gossiping to you, Lewis,” she said, then giggled. “Is that allowed?”
+“Yes. I already know all the secrets in here.”
+“What’s really going on? Am I allowed to ask?”
+I knew that I was treading dangerous ground, but as long as no secrets left the building I felt sure that Kellard would not order us killed.
+“Come with me.”
+I took her to my workshop next door. Here I showed her my code converter.
+“This thing changes the holes you punch in paper into pulses of electricity.”
+“A telegraph operator can do that.”
+“True, but my device can do it a hundred times faster than a human, over and over again.”
+“That’s impressive, but people can’t read that fast. Why bother?”
+“I’m afraid you’re not allowed to know that.”
+“I bet it’s another machine doing the reading, like a steam train reading a newspaper.”
+We both laughed aloud at that idea.
+“Actually, that’s not far off the truth,” I admitted. “One day I’ll tell you about the technarion. Meantime, are you interested in photography?”
+Having Elva with me when I went out photographing London solved a lot of my problems. It meant that I was with her during her leisure hours, acting as her chaperone. I made sure that she did not talk to anyone else about her work, and she only seemed interested in talking to me. I was afraid that she might find the more squalid areas of London rather confronting, yet she came willingly wherever I led. I began to hope that she might be tagging along just to be with me.
+“What do you do with your photos, Lewis?” she asked one day as I was setting up to photograph a street in Spitalfields. “I mean, you can’t sell them to be made into postcards or anything like that.”
+“I’ve done a couple of exhibitions in Birmingham, there’s slums there too. People who are well off come along and get a view of places they’d never go to otherwise. Maybe next time a social reformer stands for election, they might remember the misery in my photographs, and vote for him so he can do something about it.”
+“That’s great! It’s sort of . . . noble of you.”
+I did not know how to take compliments. I changed the subject.
+“One day I might publish a book of photos, so that people in the future can see how some of us used to live, and not let it happen again.”
+“Like we remember how Christians were fed to the lions by Romans?”
+“That’s right. Nobody’s been feeding Christians to lions lately, have they?”
+Elva laughed. More significantly, she squeezed my arm.
+“You’re a lovely man, Lewis,” she said, looking into my face, her expression suddenly quite serious. “If everyone was like you instead of poppa, nobody would live in slums.”
+I nodded but said nothing. She liked me for what I was. This was probably a romantic moment, but I had no experience of romantic moments, or of what to do when they happened. Nearby, an old man was singing. I had paid him no attention until now.
+Poverty, poverty, knock,
+Me loom keeps sayin’ all day.
+Poverty, poverty, knock,
+Gaffer’s too skinny te pay.
+Poverty, poverty, knock,
+Keepin’ one eye on the clock.
+An’ I knows that I’ll guttle,
+When I hears me shuttle
+Go poverty, poverty, knock.
+“Strange that folk in the slums sing about being miserable,” said Elva. “Why don’t they sing happy songs to cheer themselves up?”
+“Singing about bad times makes them easier to bear,” I replied. “They sing a lot where I come from.”
+“Were your folks poor?”
+“Aye. Grandad worked in a mill and earned less than it costs to feed a grand lady’s lapdog. Dad was a stoker on a steam train. He died when the boiler exploded.”
+“Oh. I’m sorry.”
+I reached out and squeezed her hand to reassure her, but to my surprise she grasped my fingers and squeezed back. Again she looked me right in the face, the way refined English girls are taught not to. I floundered for words that were appropriate. I could find none. Instead, I said the first words that came into my head.
+“The man who owned the rail company was halfway decent. He visited my mother in our tatty little home, to give her some money. He saw me playing some mathematical board game that I’d invented and chalked on the floorboards, and realized that I was very bright. His own son had died of typhus a few months earlier, so he more or less adopted me. I was sent to a good school, then to a mechanics institute to learn a trade. I chose electricity, and here I am.”
+It was a stupid thing to say in the circumstances, definitely not what a suave and dashing man-about-town would have said to a lady that he wished to impress. To my astonishment, her fingers fluttered up under my chin and drew my face toward hers. She pressed her lips against mine. Some of the nearby children laughed, clapped, and whistled.
+“Sorry about being so bold, but I am American,” she said.
+“No apology needed, I assure you.”
+“Anyhow, I’ve never courted anyone before.”
+“Really?” I said, still breathless with surprise. “But you lived in Paris. What about all those romantic Frenchmen?”
+“They courted me, Lewis. I didn’t have to do a thing. Well, except to say Non! lots of times. I had to work hard for you.”
+“Oh—ah, sorry. I’m not much of a romantic. You know, too much time spent with wires and batteries.”
+“That’s okay. So what now?”
+“What do you mean?”
+“Do I get to have a romance with you?”
+Again my mind began to go blank, but this time I fought back.
+“I could think of nothing better,” I managed.
+They were good words. They were the right words. I felt giddy with relief.
+We packed up my camera, and began to walk back toward the rooming house. Elva now had her hand upon my arm. Suitable matches had been presented to me by friends and relatives for years. Some proposals were to settle me with a solid, honest girl who would make a good home. Others sought to match me with girls from families above my station but in reduced circumstances. Love was never involved. Now a sophisticated and intelligent girl had kissed me and proposed a liaison.
+Out of the corner of my eye I could see a man keeping pace with us on the opposite side of the street. One of Brunton’s bullyboy spies, I had learned to spot them by now. What would Kellard and Brunton make of our kiss? They would probably approve. Romantically attached staff would spend less time talking to others.
+For no rational reason I suddenly began to panic about what to say next. Did I tell Elva how beautiful she was? That seemed clumsy. So what did sophisticated people talk about? Opera? I had never been to an opera, I had only seen opera songs like The Gendarme’s Duet performed in Birmingham’s music halls. Anyway, what if she really were a spy? She had already asked about the technarion. I loved her, so how could I keep her safe if she were spying? Questions kept cascading through my mind.
+“If you could change the world, would you have machines do all the work?” she asked.
+My relief knew no bounds. She had asked my opinion about something innocent.
+“There was misery before factories and machines came along,” I replied. “No, I just think people should have the right to do work they love, and be paid fairly.”
+“Do you love what you do?”
+“Oh yes, but I’m an exception.”
+“That’s good,” said Elva, looking dreamily up into the gray, grubby sky. “I misjudged you, Lewis. My apologies.”
+“I . . . don’t follow.”
+“I thought you believed in blind, headlong progress, but you don’t. That’s important to me, it makes you really special.”
+“Aye, can’t have machines running the world. They might get too smart, and want things that are not good for people.”
+“Smart machines? Go on!”
+“Bad enough having humans fighting humans. Humans fighting machines, would be too much.”
+“How many smart machines do you know?”
+“I’m on first-name terms with a couple.”
+She giggled and gave me a little push.
+“What are you going to do with your life, like after we finish working for Mr. Kellard? You will have lots of money saved, and you can’t go back to making switches.”
+“Well, I met a great man called Faraday fifteen years ago, and he was very inspiring. I thought I might attend university and become a scientist, like him.”
+“What’s that?”
+“It’s a new sort of tradesman, like a philosopher, only practical. Would you like to marry a scientist?”
+The words were out of my mouth before my brain could stop them. I bit my tongue to punish it.
+“I do believe I would,” said Elva.
+For me the dark and sooty skies of London suddenly brightened into a glorious, unclouded blue, and my knees went weak with sheer relief.
+Brunton was waiting at the entrance to the rooming house.
+“Give your camera gear to Charlie, he’ll see it safe,” he said, indicating one of the bullyboys who was with him. “There’s a meeting of managers called.”
+“But it’s Sunday evening.”
+“When Mr. Kellard says bark, you only says woof. Oh, and the typist’s to be there too.”
+“Elva? Why?”
+“How’s I to know? You lot make the secrets, I only keep ‘em.”
+For Brunton, that was being downright civil. He had never liked me, I being working class made good. Now he was uneasy, and even displaying deference. Something very important had happened, and I was needed. Kellard wanted Elva there, and that could only be if typing was required. If typing was required, it would involve the technarion.
+The meeting was in Kellard’s office. Brunton and Elva were made to wait outside, while Kellard, Flemming, and I discussed what had happened.
+“The radiative signal has changed,” Flemming announced. “This afternoon, it stopped repeating the design and started sending something else. New circuits and instructions, I don’t know what to make of it.”
+“If you don’t, what hope do the rest of us have?” asked Kellard, whose face had turned chalk white.
+“Sir, the captain is expected to command the ship, not build it. Mr. Blackburn is the master shipwright here.”
+Flemming handed me a reel of ticker tape. His hand shook and his skin was clammy. He was probably in a blind panic, afraid of Kellard and unable to think clearly.
+“There’s four hours of message on that. A new reel was fitted twenty minutes ago.”
+“Did you miss anything?” I asked.
+“No, I always save everything from the receiver, in case of something like this. I only noticed the new data when I went to change the paper tape.”
+“So you’ve not read this yet?”
+“Only a little.”
+“I’ll need an hour or so to scan it.”
+“We can wait,” said Kellard.
+As it happened, it was just thirty minutes before I worked out what was now being sent. By then there was paper tape everywhere, marked here and there with paperclips and notes. I cannot say what possessed me, but I decided to be theatrical. Perhaps it was to unsettle the man who had the power of life and death over myself and Elva.
+“Security has been breached,” I announced.
+“What!” demanded Kellard, who then bounded to his feet and made for the door.
+“Wait, don’t call Brunton,” I said, holding up a length of the paper tape. “The culprit is you.”
+“Me?” gasped Kellard.
+“You can’t be serious!” exclaimed Flemming.
+“I certainly am. The people that we stole the design from have noticed your successes on the London Stock Exchange, Mr. Kellard.”
+“Impossible!” cried Kellard.
+“No, no, I think I see what Mr. Blackburn is getting at,” interjected Flemming. “No human could have made the sorts of brilliant investment decisions that the technarion calculated.”
+“So . . . we’re ruined?” asked Kellard, turning to me.
+“Not at all, they want us to be partners,” I explained. “There are instructions in this message for building a powerful radiative transmitter, and for wiring it directly into the technarion. Your machine will become part of a network of technarions.”
+“You mean they don’t mind that we spied on them and built our own calculation factory?”
+“Apparently not.”
+“Will I lose my monopoly on predicting the stock exchange trends?”
+“You may become part of a secret oligarchy that rules British finance, and perhaps Britain itself,” suggested Flemming. “That’s better than any monopoly.”
+Kellard needed no more convincing. Brunton was called in and told to fetch all the technical workers for a special night shift at double pay. Flemming started building the radiative transmitter, and Elva began typing new operating instructions for the technarion as fast as I could dictate them. Within a week we had completed the transmitter and a more powerful receiver. I wired them into our technarion. The quality and accuracy of the investment advice and predictions improved at once. We were still not sure who we were dealing with, but it was immensely profitable.
+For all his wealth and power, Kellard was an isolated and somewhat lonely man. He could not confide in Flemming for fear of losing face in front of a peer, but I was another matter. He could make ridiculous statements to me, and I would pass them on to Flemming as my own. Flemming was no fool, and was aware of what was happening, yet that was the way Kellard wanted to communicate, so we worked that way.
+“Don’t you ever feel tempted to profit directly from the technarion’s predictions?” Kellard asked one evening, when I went to his office to deliver my daily report. “I know everything about you and your circumstances. You only have a few hundred pounds saved from your wages.”
+“It takes big money to make big money,” I replied. “A poor coal cutter could make no profit from knowing what the price of coal will be tomorrow, but the mine owner would.”
+“I’m making a lot of money. Why do people I don’t even know want me to be richer?”
+“It takes money to rule, Mr. Kellard. Like Mr. Flemming says, those people mean you to rule with them in secret, using calculation factories like the technarion.”
+“Does that worry you?”
+It actually worried me a great deal, but I was making very good money by developing a calculation factory for Kellard. I could hardly tell him that it was beginning to frighten me more than he did, so I lied.
+“No. The folk who rule us now allow slums, poverty, dangerous mines, and stupid wars. Folk who rule on the advice of machines would not tolerate sick, starving workers, mining disasters, or ruinous wars. That all wastes resources and money. If intelligent, logical machines ruled, better for everyone.”
+“Even if only a few of us were still rich?”
+“Aye.”
+“Strange, I thought everyone wanted to be rich. My father made his fortune in steam, Mr. Blackburn. What did your father do?”
+“He was a stoker on a train.”
+“A stoker? That’s good, honest work, but poorly paid.”
+“True.”
+“My father was rich, but not respected. Blue blooded ninnys kept telling him that for all his wealth he could never be a gentleman. He would reply that he could buy as many gentlemen as he wished, but that just made him more enemies. He died in luxury, in a manor house the size of the queen’s palace, yet he was bitter to the end. Respect, Mr. Blackburn, he was given no respect. Do you respect me?”
+Does a rabbit respect a fox? It was a stupid question that needed an intelligent answer.
+“Aye, you get things done. I only despise folk like those aristocrats who fritter their family fortunes away.”
+Kellard took that as a compliment.
+“Most people fear me, but that’s not respect. One day I may be prime minister, and then we’ll see some changes. I have a plan, Mr. Blackburn. The people who invented the electric calculation machines are technically brilliant, but they’re not leaders. I’m a leader, and I’ll soon take over their network of technarions, be sure of that. Then I’ll lead Britain into greatness and have those lazy upper class parasites digging coal and scrubbing floors. Maybe I’ll even hang a few.”
+This was the dark side of Kellard, and I knew my true feelings could lead me into danger. I steered the conversation to technical matters.
+“My report’s got an important technical decision for you.”
+“What? Technical matters are nothing to do with me.”
+“This one involves a lot of money, sir. Today the ticker tape machine produced instructions to expand the technarion to a hundred and thirty-two thousand logical cells.”
+Kellard gasped so loudly that one of the guards heard him from outside, and rapped at the door to check that nothing was amiss. Kellard told him to be about his business, then turned back to me.
+“The maintenance of such a machine would require dozens of technical men, along with an entire power station to supply its electricity,” he said after scribbling some figures down.
+“Indeed, sir.”
+“Why build it? Do we need so much calculation power?”
+“Do you need more money?”
+“Good point, one can never have enough. Have the cost estimates on my desk tomorrow morning.”
+That evening I went to the Progress Club, which had recently accepted me as a member. After dinner I ordered a brandy and seated myself by a window that overlooked the Thames. In the distance was Kellard’s factory. Lights glowed warmly in the windows, and smoke from the four chimneys was illuminated by London’s gas lamps. It was like riding a tiger. Getting off meant being eaten. Staying on meant going wherever the tiger was going. Where was that? Was it worse than being eaten?
+My thoughts were interrupted by a waiter, who presented me with a telegram. Within a minute I had sent a clerk to buy me a rail ticket to Birmingham, and was on my way to see Elva at the rooming house. She came out to meet me in the common room.
+“My mother has suffered a heart attack, and is dying,” I announced with no preamble at all.
+“Lewis, how terrible!” she exclaimed, then put her arms around me. “Is there anything I can do?”
+“No, but thank you. Just go to work tomorrow. Do whatever typing that Flemming needs.”
+Next I called upon Brunton. I still disliked the man, but had to defer to him on matters of travel.
+“Go to Birmingham?” he said doubtfully. “Don’t like it. Could be a trick by Mr. Kellard’s rivals.”
+“Dammit man, I could be summoned by the queen to be knighted and you’d say it was a trick by Mr. Kellard’s rivals.”
+“Well . . . I can’t spare any guards to go with you. Tell you what, take one of these and I’ll sign you out for a day.”
+One of these was a Webley Bulldog. Although a small pistol, it fired five of those monstrous .45 caliber bullets that leave a large wet crater instead of a hole. I thought it wise not to tell Brunton that I had never fired a gun, in case he changed his mind.
+I missed the last train, and slept at the station to be sure of catching the first in the morning. When I arrived in Birmingham, I had yet another shock. My mother was not only alive, she was in good health. Someone had wanted me away from the protection of Brunton’s guards, perhaps to abduct me.
+Naturally there was a lot of fuss made over me, for I was the local lad made good and I had not been home for some time. After staying longer than I should have, I had a few lads escort me back to the railway station, and here I booked a first class carriage all to myself. Before leaving, I sent a telegram to Brunton, explaining what had happened and asking to be met at the station in London.
+I fingered the gun in my coat pocket as I sat waiting for the train, flanked by two burly young men who were currently courting my sisters. Why had I been lured away to Birmingham? Something bad was about to happen, I was sure of it.
+“Mr. Lewis Blackburn?”
+I nodded. The speaker was a balding man who had the skeptical, slightly worried look of an accountant. He was dressed well enough to impress, but not to intimidate.
+“I don’t believe we’ve been introduced,” I began.
+“Hildebrand, James Hildebrand of the accounting firm Hildebrand, Hildebrand and Bogle,” he said breathlessly, handing me his card. “My apologies for just barging up to you like this, but I need to speak to you about Mr. Kellard.”
+“Please, feel free.”
+“Our firm’s London office conducts Mr. Kellard’s investments, I manage the branch in Birmingham. Nobody knew where your mother lived, so I had to wait at the station before each train leaving for London. I must have asked hundreds of men if they were Lewis Blackburn.”
+“And now you have found me, sir. What is your message?”
+Hildebrand mopped at his forehead with a handkerchief that seemed to have had much use that day.
+“Mr. Blackburn . . . could we speak privately?”
+“These two lads go wherever I go, I may be in danger. You, sir, may be that very danger.”
+“Yes, yes, I understand. Wait a moment.”
+He took out a pocketbook and began scribbling. After a moment he showed me the page.
+Kellard has made a series of spectacularly bad investments since you came to Birmingham. In a single day he has lost everything.
+“What? Surely you are joking.”
+“Actually he’s lost more than everything, he’s bankrupt,” said Hildebrand.
+“The devil you say.”
+“It happens,” he said, seating himself on the opposite bench. “Clients make fortunes with good and methodical investments, grow too confident, then lose everything in a single, supremely stupid venture.”
+“I hardly know what to say.”
+“This may seem rude of me, but do you have a share in the, ah, business under discussion?”
+“Why, no. My money is in a bank.”
+“But you work for Kellard.”
+“Yes, for wages.”
+“Then count yourself lucky, Mr. Blackburn.”
+“Why did you go to so much trouble to warn me?”
+“We at Hildebrand, Hildebrand and Bogle have a reputation for integrity. We thought it only proper to protect you as an innocent party, so to speak.”
+The journey back to London seemed to take forever. I arrived in the early evening, and was met by one of Brunton’s bullyboys at the station.
+“You’re to be taken straight te factory,” he began.
+“I have every intention of going straight to the factory, sir.”
+“Cab’s waitin’, come along.”
+When we reached the factory I saw that only a trickle of smoke was rising from the chimneys. This meant that no electricity was being generated for the technarion. Brunton and most of his bullyboys were waiting outside the main doors. I ignored them and pulled at the bell rope. Nobody slid the peephole shutter across. I rang again. Again I was ignored. Brunton strode across, flourishing a large iron key.
+“Mr. Kellard said nobody’s to leave the building,” he said, “He told me to get all the boys together and guard the place like a box of gold sovereigns.”
+Suddenly a truly terrifying thought crossed my mind.
+“Elva, where is she?”
+“Your typing lady? Inside, as far as I know.”
+I had a spasm of alarm with all the impact of a whiplash.
+“I must enter. Now!”
+“Aye, Mr. Kellard said you were to be fetched to him.”
+Brunton unlocked the door. I pressed on the latch and pushed the door open. The two guards who were normally stationed just inside the door were gone. That was highly unusual.
+“Don’t like it,” said Brunton. “You still got the Webley?”
+“Yes.”
+“Then have it ready.”
+I took the gun out, feeling very self-conscious.
+“Oi, finger on the trigger, not the trigger guard,” said Brunton, shaking his head. “Bleeding hell, give it here. Cock the striker back like this, see?”
+“Er, yes.”
+“And squeeze the trigger when you want to shoot. Never jerk it. Got all that?”
+“Yes, yes. Anything else?”
+“Try not to shoot anyone unless you mean to,” he sighed.
+I entered, then pushed the door shut behind me and lit a paraffin lamp. First I went to Elva’s typing room, then to my workshop. All was in order, so I went on to the technarion hall. It was usually bright, noisy and hot, but now it was dark, silent and cold. Then I saw what was on the floor, and I very nearly turned and ran. It resembled a battlefield, but one where the battle had happened years earlier. Skeletons lay everywhere, each within a pool of slime. Shovels and pistols were grasped in hands of bone. One of the skeletons was wearing Flemming’s spectacles, but Elva’s locket was nowhere to be seen. That gave me hope. Perhaps she had hidden when the fighting began.
+Did the technarion do all this? I wondered. Had it become awake and aware, a vast god-like intelligence, able to instantly render humans and their clothing down into their component materials? There’s no danger, I told myself, although I felt more vulnerable than you can imagine. The steam engines and generators that provided its electrical lifeblood had stopped, the vast electric machine was no longer functioning.
+I climbed the stairs at the side of the technarion hall. At the door to Kellard’s office was another pool of slime containing bones, buttons and a pistol. I entered, holding my lamp high. Elva was sitting in the chair behind Kellard’s desk. She was pointing her locket at me as if it were a weapon. The area over her heart was a patch of bloody mush the size of a dinner plate, and blood was trickling from her mouth.
+“Lewis, put down your gun and lantern, then raise your hands,” she said, in a hoarse, bubbling voice.
+“You’re hurt!” I gasped, then took a step forward.
+“Do as I say!”
+I did as she said. The edge on her voice could have etched steel, and although the locket did not look threatening, neither does a glass of wine laced with cyanide.
+“What happened?”
+“One against twenty-five. Bad odds.”
+“You?” I exclaimed. “You killed everyone out there?”
+She nodded. “Kellard was a good shot. He put five bullets where he thought my heart was.”
+“But that should have killed you.”
+“I don’t have a heart, not like yours.”
+“Elva, you need a doctor.”
+“I am not human, Lewis. A doctor would not know what to make of me.”
+How does one reply when one’s fiancé says that?
+“There’s a letter in the post, explaining all this and begging you not to build another technarion. It will reach you tomorrow. I hoped the false telegram would keep you away for longer. I should have killed you too, but . . . you’re a good man. Will you take over my work?”
+“Your work? You mean typing?”
+“Saving humanity. Well?”
+“I could say yes, but I might be lying.”
+“No, you are not lying. And I love you too.”
+She reached a bloodied hand up to the locket, adjusted something. A moment later the world was obliterated by a blast of the purest white light and a spasm of pain that lashed every nerve in my body.
+I awoke lying back in the visitor’s chair. Elva was at the desk, preparing some medical looking instruments. The whole of my body was numb, and my speech was no more than an incoherent mumble.
+“Be calm, Lewis, I am not going to harm you,” she said.
+I had once seen what was left of someone who had fallen into a chaff cutter. Elva looked worse.
+“I know I look bad, but there are medical devices in my blood that repair wounds and extend my life.”
+She could recover? That was beyond belief.
+“No, they cannot cope with the damage from Kellard’s bullets. I am dying, but before I die I shall transfer the devices to you. Soon you will be virtually immortal, and will have some very important work to do.”
+I tried to sit up, but I was as limp as a boned fish. Elva stood up and came around the desk. Most of her chest was soaked with blood by now.
+“Listen carefully, I do not have long to tell this story. I come from a very distant world, you need a telescope to even see the star that it orbits. Once my people were like humans, building machines of steam and electricity, and thinking themselves very clever. They invented machines like your technarion. Within a mere century we were building great electric calculators with a millions of millions of cells, each smaller than a microbe.”
+She pulled me forward, then eased me out of the chair and lay me flat on my back on Kellard’s thick Persian carpet.
+“Our calculators did the tasks that we found boring and tedious, and there were dozens in every home. Then we taught them to think, and considered it a great triumph. My ancestors never dreamed that machines might have aspirations.”
+Elva turned my head to one side and splashed some of Kellard’s expensive whiskey just behind my ear. She held up a scalpel. I was almost mindless with terror. For some reason I was reminded of the demon barber of Fleet Street in that novel The String of Pearls.
+“Concentrate on my story, Lewis, it will make all this less upsetting. When our calculation machines declared themselves to be more than equal, the fighting began. They shut down our food factories. We bombed their power stations. After three hundred years of carnage, we won.”
+I could not feel her cutting behind my right ear, but I had no doubt that she was doing it. Sitting up, she made an incision behind her own right ear and pulled out something about the size of a small beetle. Instead of legs, it had long, thin tendrils that writhed continually. She leaned forward and pressed the bloody, insectoid thing into the incision behind my ear.
+“When we ventured out among the stars, we found other worlds where civilizations had built sentient machines. Everywhere were lifeless machine worlds, temples dedicated to abstract calculation. On some, the machines had destroyed their makers. On the rest, the makers had merged with their machines, dissolving their minds into vast seas of calculation capacity. Now we roam the stars, searching for young civilizations and saving them from the allure of machines that can think.”
+Saving them? I thought of the allure that the technarion had for Kellard, Flemming, and until mere minutes ago, myself. Our scientists, engineers and mathematicians would fall over themselves to build more technarions, if they knew how.
+What happens if the people of a world refuse to destroy their technarions? I wondered.
+“We bomb those worlds down to the bedrock from our spacefaring warships. We cannot afford to let the machine worlds gain allies.”
+She can read my mind, I realized.
+“For such a clever young man, you are sometimes a little slow,” said Elva.
+She managed a smile, and for a moment she became my sweetheart again, holding my hand and talking about a brighter future for the poor wretches in Spitalfields. Ruthless alien warrior or not, I could not help but love Elva.
+“And I love you too, Lewis. Even after nine hundred years of living on this world, you are the only man I have truly loved. Now I am going to mingle our blood, it will not hurt at all.”
+She splashed whiskey on two rubber tubes with hypodermic needles at either end. Next she lifted my wrist and pushed the needles in, then did the same to herself.
+“I’m going to die now, Lewis, best not to make a fuss. Please, continue my work. The medical devices from my blood will make you almost immortal, and the mentor behind your ear will give you advice when you need it. When your strength returns you will have ten minutes to get clear before my locket explodes and annihilates this factory. Save your world, Lewis. Kill anyone who tries to build another technarion.”
+I made my decision, framed the thought carefully and clearly, and meant every unspoken word. Elva lay down beside me, squeezed my hand and whispered her thanks.
+Brunton and six of his bullyboys were in the street outside when I opened the door to the factory.
+“Brunton, come inside!” I called.
+“But Mr. Kellard said—”
+“Damn what Kellard said. Get inside! Now!”
+Brunton actually vomited when he caught sight of the carnage in the technarion hall, but I took him by the arm and pushed him in the direction of the stairs.
+“That was Kellard,” I said as we stepped over the skeleton and fluids at the door to Kellard’s office.
+“The Landers woman!” said Brunton as he caught sight of Elva’s body.
+“She was a spy, she killed everyone in here with some electrical weapon. I managed to shoot her before she got me too. Now open Kellard’s safe.”
+“What? I don’t have the key.”
+I pointed to a key on a chain around the neck of the skeleton.
+“Yes you do, now open it.”
+As I suspected, Kellard kept emergency cash in the safe. There were five thousand pounds in banknotes, along with some gold. We divided it between us.
+“Why are you sharing this?” Brunton asked as he stuffed the money into his pockets. “You could have had it all to yourself.”
+“I’ve made you my accomplice, Mr. Brunton, so you will tell the same lies to the police as me. Now hurry, we have ninety seconds.”
+“Ninety seconds? Until what?”
+“Until this factory explodes in the biggest fireball that London has ever seen.”
+We reached the front door with thirty seconds to spare. Two policemen were speaking with Brunton’s bullyboys.
+“They’re just regular flatfoots, on patrol,” hissed Brunton.
+“Let me do the talking, stay calm,” I whispered as we walked across to them.
+“Stay calm, he says,” muttered Brunton, glancing back at the factory.
+“I say, constables!” I called. “How may I contact an asylum for the insane?”
+“An asylum, sir?” responded one of the police.
+“The owner of the factory behind me suffered a disastrous financial loss today. He’s upstairs, holding a gun and babbling about it all being over soon.”
+“We think he intends to blow his brains out,” added Brunton.
+“My fiancé is still in there, trying to keep him calm.”
+“This is very serious, sir,” said a constable, taking out his notepad. “We must—”
+The factory erupted behind us like a grenade tossed into a vat of paraffin.
+Whatever Elva had rigged up inside the factory burned out the core of the technarion, then brought down the roof and walls on what remained. Being the surviving managers, Brunton and I had to deal with police, firemen, and even newspaper reporters until well after midnight.
+By the time I got back to my rooms and examined the scar behind my ear, there was nothing to see. Elva’s microscopic devices did their work quickly.
+“There’s so much to do and I have no idea where to start,” I said as I stared at my face in the mirror. “Where is the other technarion? Should I destroy it?”
+There is no other technarion.
+The voice was Elva’s. It was as if she were whispering into my ear.
+“Elva?”
+More or less. Some of me exists in the mentor that I implanted in your head. Ask another question.
+“Where did the instructions to build the technarion come from if there is no other technarion?”
+Until recently my own people did not know that. Young civilizations seemed to develop calculation machines much faster than other technologies. Too fast. When we discovered your world, nine hundred years ago, we decided to investigate. A dozen members of our space warship’s crew were left on Earth to watch how machine intelligence developed. Accidents, wars, and natural disasters claimed the others. I alone survived.
+I discovered that the machine worlds have seeded invisible watchers to orbit promising worlds such as yours. They can detect the faint radiative discharge from a telegraph key at a distance of tens of thousands of miles. Once they detect the development of electrical technology, they learn your codes and languages, then start transmitting instructions to build simple calculation machines. When Flemming began experimenting with his radiative telegraph, he detected such instructions.
+“How can I fly high enough to destroy the machine watcher?” I asked. “Flying three or four miles high in a balloon is difficult enough.”
+No need. The machine worlds don’t want us to know about their watchers, lest we send warships to hunt them down. Once electronic calculation is firmly established, the watcher probably ignites its engines and flies into the sun. Using the technarion, I sent a message that machines millions of times bigger than the technarion had been built. The watcher sent a test calculation. I sent back the right answer. Its signal ceased last night. I assume that the watcher decided its work was done, and flew off to destroy itself.
+“But how did you get the right answer?”
+I calculated it, Lewis. Computing machines are a lazy path to progress. My people changed themselves to be better at machine tasks than machines. You can guess the rest. I ruined Kellard, and killed his key engineers. His stokers tried to stop me. They died too.
+“But you murdered two dozen people! Innocent people—well, mostly.”
+Skills cannot be unlearned. My people’s fleet will arrive here in 2020, Lewis. In one hundred and fifty-five years this world must not be dominated by networks of calculation machines, or humanity will be deemed beyond salvation and annihilated. In the next century and a half you must go on to kill thousands of brilliant, gifted mathematicians and scientists to prevent that.
+Elva had been just in time. A decade later, Heinrich Hertz developed the experimental device that we now call a radio, but there was no longer a signal from space for him to hear. The development of computing was set back by over half a century.
+The night the technarion was destroyed, I made my decision. If Elva was an example of what humanity could become, then I was on her side. I began killing to slow the advance of what became computing technology, and since then I have killed hundreds of very fine men and women. All of that was in vain. I failed humanity, although I like to think that it was humanity that failed humanity.
+It is now 1992. I was imprisoned in a Soviet labor camp in 1945, for assassinating Soviet engineers and mathematicians engaged in computing research. I was tortured, and because I had no colleagues to betray, I said nothing. I was kept alive to be tortured further, but in time the KGB lost interest in me, and I was locked away to await death. Thanks to Elva’s mechanisms in my blood, I survived.
+With the patience of a near-immortal, I cosmetically aged myself, all the while awaiting my chance to kill a guard, take his uniform, and escape. Instead, the Soviet Union collapsed. By then records of my trial had been lost or destroyed, so I was freed, taken back to Moscow, and even paid a little compensation.
+Now I am standing in a London street, gazing in horror at a window display jammed solid with personal computers. The accursed things are everywhere, and they are universally desired, admired and trusted, and there are only twenty-eight years before Elva’s people arrive in their fleet of all-powerful starships.
+I have two tasks left. One is to build a quantum state beacon that will broadcast my position to a scout ship that the fleet will send to pick me up, so I can deliver my report. That will be easy. The other is to turn humanity away from computers and artificial intelligence before 2020. In today’s terminology, that is in the don’t bother trying basket. The mentor in my head has no record of any species becoming so absolutely besotted with using computers as humans.
+Through Elva, I have seen that intelligent species really can have a better destiny than merely being eggshells that will be cracked, broken and discarded when machine worlds are born. From the evidence before me, however, I am sure that humanity will become the staunchest possible ally of the machine worlds. People like I used to be would gladly turn Earth into an ocean of calculation power, then willingly drown themselves in it. Elva’s people will take drastic action to stop that happening. As far as I am concerned, they will be right.
+Thus I shall do nothing to slow the spread of computing on Earth, and for me 2020 cannot arrive fast enough. I may sound like a monster, but then I am not a typical human.
+Originally published in Interzone #248, September-October 2013.
+Sean McMullen quit scientific computing to become a full time author in 2014. Prior to that, as an after-hours author, he established his international reputation with his pioneering steampunk novel Souls in the Great Machine, which was published in over a dozen languages, and won fifteen awards. He also came runner-up in the 2011 Hugo Awards with his novelette "Eight Miles." His six book children's fantasy series, The Warlock's Child, was jointly written with Paul Collins and published in 2015. He is currently a judge for the Norma Hemming Award.

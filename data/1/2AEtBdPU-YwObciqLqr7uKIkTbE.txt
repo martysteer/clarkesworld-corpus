@@ -1,0 +1,318 @@
+10350 words, novelette, REPRINT
+Laika's Ghost
+The flight had been bumpy; the landing was equally so, to the point where Gennady was sure the old Tupolev would blow a tire. Yet his seat-mate hadn’t even shifted position in two hours. That was fine with Gennady, who had spent the whole trip trying to pretend he wasn’t there at all.
+The young American had been a bit more active during the flight across the Atlantic: at least, his eyes had been open and Gennady could see colored lights flickering across them from his augmented reality glasses. But he had exchanged less than twenty words with Gennady since they’d left Washington.
+In short, he’d been the ideal traveling companion.
+The other four passengers were stretching and groaning. Gennady poked Ambrose in the side and said, “Wake up. Welcome to the ninth-biggest country in the world.”
+Ambrose snorted and sat up. “Brazil?” he said hopefully. Then he looked out his window. “What the hell?”
+The little municipal airport had a single gate, which as the only plane on the field, they were taxiing up to uncontested. Over the entrance to the single-story building was the word “Степногорск.” “Welcome to Stepnogorsk,” said Gennady as he stood to retrieve his luggage from the overhead rack. He traveled light by habit. Ambrose, he gathered, had done so from necessity.
+“Stepnogorsk . . . ?” Ambrose shambled after him, a mass of wrinkled clothing leavened with old sweat.
+“Secret Soviet town,” Ambrose mumbled as they reached the plane’s hatch and a burst of hot dry air lifted his hair. “Population sixty-thousand,” he added as he put his left foot on the metal steps. Halfway down he said, “Manufactured anthrax bombs in the Cold War!” And as he set foot on the tarmac he finished with, “Where the hell is Kazakhstan? . . . Oh.”
+“Bigger than Western Europe,” said Gennady. “Ever heard of it?”
+“Of course I’ve heard of it,” said the youth testily—but Gennady could see from how he kept his eyes fixed in front of him that he was still frantically reading about the town from some website or other. The wan August sunlight revealed him to be taller than Gennady, pale, with stringy hair, and everything about him soft—a sculpture done in rounded corners. He had a wide face, though; he might pass for Russian. Gennady clapped him on the shoulder. “Let me do the talking,” he said as they dragged themselves across the blistering tarmac to the terminal building.
+“So,” said Ambrose, scratching his neck. “Why are we here?”
+“You’re here because you’re with me. And you needed to disappear, but that doesn’t mean I stop working.”
+Gennady glanced around. The landscape here should look a lot like home, which was only a day’s drive to the west—and here indeed was that vast sky he remembered from Ukraine. After that first glance, though, he did a double-take. The dry prairie air normally smelled of dust and grass at this time of year, and there should have been yellow grass from here to the flat horizon—but instead the land seemed blasted, with large patches of bare soil showing. There was only stubble where there should have been grass. It looked more like Australia than Asia. Even the trees ringing the airport were dead, just gray skeletons clutching the air.
+He thought about climate change as they walked through the concrete-floored terminal; since they’d cleared customs in Amsterdam, the bored-looking clerks here just waved them through. “Hang on,” said Ambrose as he tried to keep up with Gennady’s impatient stride. “I came to you guys for asylum. Doesn’t that mean you put me up somewhere, some hotel, you know, away from the action?”
+“You can’t get any farther from the action than this.” They emerged onto a boulevard that had grass, though it hadn’t been watered nor cut in a long while; the civilized lawn merged imperceptibly with the wild prairie. There was nothing visible from here to the horizon, except in one direction where a cluster of listless windmills jutted above some low trees.
+A single taxicab was sitting at the crumbled curb.
+“Oh, man,” said Ambrose.
+Gennady had to smile. “You were expecting some Black Sea resort, weren’t you?” He slipped into the taxi, which stank of hot vinyl and motor oil. “Any car rental agency,” he said to the driver in Russian. “It’s not like you’re some Cold War defector,” he continued to Ambrose in English. “Your benefactor is the U.N. And they don’t have much money.”
+“So you’re what—putting me up in a motel in Kazakhstan?” Ambrose struggled to put his outrage into words. “What I saw could—”
+“What?” They pulled away from the curb and became the only car on a cracked blacktop road leading into town.
+“Can’t tell you,” mumbled Ambrose, suddenly looking shifty. “I was told not to tell you anything.”
+Gennady swore in Ukrainian and looked away. They drove in silence for a while, until Ambrose said, “So why are you here, then? Did you piss somebody off?”
+Gennady smothered the urge to push Ambrose out of the cab. “Can’t tell you,” he said curtly.
+“Does it involve SNOPB?” Ambrose pronounced it ‘snop-bee.’
+Gennady would have been startled had he not known Ambrose was connected to the net via his glasses. “You show me yours, I’ll show you mine,” he said. Ambrose snorted in contempt.
+They didn’t speak for the rest of the drive.
+“Let me get this straight,” said Gennady later that evening. “He says he’s being chased by Russian agents, NASA—and Google?”
+On the other end of the line, Eleanor Frankl sighed. “I’m sorry we dumped him on you at the airport,” said the New York director of the International Atomic Energy Agency. She was Gennady’s boss for this new and—so far—annoyingly vague contract. “There just wasn’t time to explain why we were sending him with you to Kazakhstan,” she added.
+“So explain now.” He was pacing in the grass in front of the best hotel his IAEA stipend could afford. It was evening and the crickets were waking up; to the west, fantastically huge clouds had piled up, their tops still lit golden as the rest of the sky faded into mauve. It was cooling off already.
+“Right . . . Well, first of all, it seems he really is being chased by the Russians, but not by the country. It’s the Soviet Union Online that’s after him. And the only place their IP addresses are blocked is inside the geographical territories of the Russian and Kazakhstani Republics.”
+“So, let me get this straight,” said Gennady heavily. “Poor Ambrose is being chased by Soviet agents. He ran to the U.N. rather than the FBI, and to keep him safe you decided to transport him to the one place in the world that is free of Soviet influence. Which is Russia.”
+“Exactly,” said Frankl brightly. “And you’re escorting him because your contract is taking you there anyway. No other reason.”
+“No, no, it’s fine. Just tell me what the hell I’m supposed to be looking for at SNOPB. The place was a God-damned anthrax factory. I’m a radiation specialist.”
+He heard Frankl take a deep breath, and then she said, “Two years ago, an unknown person or persons hacked into a Los Alamos server and stole the formula for an experimental metastable explosive. Now we have a paper trail and emails that have convinced us that a metastable bomb is being built. You know what this means?”
+Gennady leaned against the wall of the hotel, suddenly feeling sick. “The genie is finally out of the bottle.”
+“If it’s true, Gennady, then everything we’ve worked for has come to naught. Because as of now, anybody in the world who wants a nuclear bomb, can make one.”
+He didn’t know what to say, so he just stared out at the steppe, thinking about a world where hydrogen bombs were as easy to get as TNT. His whole life’s work would be rendered pointless—and all arms treaties, the painstaking work of generations to put the nuclear nightmare back in its bottle. The nuclear threat had been containable when it was limited to governments and terrorists—but now, the threat was from everybody . . .
+Eleanor’s distant voice snapped him back to attention. “Here’s the thing, Gennady: we don’t know very much about this group that’s building the metastable weapon. By luck we’ve managed to decrypt a few emails from one party, so we know a tiny bit—a minimal bit—about the design of the bomb. It seems to be based on one of the biggest of the weapons ever tested at Semipalatinsk—its code name was the Tsarina.”
+“The Tsarina?” Gennady whistled softly. “That was a major, major test. Underground, done in 1968. Ten megatonnes—lifted the whole prairie two meters and dropped it. Killed about a thousand cattle from the ground shock. Scared the hell out of the Americans, too.”
+“Yes, and we’ve discovered that some of the Tsarina’s components were made at the Stepnogorsk Scientific Experimental and Production Base. In Building 242.”
+“But SNOPB was a biological facility, not nuclear. How can this possibly be connected?”
+“We don’t know how, yet. Listen, Gennady, I know it’s a thin lead. After you’re done at the SNOPB, I want you to drive out to Semipalatinsk and investigate the Tsarina site.”
+“Hmmph.” Part of Gennady was deeply annoyed. Part was relieved that he wouldn’t be dealing with any IAEA or Russian nuclear staff in the near future. Truth to tell, stalking around the Kazaki grasslands was a lot more appealing than dealing with the political shit-storm that would hit when this all went public.
+But speaking of people . . . He glanced up at the hotel’s one lighted window. With a grimace he pocketed his augmented reality glasses and went up to the room.
+Ambrose was sprawled on one of the narrow beds. He had the TV on and was watching a Siberian ski-adventure infomercial. “Well?” he said as Gennady sat on the other bed and dragged his shoes off.
+“Tour of secret Soviet anthrax factory. Tomorrow, after Egg McMuffins.”
+“Yay,” said Ambrose with apparent feeling. “Do I get to wear a hazmat suit?”
+“Not this time.” Gennady lay back, then saw that Ambrose was staring at him with an alarmed look on his face. “Is fine,” he said, waggling one hand at the boy. “Only one underground bunker we’re interested in, and they probably never used it. The place never went into full production, you know.”
+“Meaning it only made a few hundred pounds of anthrax per day instead of the full ton it was designed for! I should feel reassured?”
+Gennady stared at the uneven ceiling. “Is an adventure.” He must be tired, his English was slipping.
+“This sucks.” Ambrose crossed his arms and glowered at the TV.
+Gennady thought for a while. “So what did you do to piss off Google so much? Drive the rover off a cliff?” Ambrose didn’t answer, and Gennady sat up. “You found something. On Mars.”
+“No, that’s ridiculous,” said Ambrose. “That’s not it at all.”
+“Huh.” Gennady lay down again. “Still, I think I’d enjoy it. Even if it wasn’t in real-time . . . driving on Mars. That would be cool.”
+“That sucked too.”
+“Really? I would have thought it would be fun, seeing all those places emerge from low-res satellite into full hi-res 3-D.”
+But Ambrose shook his head. “That’s not how it worked. That’s the point. I couldn’t believe my luck when I won the contest, you know? I thought it’d be like being the first man on Mars, only I wouldn’t have to leave my living room. But the whole point of the rover was to go into terrain that hadn’t been photographed from the ground before. And with the time-delay on signals to Mars, I wasn’t steering it in real time. I’d drive in fast-forward mode over low-res pink hills that looked worse than a forty-year-old video game, then upload the drive sequence and log off. The rover’d get the commands twenty minutes later and drive overnight, then download the results. By that time it was the next day and I had to enter the next path. Rarely had time to even look at where we’d actually gone the day before.”
+Gennady considered. “A bit disappointing. But still—more than most people ever get.”
+“More than anyone else will ever get.” Ambrose scowled. “That’s what was so awful about it. You wouldn’t understand.”
+“Oh?” Gennady arched an eyebrow. “We who grew up in the old Soviet Union know a little about disappointment.”
+Ambrose looked mightily uncomfortable. “I grew up in Washington. Capital of the world! But my dad went from job to job, we were pretty poor. So every day I could see what you could have, you know, the Capital dome, the Mall, all that power and glory . . . what they could have—but not me. Never me. So I used to imagine a future where there was a whole new world where I could be . . . ”
+“Important?”
+He shrugged. “Something like that. NASA used to tell us they were just about to go to Mars, any day now, and I wanted that. I dreamed about homesteading on Mars.” He looked defensive; but Gennady understood the romance of it. He just nodded.
+“Then when I was twelve the Pakistani-Indian war happened and they blew up each other’s satellites. All that debris from the explosions is going to be up there for centuries! You can’t get a manned spacecraft through that cloud, it’s like shrapnel. Hell, they haven’t even cleared low Earth orbit to restart the orbital tourist industry. I’ll never get to really go there! None of us will. We’re never gettin’ off this sinkhole.”
+Gennady scowled at the ceiling. “I hope you’re wrong.”
+“Welcome to the life of the last man to drive on Mars.” Ambrose dragged the tufted covers back from the bed. “Instead of space, I get a hotel in Kazakhstan. Now let me sleep. It’s about a billion o’clock in the morning, my time.”
+He was soon snoring, but Gennady’s alarm over the prospect of a metastable bomb had him fully awake. He put on his AR glasses and reviewed the terrain around SNOPB, but much of the satellite footage was old and probably out of date. Ambrose was right: nobody was putting up satellites these days if they could help it.
+Little had probably changed at the old factory, though, and it was a simple enough place. Planning where to park and learning where Building 242 was hadn’t reduced his anxiety at all, so on impulse he switched his view to Mars. The sky changed color—from pure blue to butterscotch—but otherwise, the landscape looked disturbingly similar. There were a lot more rocks on Mars, and the dirt was red, but the emptiness, the slow rolling monotony of the plain and stillness were the same, as if he’d stepped into a photograph. (Well, he actually had, but he knew there would be no more motion in this scene were he there.) He commanded the viewpoint to move, and for a time strolled, alone, in Ambrose’s footsteps—or rather, the ruts of Google’s rover. Humans had done this in their dreams for thousands of years, yet Ambrose was right—this place was, in the end, no more real than those dreams.
+Russia’s cosmonauts had still been romantic idols when he was growing up. In photos they had stood with their heads high, minds afire with plans to stride over the hills of the moon and Mars. Gennady pictured them in the years after the Soviet Union’s collapse, when they still had jobs, but no budget or destination any more. Where had their dreams taken them?
+The Baikonur spaceport was south of here. Instead of space, in the end they’d also had to settle for a hard bed in Kazakhstan.
+In the morning they drove out to the old anthrax site in a rented Tata sedan. The fields around Stepnogorsk looked like they’d been glared at by God, except where bright blue dew-catcher fencing ran in rank after rank across the stubble. “What’re those?” asked Ambrose, pointing; this was practically the first thing he’d said since breakfast.
+In the rubble-strewn field of what had once been SNOPB, several small windmills were twirling atop temporary masts. Below them were some shipping-container sized boxes with big grills in their sides. The site looked healthier than the surrounding prairie; there were actual green trees in the distance. Of course, this area had been wetlands and there’d been a creek running behind SNOPB; maybe it was still here, which was a hopeful sign.
+“Headquarters told me that some kind of climate research group is using the site,” he told Ambrose as he pulled up and stopped the car. “But it’s still public land.”
+“They built an anthrax factory less than five minutes outside of town?” Ambrose shook his head, whether in wonder or disgust, Gennady couldn’t tell. They got out of the car, and Ambrose looked around in obvious disappointment. “Wow, it’s gone gone.” He seemed stunned by the vastness of the landscape. Only a few foundation walls now stuck up out of the cracked lots where the anthrax factory had once stood, except for where the big box machines sat whirring and humming. They were near where the bunkers had been; so, with a frown of curiosity, Gennady strolled in that direction. Ambrose followed, muttering to himself. “ . . . Last update must have been ten years ago.” He had his glasses on, so he was probably comparing the current view to what he could see online.
+According to Gennady’s notes, the bunkers had been grass-covered buildings with two-meter thick walls, designed to withstand a nuclear blast. In the 1960s and 70s they’d contained ranks of cement vats where the anthrax was grown. Those had been cracked and filled in, and the heavy doors removed; but it would have been too much work to fill the bunkers in entirely. He poked his nose into the first in line—Building 241—and saw a flat stretch of water leading into darkness. “Excellent. This job just gets worse. We may be wading.”
+“But what are you looking for?”
+“I—oh.” As he rounded the mound of Building 242, a small clutch of hummers and trucks came into view. They’d been invisible from the road. There was still no sign of anybody, so he headed for Bunker 242. As he was walking down the crumbled ramp to the massive doors, he heard the unmistakable sound of a rifle-bolt being slipped. “Better not go in there,” somebody said in Russian.
+He looked carefully up and to his left. A young woman had come over the top of the mound. She was holding the rifle, and she had it aimed directly at Gennady.
+“What are you doing here?” she said. She had a local accent.
+“Exploring, is all,” said Gennady. “We’d heard of the old anthrax factory, and thought we’d take a look at it. This is public land.”
+She swore, and Gennady heard footsteps behind him. Ambrose looked deeply frightened as two large men—also carrying rifles—emerged from behind a plastic membrane that had been stretched across the bunker’s doorway. Both men wore bright yellow fireman’s masks, and had air tanks on their backs.
+“When are your masters going to believe that we’re doing what we say?” said the woman. “Come on.” She gestured with her rifle for Gennady and Ambrose to walk down the ramp.
+“We’re dead, we’re dead,” whimpered Ambrose. He was shivering.
+“If you really must have your proof, then put these on.” She nodded to the two men, who stripped off their masks and tanks and handed them to Gennady and Ambrose. They pushed past the plastic membrane and into the bunker.
+The place was full of light: a crimson, blood-red radiance that made the sight of what was inside all the more bizarre.
+“Oh shit,” muttered Ambrose. “It’s a grow-op.”
+The long, low space was filled from floor to ceiling with plants. Surrounded them on tall stands were hundreds of red LED lamp banks. In the lurid light, the plants appeared black. He squinted at the nearest, fully expecting to see a familiar, jagged-leaf profile. Instead—
+“Tomatoes?”
+“Two facts for you,” said the woman, her voice muffled. She’d set down her rifle, and now held up two fingers. “One: we’re not stepping on anybody else’s toes here. We are not competing with you. And two: this bunker is designed to withstand a twenty kilotonne blast. If you think you can muscle your way in here and take it over, you’re sadly mistaken.”
+Gennady finally realized what they’d assumed. “We’re not the mafia,” he said. “We’re just here to inspect the utilities.”
+She blinked at him, her features owlish behind the yellow frame of the mask. Ambrose rolled his eyes. “Oh God, what did you say?”
+“American?” Puzzled, she lowered her rifle. In English, she said, “You spoke English.”
+“Ah,” said Ambrose, “well—”
+“He did,” said Gennady, also in English. “We’re not with the mafia, we’re arms inspectors. I mean, I am. He’s just along for the ride.”
+“Arms inspectors?” She guffawed, then looked around herself at the stolid Soviet bunker they were standing in. “What, you thought—”
+“We didn’t think anything. Can I lower my hands now?” She thought about it, then nodded. Gennady rolled his neck and then nodded at the ranked plants. “Nice setup. Tomatoes, soy, and those long tanks contain potatoes? But why in here, when you’ve got a thousand kilometers of steppe outside to plant this stuff?”
+“We can control the atmosphere in here,” she said. “That’s why the masks: it’s a high CO2 environment in here. That’s also why I stopped you in the first place; if you’d just strolled right in, you’d have dropped dead from asphyxia.
+“This project’s part of minus three,” she continued. “Have you heard of us?” Both Ambrose and Gennady shook their heads.
+“Well, you will.” There was pride in her voice. “You see, right now humanity uses the equivalent of three Earth’s worth of ecological resources. We’re pioneering techniques to reduce that reliance by the same amount.”
+“Same amount? To zero Earths?” He didn’t hide the incredulity in his voice.
+“Eventually, yes. We steal most of what we need from the Earth in the form of ecosystem services. What we need is to figure out how to run a full-fledged industrial civilization as if there were no ecosystem services available to us at all. To live on Earth,” she finished triumphantly, “as if we were living on Mars.”
+Ambrose jerked in visible surprise.
+“That’s fascinating,” said Gennady. He hadn’t been too nervous while they were pointing guns at him—he’d had that happen before, and in such moments his mind became wonderfully sharp—but now that he might actually be forced to have a conversation with these people, he found his mouth going quite dry. “You can tell me all about it after I’ve finished my measurements.”
+“You’re kidding,” she said.
+“I’m not kidding at all. Your job may be saving the Earth within the next generation, but mine is saving it this week. And I take it very seriously. I’ve come here to inspect the original fittings of this building, but it looks like you destroyed them, no?”
+“Not at all,” she said. “Actually, we used what was here. This bunker’s not like the other ones, you know they had these big cement tanks in them. I’d swear this one was set up exactly like this.”
+“Show me.”
+For the next half hour they climbed under the hydroponic tables, behind the makeshift junction boxes mounted near the old power shaft, and atop the sturdier lighting racks. Ambrose went outside, and came back to report that the shipping containers they’d seen were sophisticated CO2 scrubbers. The big boxes sucked the gas right out of the atmosphere, and then pumped it through hoses into the bunker.
+At last he and the woman climbed down, and Gennady shook his head. “The mystery only deepens,” he said.
+“I’m sorry we couldn’t help you more,” she said. “And apologies for pulling a gun on you. —I’m Kyzdygoi,” she added, thrusting out her hand for him to shake.
+“Uh, that’s a . . . pretty name,” said Ambrose as he too shook her hand. “What’s it mean?”
+“It means ‘stop giving birth to girls,’” said Kyzdygoi with a straight face. “My parents were old school.”
+Ambrose opened his mouth and closed it, his grin faltering.
+“All right, well, good luck shrinking your Earths,” Gennady told her as they strolled to the plastic-sheet-covered doorway.
+As they drove back to Stepnogorsk, Ambrose leaned against the Tata’s door and looked at Gennady in silence. Finally he said, “You do this for a living?”
+“Ah, it’s unreliable. A paycheck here, a paycheck there . . . ”
+“No, really. What’s this all about?”
+Gennady eyed him. He probably owed the kid an explanation after getting guns drawn on him. “Have you ever heard of metastable explosives?”
+“What? No. Wait . . . ” He fumbled for his glasses.
+“Never mind that.” Gennady waved at the glasses. “Metastables are basically super-powerful chemical explosives. They’re my new nightmare.”
+Ambrose jerked a thumb back at SNOPB. “I thought you were looking for germs.”
+“This isn’t about germs, it’s about hydrogen bombs.” Ambrose looked blank. “A hydrogen bomb is a fusion device that’s triggered by high compression and high temperature. Up til now, the only thing that could generate those kinds of conditions was an atomic bomb—a plutonium bomb, understand? Plutonium is really hard to refine, and it creates terrible fallout even if you only use a little of it as your fusion trigger.”
+“So?”
+“So, metastable explosives are powerful enough to trigger hydrogen fusion without the plutonium. They completely sever the connection between nuclear weapons and nuclear industry, which means that once they exist, we good guys totally lose our ability to tell who has the bomb and who doesn’t. Anybody who can get metastables and some tritium gas can build a hydrogen bomb, even some disgruntled loner in his garage.
+“And somebody is building one.”
+Stepnogorsk was fast approaching. The town was mostly a collection of Soviet-era apartment blocks with broad prairie visible past them. Gennady swung them around a corner and they drove through Microdistrict 2 and past the disused Palace of Culture. Up ahead was their hotel . . . surrounded by the flashing lights of emergency vehicles.
+“Oh,” said Gennady. “A fire?”
+“Pull over. Pull over!” Ambrose braced his hands against the Tata’s low ceiling. Gennady shot him a look, but did as he’d asked.
+“Shit. They’ve found me.”
+“Who? Those are police cars. I’ve been with you every minute since we got here, there’s no way you could have gotten into any trouble.” Gennady shook his head. “No, if it’s anything to do with us, it’s probably Kyzdygoi’s people sending us a message.”
+“Yeah? Then who are those suits with the cops?”
+Gennady thought about it. He could simply walk up to one of the cops and ask, but figured Ambrose would probably have a coronary if he did that.
+“Well . . . there is one thing we can try. But it’ll cost a lot.”
+“How much?”
+Gennady eyed him. “All right, all right,” said Ambrose. “What do we do?”
+“You just watch.” Gennady put on his glasses and stepped out of the car. As he did, he put through a call to London, where it was still early morning. “Hello? Lisaveta? It’s Gennady. Hi! How are you?”
+He’d brought a binocular attachment for the glasses, which he sometimes used for reading serial numbers on pipes or barrels from a distance. He clipped this on and began scanning the small knot of men who were standing around outside the hotel’s front doors.
+“Listen, Lisa, can I ask you to do something for me? I have some faces I need scanned. . . . Not even remotely legal, I’m sure. . . . No, I’m not in trouble! Would I be on the phone to you if I were in trouble? Just—okay. I’m good for it. Here come the images.”
+He relayed the feed from his glasses to Lisa in her flat in London.
+“Who’re you talking to?” asked Ambrose.
+“Old friend. She got me out of Chernobyl intact when I had a little problem with a dragon— Lisa? Got it? Great. Call me back when you’ve done the analysis.”
+He pocketed the glasses and climbed back in the car. “Lisa has Interpol connections, and she’s a fantastic hacker. She’ll run facial recognition on it and hopefully tell us who those people are.”
+Ambrose cringed back in his seat. “So what do we do in the meantime?”
+“We have lunch. How ’bout that French restaurant we passed? The one with the little Eiffel Tower?”
+Despite the clear curbs everywhere, Gennady parked the car at the shopping mall and walked the three blocks to the La France. He didn’t tell Ambrose why, but the American would figure it out: the Tata was traceable through its GPS. Luckily La France was open and they settled in for some decent crepes. Gennady had a nice view of a line of trees west of the town boundary. Occasionally a car drove past.
+Lisa pinged him as they were settling up. “Gennady? I got some hits for you.”
+“Really?” He hadn’t expected her to turn up anything. Gennady’s working assumption was that Ambrose was just being paranoid.
+“Nothing off the cops; they must be local,” she said. “But one guy—the old man—well, it’s daft.”
+He sighed in disappointment, and Ambrose shot him a look. “Go ahead.”
+“His name is Alexei Egorov. He’s premier of a virtual nation called the Soviet Union Online. They started from this project to digitize all the existing paper records of the Soviet era. Once those were online, Egorov and his people started some deep data-mining to construct a virtual Soviet, and then they started inviting the last die-hard Stalinists—or their kids—to join. It’s a virtual country composed of bitter old men who’re nostalgic for the purges. Daft.”
+“Thanks, Lisa. I’ll wire you the fee.”
+He glowered at Ambrose. “Tell me about Soviet Union.”
+“I’m not supposed to—”
+“Oh come on. Who said that? Whoever they are, they’re on the far side of the planet right now, they can’t help you. They put you with me, but I can’t help you either if I don’t know what’s going on.”
+Ambrose’s lips thinned to a white line. He leaned forward. “It’s big,” he said.
+“Can’t be bigger than my metatables. Tell me: what did you see on Mars?”
+Ambrose hesitated. Then he blurted, “A pyramid.”
+Silence.
+“Really, a pyramid,” Ambrose insisted. “Big sucker, gray, I think most of it was buried in the permafrost. It was the only thing sticking up for miles. This was on the Northern plains, where there’s ice just under the surface. The whole area around it . . . well, it was like a frozen splash, if you know what I mean. Almost a crater.”
+This was just getting more and more disappointing. “And why is Soviet Union Online after you?”
+“Because the pyramid had Russian writing on it. Just four letters, in red: CCCP.”
+The next silence went on for a while, and was punctuated only by the sound of other diners grumbling about local carbon prices.
+“I leaked some photos before Google came after me with their non-disclosure agreements,” Ambrose explained. “I guess the Soviets have internet search-bots constantly searching for certain things, and they picked up on my posts before Google was able to take them down. I got a couple of threatening phone calls from men with thick Slavic accents. Then they tried to kidnap me.”
+“No!”
+Ambrose grimaced. “Well, they weren’t very good at it. It was four guys, all of them must have been in their eighties, they tried to bundle me into a black van. I ran away and they just stood there yelling curses at me in Russian. One of them threw his cane at me.” He rubbed his ankle.
+“And you took them seriously?”
+“I did when the FBI showed up and told me I had to pack up and go with them. That’s when I ran to the U.N. I didn’t believe that ‘witness protection’ crap the Feds tried to feed me. The U.N. people told me that the Soviets’ data mining is actually really good. They keep turning up embarrassing and incriminating information about what people and governments got up to back in the days of the Cold War. They use what they know to influence people.”
+“That’s bizarre.” He thought about it. “Think they bought off the police here?”
+“Or somebody. They want to know about the pyramid. But only Google, and the Feds, and I know where it is. And NASA’s already patched that part of the Mars panoramas with fake data.”
+Disappointment had turned to a deep sense of surprise. For Gennady, being surprised usually meant that something awful was about to happen; so he said, “We need to get you out of town.”
+Ambrose brightened. “I have an idea. Let’s go back to SNOPB. I looked up these -3 people, they’re eco-radicals but at least they don’t seem to be lunatics.”
+“Hmmph. You just think Kyzdygoi’s ‘hot.’” Ambrose grinned and shrugged.
+“Okay. —But we’re not driving, because the car can be tracked. You walk there. It’s only a few kilometers. I’ll deal with the authorities and these ‘Soviets,’ and once I’ve sent them on their way we’ll meet up. You’ve got my number.”
+Ambrose had evidently never taken a walk in the country before. After Gennady convinced him he would survive it, they parted outside La France, and Gennady watched him walk away, sneakers flapping. He shook his head and strolled back to the Tata.
+Five men were waiting for him. Two were policemen, and three wore business attire. One of these was an old, bald man in a faded olive-green suit. He wore augmented reality glasses, and there was a discrete red pin on his lapel in the shape of the old Soviet flag.
+Gennady made a show of pushing his own glasses back on his nose and walked forward, hand out. As the cops started to reach for their tasers, Gennady said, “Mr. Egorov! Gennady Malianov, IAEA. You’ll forgive me if I record and upload this conversation to headquarters?” He tapped the frame of his glasses and turned to the other suits. “I didn’t catch your names?”
+The suits frowned; the policemen hesitated; Egorov, however, put out his hand and Gennady shook it firmly. He could feel the old man’s bones shift in his grip, but Egorov didn’t grimace. Instead he said, “Where’s your companion?”
+“You mean that American? No idea. We shared a hotel room because it was cheaper, but then we parted ways this morning.”
+Egorov took his hand back, and pressed his bruised knuckles against his hip. “You’ve no idea where he is?”
+“None.”
+“What’re you doing here?” asked one of the cops.
+“Inspecting SNOPB,” he said. Gennady didn’t have to fake his confidence here; he felt well armored by his affiliation to Frankl’s people. “My credentials are online, if there’s some sort of issue here?”
+“No issue,” muttered Egorov. He turned away, and as he did a discrete icon lit up in the corner of Gennady’s heads-up display. Egorov had sent him a text message.
+He hadn’t been massaging his hand on his flank; he’d been texting through his pants. Gennady had left the server in his glasses open, so it would have been easy for Egorov to ping it and find his address.
+In among all the other odd occurrences of the past couple of days, this one didn’t stand out. But as Gennady watched Egorov and his policemen retreat, he realized that his assumption that Egorov had been in charge might be wrong. Who were those other two suits?
+He waited for Egorov’s party to drive away, then got in the Tata and opened the email.
+It said, Mt tnght Pavin Inn, rstrnt wshrm. Cm aln.
+Gennady puzzled over those last two words for a while. Then he got it. “Come alone!” Ah. He should have known.
+Shaking his head, he pulled out of the lot and headed back to the hotel to check out. After loading his bag, and Ambrose’s, into the Tata, he hit the road back to SNOPB. Nobody followed him, but that meant nothing since they could track him through the car’s transponder if they wanted. It hardly mattered; he was supposed to be inspecting the old anthrax factory, so where else would he be going?
+Ambrose’d had enough time to get to SNOPB by now, but Gennady kept one eye on the fields next to the road just in case. He saw nobody, and fully expected to find the American waiting outside Building 242 as he pulled up.
+As he stepped out of the Tata he nearly twisted his ankle in a deep rut. There were fresh tire tracks and shattered bits of old asphalt all over the place; he was sure he hadn’t seen them this morning.
+“Hello?” He walked down the ramp into the sudden dark of the bunker. Did he have the right building? It was completely dark here.
+Wires drooled from overhead conduits; hydroponic trays lay jumbled in the corner, and strange-smelling liquids were pooled on the floor. -3 had pulled out, and in a hurry.
+He cursed, but suppressed an urge to run back to the car. He had no idea where they’d gone, and they had a head-start on him. The main question was, had they left before or after Ambrose showed up?
+The answer lay in the yellow grass near where -3’s vehicles had been parked that morning. Gennady knelt down and picked up a familiar pair of augmented reality glasses. Ambrose would not have left these behind willingly.
+Gennady swore, and now he did run to the Tata.
+The restaurant at the Pavin Inn was made up to look like the interiors of a row of yurts. This gave diners some privacy as most of them had private little chambers under wood-ribbed ceilings; it also broke up the eye-lines to the place’s front door, making it easy for Gennady to slip past the two men in suits who’d been with Egorov in the parking lot. He entered the men’s room to find Egorov pacing in front of the urinal trough.
+“What’s this all about?” demanded Gennady—but Egorov made a shushing motion and grabbed a trash can. As he upended it under the bathroom’s narrow window, he said, “First you must get me out of here!”
+“What? Why?”
+Egorov tried to climb onto the upended can, but his knees and hips weren’t flexible enough. Finally Gennady relented and went to help him. As he boosted the old comrade, Egorov said, “I am a prisoner of these people! They work for the Americans.” He practically spat the name. He perched precariously on the can and began tugging at the latch to the window. “They have seized our database! All the Soviet records . . . including what we know about the Tsarina.”
+Gennady coughed. Then he said, “I’ll bring the car around.”
+He helped Egorov through the window then, after making sure no one was looking, left through the hotel’s front door. The unmistakable silhouette of Egorov was limping into the parking lot. Gennady followed him and, as he unlocked the Tata, he said, “I’ve disabled the GPS tracking in this car. It’s a rental; I’m going to drop it off in Semey, which is six hundred kilometers from here. Are you sure you’re up to a drive like that?”
+The old man’s eyes glinted under yellow street light. “Never thought I’d get a chance to see the steppes again. Let’s go!”
+Gennady felt a ridiculous surge of adrenalin as they bumped out of the parking lot. Two cars were on the road, and endless blackness swallowed the landscape beyond the edge of town. It was a simple matter to swing onto the highway and leave Stepnogorsk behind—but it felt like a car chase.
+“Ha ha!” Egorov craned his neck to look back at the dwindling town lights. “Semey, eh? You’re going to Semipalatinsk, aren’t you?”
+“To look at the Tsarina site, yes. Whose side does that put me on?”
+“Sides?” Egorov crossed his arms and glared out the windshield. “I don’t know about sides.”
+“It was an honest question.”
+“I believe you. But I don’t know. Except for them,” he added, jabbing a thumb back at the town. “I know they’re bad guys.”
+“Why? And why are they interested in Ambrose?”
+“Same reason we are. Because of what he saw.”
+Gennady took a deep breath. “Okay. Why don’t you just tell me what you know? And I’ll do the same?”
+“Yes, all right.” The utter blackness of the night-time steppe had swallowed them; all that was visible was the double-cone of roadway visible in the car’s headlamps. It barely changed, moment to moment, giving the drive a timelessness Gennady would, under other circumstances, have quite enjoyed.
+“We data-mine records from the Soviet era,” began Egorov. “To find out what really went on. It’s lucrative business, and it supports the Union of Soviet Socialist Republics Online.” He tapped his glasses.
+“Well, a few weeks ago, we got a request for some of the old data—from the Americans. Two requests, actually, a day apart: one from the search engine company, and the other from the government. We were naturally curious, so we didn’t say no; but we did a little digging into the data ourselves. —That is, we’d started to, when those young, grim men burst into our offices and confiscated the server. And the backup.”
+Gennady looked askance at him. “Really? Where was this?”
+“Um. Seattle. That’s where the CCCOP is based—only because we’ve been banned in the old country! Russia’s run by robber barons today, they have no regard for the glory of—”
+“Yes yes. Did you find out what they were looking for?”
+“Yes—which is how I ended up with these travel companions you saw. They are in the pay of the American CIA.”
+“Yes, but why? What does this have to do with the Tsarina?”
+“I was hoping you could tell me. All we found was appropriations for strange things that should never have had anything to do with a nuclear test. Before the Tsarina was set off, there was about a year of heavy construction at the site. Sometimes, you know, they built fake towns to blow them up and examine the blast damage. That’s what I thought at first; they ordered thousands of tonnes of concrete, rebar and asbestos, that sort of thing. But if you look at the records after the test, there’s no sign of where any of that material went.”
+“They ordered some sort of agricultural crop from SNOPB,” Gennady ventured. Egorov nodded.
+“None of the discrepancies would ever have been noticed if not for your friend and whatever it is he found. What was it, anyway?”
+A strange suspicion had begun to form in Gennady’s mind, but it was so unlikely that he shook his head. “I want to look at the Tsarina site,” he said. “Maybe that’ll tell us.”
+Egorov was obviously unsatisfied with that answer, but he said nothing, merely muttering and trying to get himself comfortable in the Tata’s bucket seat. After a while, just as the hum of the dark highway was starting to hypnotize Gennady, Egorov said, “It’s all gone to hell, you know.”
+“Hmm?”
+“Russia. It was hard in the old days, but at least we had our pride.” He turned to look out the black window. “After 1990, all the life just went out of the place. Lower birthrate, men drinking themselves to death by the age of forty . . . no ambition, no hope. A lost land.”
+“You left?”
+“Physically, yes.” Egorov darted a look at Gennady. “You never leave. Not a place like this. For many years now, I’ve struggled with how to bring back Russia’s old glory—our sense of pride. Yet the best I was ever able to come up with was an online environment. A game.” He spat the word contemptuously.
+Gennady didn’t reply, but he knew how Egorov felt. Ukraine had some of the same problems—the listless lack of direction, the loss of confidence . . . It wasn’t getting any better here. He thought of the blasted steppes they were passing through, rendered unlivable by global warming. There had been massive forest fires in Siberia this year, and the Gobi desert was expanding north and west, threatening the Kazaks even as the Caspian sea dwindled down to nothing.
+He thought of SNOPB. “They’re gone,” he said, “but they left their trash behind.” Toxic, decaying: nuclear submarines heeled over in the waters off of Murmansk, nitrates soaking the soil around the launch pads of Baikonur. The ghosts of old Soviets prowled this dark, in the form of radiation in the groundwater, mutations in the forest, and poisons in the dust clouds that were all too common these days. Gennady had spent his whole adult life cleaning up the mess, and before yesterday he’d been able to tell himself that it was working—that all the worst nightmares were from the past. The metastables had changed that, in one stroke rendering all the old fears laughable in comparison.
+“Get some sleep,” he told Egorov. “We’re going to be driving all night.”
+“I don’t sleep much anymore.” But the old man stopped talking, and just stared ahead. He couldn’t be visiting his online People’s Republic through his glasses, because those IP addresses were blocked here. But maybe he saw it all anyway—the brave young men in their trucks, heading to the Semipalatinsk site to witness a nuclear blast; the rail yards where parts for the giant moon rocket, doomed to explode on the pad, were mustering . . . With his gaze fixed firmly on the past, he seemed the perfect opposite of Ambrose with his American dreams of a new world unburdened by history, whose red dunes marched to a pure and mysterious horizon.
+The first living thing in space had been the Russian dog Laika. She had died in orbit—had never come home. If he glanced out at the star-speckled sky, Gennady could almost see her ghost racing eternally through the heavens, beside the dead dream of planetary conquest, of flags planted in alien soil and shining domes on the hills of Mars.
+They arrived at the Tsarina site at 4:30: dawn, at this latitude and time of year. The Semipalatinsk Polygon was bare, flat, blasted scrubland: Mars with tufts of dead weed. The irony was that it hadn’t been the hundreds of nuclear bombs set off here that had killed the land; even a decade after the Polygon was closed, the low rolling hills had been covered with a rich carpet of waving grass. Instead, it was the savage turn of the climate, completely unpredicted by the KGB and the CIA, that had killed the steppe.
+The road into the Polygon was narrow blacktop with no real shoulder, no ditches, and no oncoming traffic—though a set of lights had faded in and out of view in the rearview mirror all through the drive. Gennady would have missed the turnoff to the Tsarina site had his glasses not beeped.
+There had been a low wire fence here at one time, but nobody had kept it up. He drove straight over the fallen gate, which was becoming one with the soil, and up a low rise to the crest of the water-filled crater. There he parked and got out.
+Egorov climbed out too and stretched cautiously. “Beautiful,” he said, gazing into the epic sunrise. “Is it radioactive here?”
+“Oh, a little . . . That’s odd.”
+“What?”
+Gennady had looked at the satellite view of the site on the way here; it was clear, standing here in person, that that vertical perspective lied. “The Tsarina was supposed to be an underground test. You usually get some subsidence of the ground in a circle around the test site. And with the big ground shots, you would get a crater, like Lake Chagan,” he nodded to the east. “But this . . . this is a hole.”
+Egorov spat into it. “It certainly is.” The walls of the Tsarina crater were sheer and went down a good fifty feet to black water. The “crater” wasn’t round, either, but square, and it wasn’t nearly big enough to be the result of a surface explosion. If he hadn’t known it was the artifact of a bomb blast, Gennady would have sworn he was looking at a flooded quarry.
+Gennady gathered his equipment and began combing the grass around the site. After a minute he found some twisted chunks of concrete and metal, and knelt down to inspect them.
+Egorov came up behind him. “What are you looking for?”
+“Serial numbers.” He quickly found some old, grayed stenciling on a half-buried tank made of greenish metal. “You’ll understand what I’m doing,” he said as he pinched the arm of his glasses to take a snapshot. “I’m checking our database . . . Hmpf.”
+“What is it?” Egorov shifted from foot to foot. He was glancing around, as if afraid they might be interrupted.
+“This piece came from the smaller of the installations here. The one the Americans called URDF-3.”
+“URDF?” Egorov blinked at him.
+“Stands for ‘Unidentified Research and Development Facility.’ The stuff they built there scared the Yankees even more than the H-bomb . . . ”
+He stood up, frowning, and slowly turned to look at the entire site. “Something’s been bothering me,” he said as he walked to the very edge of the giant pit.
+“What’s that?” Egorov was hanging back.
+“Ambrose told me he saw a pyramid on Mars. It said CCCP on its side. That was all; so he knew it was Russian, and so did Google and the CIA when they found out about it. And you, too.
+“But that’s all anybody knew. So who made the connection between the pyramid and the Tsarina?”
+Egorov didn’t reply. Gennady turned and found that the old man had drawn himself up very straight, and had leveled a small, nasty-looking pistol at him.
+“You didn’t follow us to Stepnogorsk,” said Gennady. “You were already there.”
+“Take off your glasses,” said Egorov. “Carefully, so I can be sure you’re not snapping another picture.”
+As Gennady reached up to comply he felt the soft soil at the lip of the pit start to crumble. “Ah, can we—” It was too late, he toppled backward, arms flailing.
+He had an instant’s choice: roll down the slope, or jump and hope he’d hit the water. He jumped.
+The cold hit him so hard that at first he thought he’d been shot. Swearing and gasping, he surfaced, but when he spotted Egorov’s silhouette at the crest of the pit, dove again.
+Morning sunlight was just tipping into the water. At first Gennady thought the wall of the pit was casting a dark shadow across the sediment below him. Gradually he realized the truth: there was no bottom to this shaft. At least, none within easy diving distance.
+He swam to the opposite side; he couldn’t stay down here, he’d freeze. Defeated, he flung himself out of the freezing water onto hard clay that was probably radioactive. Rolling over, he looked up.
+Egorov stood on the lip of the pit. Next to him was a young woman with a rifle in her hands.
+Gennady sat up. “Shit.”
+Kyzdygoi slung the rifle over her back, then clambered down the slope to the shore. As she picked her way over to Gennady she said, “How much do you know?”
+“Everything,” he said between coughs. “I know everything. Where’s Ambrose?”
+“He’s safe,” she said. “He’ll be fine.”
+Then she waited, rifle cradled. “You’re here,” he said reluctantly, “which tells me that -3 was funded by the Soviets. Your job was never to clean up the Earth—it was to design life support and agricultural systems for a Mars colony.”
+Her mouth twitched, but she didn’t laugh. “How could we possibly get to Mars? The sky’s a shooting gallery.”
+“ . . . And that would be a problem if you were going up there in a dinky little aluminum can, like cosmonauts always did.” He stood up, joints creaking from the cold. He was starting to shiver deeply and it was hard to speak past his chattering teeth. “B-but if you rode a c-concrete bunker into orbit, you could ignore the shrapnel c-completely. In fact, that would be the only way you could d-do it.”
+“Come now. How could something like that ever get off the ground?”
+“The same way the Tsarina d-did.” He nodded at the dark surface of the flooded shaft. “The Americans had their P-project Orion. The Soviets had a similar program based at URDF-3. Both had discovered that an object could be just a few meters away from a nuclear explosion, and if it was made of the right materials it wouldn’t be destroyed—it would be shot away like a bullet from a gun. The Americans designed a spaceship that would drop atomic bombs out the back and ride the explosions to orbit. But the Tsarina wasn’t like that . . . it was just one bomb, and a d-deep shaft, and a pyramid-shaped spaceship to ride that explosion. That design’s something called a Verne gun.”
+“And who else knows this?”
+He hesitated. “N-no one,” he admitted. “I didn’t know until I saw the shaft just now. The p-pyramid was fitted into the mouth of it, right about where we’re s-standing. That’s why this doesn’t look like any other bomb crater on Earth.”
+“Let’s go,” she said, gesturing with the rifle. “You’re turning blue.”
+“Y-you’re not going t-to sh-shoot me?”
+“There’s no need,” she said gently. “In a few days, the whole world will know what we’ve done.”
+Gennady finished taping aluminum foil to the trailer’s window. Taking a push-pin from the cork board by the door, he carefully pricked a single tiny hole in the foil.
+It was night, and crickets were chirping outside. Gennady wasn’t tied up—in fact, he was perfectly free to leave—but on his way out the door Egorov had said, “I wouldn’t go outside in the next hour or so. After that . . . well, wait for the dust to settle.”
+They’d driven him about fifty kilometers to the south and into an empty part of the Polygon. When Gennady had asked why this place, Egorov had laughed. “The Soviets set off their bombs here because this was the last empty place on Earth. It’s still the last empty place, and that’s why we’re here.”
+There was nothing here but the withered steppe, a hundred or so trucks, vans and buses, and the cranes, tanks and pole-sheds of a temporary construction site. —And, towering over the sheds, a gray concrete pyramid.
+“A Verne gun fires its cargo into orbit in a single shot,” Egorov had told Gennady. “It generates thousands of gravities worth of acceleration—enough to turn you into a smear on the floor. That’s why the Soviets couldn’t send any people; they hadn’t figured out how to set off a controlled sequence of little bombs. The Americans never perfected that either. They didn’t have the computational power to do the simulations.
+“So they sent everything but the people. Two hundred eighty thousand tonnes in one shot, to Mars.”
+Bulldozers and cranes, fuel tanks, powdered cement, bags of seeds and food, space suits, even a complete, dismantled nuclear reactor: the Tsarina had included everything potential colonists might need on a new world. Its builders knew it had gone up, knew it had gotten to Mars; but they didn’t know where it had landed, or whether it had landed intact.
+A day after his visit to the Tsarina site, Gennady had sat outside this trailer with Egorov, Kyzdygoi and a few other officials of the new Soviet. They’d drunk a few beers and talked about the plan. “When our data-mining turned up the Tsarina’s manifest, it was like a light from heaven,” Egorov had said, his hands opening eloquently in the firelight. “Suddenly we saw what was possible, how to revive our people—all the world’s people—around a new hope, after all hope had gone. Something that would combine Apollo and Trinity into one event, and suddenly both would take on the meaning they always needed to have.”
+Egorov had started a crash program to build an Orion rocket. They couldn’t get fissionable materials—Gennady and his people had locked those up tightly and for all time. But the metastables promised a different approach.
+“We hoped the Tsarina was on Mars and intact, but we didn’t know for sure, until Ambrose leaked his pictures.”
+The new Tsarina would use a series of small, clean fusion blasts to lift off and, at the far end, to land again. Thanks to Ambrose, they knew where the Tsarina was. It didn’t matter that the Americans did too; nobody else had a plan to get there.
+“And by the time they get their acts together, we’ll have built a city,” said Kyzdygoi. She was wide-eyed with the power of the idea. “Because we’re not going there two at a time, like Noah in his Ark. We’re all going.” And she swung her arm to indicate the hundreds of campfires burning all around them, where thousands of men, women and children, hand-picked from among the citizens of the Union of Soviet Socialist Republics Online, waited to amaze the world.
+Gennady hunkered down in a little fort he’d built out of seat cushions, and waited.
+It was like a camera flash, and a second later there was a second, then a third, and then the whole trailer bounced into the air and everything Gennady’s hadn’t tied down went tumbling. The windows shattered and he landed on cushions and found himself staring across suddenly open air at the immolation of the building site.
+The flickering flashes continued, coming from above now. The pyramid was gone, and the cranes and heavy machinery lay tumbled like a child’s toys, all burning.
+Flash. Flash.
+It was really happening.
+Flash. Flash. Flash . . .
+Gradually, Gennady began to be able to hear again. He came to realize that monstrous thunder was rolling across the steppe, like a god’s drumbeat in time with the flashes. It faded, as the flashes faded, until there was nothing but the ringing in his ears, and the orange flicker of flame from the launch site.
+He staggered out to find perfect devastation. Once, this must once have been a common sight on the steppe; but his Geiger counter barely registered any radiation at all.
+—And in that, of course, lay a terrible irony. Egorov and his people had indeed divided history in two, but not in the way they’d imagined.
+Gennady ran for the command trailer. He only had a few minutes before the air forces of half a dozen nations descended on this place. The trailer had survived the initial blast, so he scrounged until he found a jerry-can full of gasoline, and then he climbed in.
+There they were: Egorov’s servers. The EMP from the little nukes might have wiped its drives, but Gennady couldn’t take the chance. He poured gasoline all over the computers, made a trail back to the door, then as the whole trailer went up behind him, ran to the leaning-but-intact metal shed where the metastables had been processed, and he did the same to it.
+That afternoon, as he and Egorov were watching the orderly queue of people waiting to enter the New Tsarina, Gennady had made his final plea. “Your research into metastables,” Gennady went on. “I need it. All of it, and the equipment and the backups; anything that might be used to reconstruct what you did.”
+“What happens to the Earth is no longer our concern,” Egorov said with a frown. “Humanity made a mess here. It’s not up to us to clean it up.”
+“But to destroy it all, you only need to be indifferent! And I’m asking, please, however much the world may have disappointed you, don’t leave it like this.” As he spoke, Gennady scanned the line of people for Ambrose, but couldn’t see him. Nobody had said where the young American was.
+Egorov had sighed in annoyance, then nodded sharply. “I’ll have all the formulae and the equipment gathered together. It’s all I have time for, now. You can do what you want with it.”
+Gennady watched the flames twist into the sky. He was exhausted, and the sky was full of contrails and gathering lights. He hadn’t destroyed enough of the evidence; surely, someone would figure out what Egorov’s people had done. And then . . . Shoulders slumped under the burden of that knowledge, he stalked into the darkness at the camp’s perimeter.
+His rented Tata sat where they’d left it when they first arrived here. After Kyzdygoi had confiscated his glasses at the Tsarina site, she’d put them in the Tata’s glove compartment. They were still there.
+Before Gennady put them on, he took a last unaided look at the burning campsite. Egorov and his people had escaped, but they’d left Gennady behind to clean up their mess. The metastables would be back. This new nightmare would get out of the bottle eventually, and when it did, the traditional specter of nuclear terrorism would look like a Halloween ghost in comparison. Could even the conquest of another world make up for that?
+As the choppers settled in whipping spirals of dust, Gennady rolled up the Tata’s window and put on his glasses. The New Tsarina’s EMP pulses hadn’t killed them—they booted up right away. And, seconds after they did, a little flag told him there was an email waiting for him.
+It was from Ambrose, and it read:
+Gennady: sorry I didn’t have time to say goodbye.
+I just wanted to say I was wrong. Anything’s possible, even for me.
+P.S. My room’s going to have a fantastic view.
+Gennady stared bitterly at the words. Anything’s possible . . .
+“For you, maybe,” he said as soldiers piled out of the choppers.
+“Not me.”
+Originally published in Engineering Infinity, edited by Jonathan Strahan.
+Canadian writer Karl Schroeder was born and raised in Brandon, Manitoba. He moved to Toronto in 1986, and has been working and writing there ever since. He is best known for his far-future Virga series, consisting of Sun of Suns, Queen of Candesce, Pirate Sun, and The Hero, but he has also written the novels Ventus, Permanence, and Lady of Mazes, as well as a novel in collaboration with David Nickle, The Claus Effect. He's also the co-author, with Cory Doctorow, of The Complete Idiot's Guide to Publishing Science Fiction. His short fiction has been collected in Engine of Recall. His most recent book is a new novel, Lockstep.

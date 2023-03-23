@@ -1,0 +1,542 @@
+16440 words, novelette
+Debtless
+In the history of human writing, the earliest word for “freedom” is found in Sumerian, signifying freedom from debt.
+—Treatise of Our Divine Debt, 02:35
+1
+The dream’s last sequence looped in my memory. A sticky black tide swept every inch of my body. Its rippling foam splintered into tiny chains that swarmed my skin, binding to blood vessels, cells, nerves, glands. The chains rubbed against each other, producing a metallic whistling. Then they began their slow elegant labor, building inside my body a kind of hell or kingdom.
+“Square Face, you dreaming again?”
+I opened my eyes on Freckles. She had this concerned look in her eyes. It wasn’t the type of look her expression management module would produce. Her concern was genuine. Such a look was rare in our line of work, out here hundreds of thousands of kilometers from Earth, in cold space.
+“You catch something anomalous in my data?” I glanced around the cramped control compartment, inhaling air drenched in sweat and chemicals.
+Miners were typically busy and indifferent toward each other. From time to time, our cognitive modules would pop-up passages from the Treatise of Our Divine Debt: Wearying debt is sinful and never complete . . . These flashed in our minds like commercials on a variety show. Nothing ever changed.
+“No, you were trembling like you’d been thrown into an ice cave, but your temperature was normal. Same as last time.”
+“Oh . . . ” I reflected. “Maybe I dreamed I was thrown from the cabin and then . . . ” I puffed my cheeks and rolled back my eyes, imitating those swollen bodies afloat in the absolute zero vacuum of space.
+“Not funny. Your turn on duty. Let me show you something.”
+As she turned her head, I saw her lips bend into a wry smile. Freckles had this natural gift that no matter how bad things got she could always find her own quiet amusement in things.
+“Look. Just like grazing sheep.”
+The spectacle on the screen she handed me indeed resembled a flock of sheep. Only in this case, the meadow was the vast darkness of space and the sheep were C-type asteroids of various shapes and diameters. Your typical sheep was around seven meters in length and filled with water, carbon-rich compounds, iron, nickel, cobalt, and precious raw materials, such as silicate residues. Depending on density, some reached masses of 500 tons. Those heavy sheep meandered in search of fresh grass amidst that dark meadow.
+On this revolution, they might be a few months or a few years in. They were in no hurry. We were in no hurry.
+Though perhaps thinking “no hurry” was just my way of comforting myself. A few months back, I had found a gap in several terabytes of resource consumption data. Our water, oxygen, protein, and energy were being consumed at a slightly higher rate than what in theory would have been standard. I suspected a leak in the pipes but had no clue where.
+I certainly wasn’t going to go outside to look for it. The thought of the cold dark infinite universe made my stomach turn.
+I tried solving the problem mathematically, as I did with all problems.
+My cognitive module shuffled through the data and displayed the details on my retinals.
+According to statistical probability, there were over a hundred million asteroids of this size and class. The challenge was that less than one in a hundred thousand could be observed and traced from any real distance. Optics, infrared spectroscopy, thermal flux, and lidar were all inadequate to capture details of dimension, composition, rotation or surface topography. Most asteroids were simply too far and too small with orbital cycles too long. The significant details could only be captured within a certain distance, say 0.01 astronomical units or so. Otherwise, it was needle in haystack stuff.
+When such treasures were identified amidst the dark starry field, sheepdogs—automated robots powered by solar and xenon propellant—were dispatched from the nearest interplanetary resource station. The latest Hall V propellant delivered up to eighty kilowatts and five thousand seconds of specific impulse. Approaching its targets, the sheepdog would circle several times, sniffing out its target, finding the most sensitive points. It then would sink six spiral anchors into the asteroid’s surface. Six vector propulsion engines would then fire, ceasing the asteroid’s rotation and thrusting it from its original orbit onto a precisely calculated path. Slowly and surely, the asteroid would reach the nearest point of gravitational stability, likely the L2 or L4 Lagrange points, where it could catch up with its new friends.
+Now Freckles had locked onto five asteroids slowly approaching each other, spinning like Tetris blocks in search of the perfect point of contact. The impact shouldn’t be too heavy or too light. Everything had to be just right. They connected into a nearly spherical whole as though returning to an embryonic state.
+“I guess . . . it’s like snooker for you,” I said. “Look at the beautiful arc of the cue ball. Only a master could summon her scattered soldiers with such finesse, from various corners of space to come together for the perfect kiss.”
+Freckles sniggered, as though my flattery was beneath her.
+Though most of the work was automated by robots and code, this was still space. Anything could happen. Freckles’ job was to interfere in case of emergency, such as when an asteroid deviated from orbit, or a sheepdog failed. She guarded against rigid body fractures and perilous debris that might eject upon impact. She was the veterinarian, ready to at any time to rescue both the sheep and the sheepdogs. For us, nothing was so precious as that wool.
+“Alright, Square Face. See you when I get back. I’m off to shear wool.”
+As Freckles wormed her way into her spacesuit, I realized just how small she was. She looked like a teenager though she was probably more like twenty-six or -seven. There were quite a few women on base: Hairbeast, Braids, Long-Legs . . . The company required specific gender ratios. Women were more durable than men in space, scoring higher than men in resistance to radiation, hunger tolerance, and psychological resilience. A balance of women and men also reduced the level of friction and anxiety, assuming both sides chose not to act territorially by enforcing the norms of old-school monogamy.
+I slept with most of the women but never Freckles. We had tried to get something going a few times, but each time ended in laughter. There was this glass wall between us. I didn’t know how the wall got there, but I didn’t want it to break. Its shards could rain down and wound innocent people.
+“I’m out. See you in a bit.” Her face was just barely visible behind the mask, which obscured her hallmark feature, the freckles dotting her nose.
+“Careful,” I said. Already, I couldn’t remember where her name came from. All of the miners had their own number—I was EM-L4-D28-53a—but we never used that crap to refer to each other. We mostly referred one another by one’s most obvious feature, which became their new name.
+None of us remembered real names. That was, we were told, part of the contract. Our memories were sequestered and encoded into blocks to avoid emotional fluctuations that could affect our mining work. This included names, families, childhood traumas, pets, and actual debt figures. Those figures were why we were here. They were encrypted in blockchains embedded in genes. No one could tamper with them. Our workload was recorded and converted into deducted debt and interest calculated in real time. It didn’t matter whether you were on Causeway Bay or a Lagrange point; all were equal in the eyes of the genetic debt system.
+“Chill out. You already said I’m a master. Besides, I’ve debt to pay.” She winked at me.
+Freckles always said I must have been born in the Year of the Rat, too cautious for greatness. I always relied on the skill tree implanted in my cognitive module when arguing with her. Some professions were designed for cautious responses. Data surveyors like me could fluently call data to calculate the likelihood of any extreme situation, as well as abstract a sense of the probabilities. This pattern was hardwired into our bodies, like a fear of heights or water is ingrained in a person suffering from one phobia or another. It wasn’t as though we could take the measure of our courage and cowardice and alter that balance. It wasn’t like some external hand had placed a few timid pieces into the jigsaw puzzle of my personality. This was just the fact of who I fundamentally was.
+“Let’s try again when you get back.” I tried to conceal my anxiety with the joke. Not sleeping with her didn’t mean I didn’t care for her.
+Freckles made an indecent gesture and disappeared into the hatch.
+2
+My anxiety didn’t come from nowhere.
+Freckles would have to pilot Hermit Crab from the bunker where we lived. The bunker—which we called Mother Whale—was actually a hollowed-out cylindrical C-type asteroid thirty kilometers in length and five kilometers in width. It sheltered us from deadly doses of radiation, debris attacks, and the extreme heat of direct sunlight. It also provided us with water ice, dry ice, solid ammonia, bitumen, and small amounts of nickel and iron. These invaluable raw materials had provided almost everything for our construction and our survival.
+Our cabin was located in Mother Whale’s skull. A bearing pipe anchored in the rock spun us at one rotation per minute to generate one-third G of artificial gravity. That was the best we could get. If the cabin radius were any shorter or longer, the angular velocity any slower or faster, the crude solution would have made us feel terrible—whether due to us getting sick from near zero gravity or us getting smashed against the stone walls of the cabin.
+We suffered chronic osteoporosis, muscle loss, and decreased immunity. These were less painful than the cardiovascular and cerebrovascular degeneration, vertigo caused by Coriolis forces, and depression triggered by the enclosed space and sleep deprivation. Most of us also had several hours of work outside the cabin each day, where we were exposed to high levels of cosmic radiation. This all made mortality rates among interstellar miners far higher than that of any fishermen or laborer back on Earth. Though we maintained normal human functioning through gene therapy, amifostine treatments, and compulsory fitness, the most appalling labor conditions on Earth looked like cocktails at the beach bar to us.
+Freckles likened us to Pinocchio, a character from an old fairy tale about a puppet who was turned into a real boy by the skillful hands of his carpenter father. His nose grew when he started to lie. His most famous misadventure involved him getting swallowed into the belly of a whale.
+Humans were strange creatures. Even after we had forgotten our own names and families, we couldn’t help but remember such odds and ends.
+Hermit Crab traveled out the mouth of Mother Whale into the deep starry sky. I watched the ship traverse from the edge of one screen to the edge of another. I couldn’t turn away, afraid it might suddenly disappear. A man slapped his hand on my shoulder and squinted a reluctant grin. It was Baldy.
+“I heard everything you said. But I gotta remind you, brother, Freckles ain’t easily provoked.”
+I flashed my own reluctant grin but said nothing. Baldy was a gossip. His curiosity never waned even when overloaded by physical labor.
+“Hermit Crab . . . Hermit Crab, reply. Situation normal?” I commed to Freckles’ channel.
+“Hear you. Situation normal. I’m looking at some space ice cream about to get scooped by my giant spoon here . . . ” My headphones hissed with the sound of Freckles mischievously slurping at her mic.
+My arm prickled with gooseflesh. I forced my attention back to the console. “I’m initiating gamma ray and X-ray spectrometry, scanning surface and subsurface elements for any volatiles . . . ”
+“Alright, Uncle, I know you prefer a slower tempo, but I’m a bit anxious today. Maybe it’s my cycle, you know. I want a big scoop of ice cream, so I’m gonna get out that big hot spoon.”
+Obnoxious electronic music blasted into my headset, shredding my eardrums. I tore off the headset and cursed, “Bitch!”
+Under normal circumstances, Freckles would be right. The chemical and physical properties of C-type asteroids were usually as obvious as they were benign. Such asteroids fragmented easily and contained minimal volatile content. All she should have had to do was bring Hermit Crab’s two long claws—her “spoons”—down ointo the surface of the asteroids covered with dust and dry soil. She would add heat to melt the water ice among the salt hydrates and clay minerals, then separate the water from other contaminants by distillation. The claws would then pump the water into the spiral shell of our Hermit Crab, where other mineral resources could be handled. That was the first stage of processing.
+After that, Hermit Crab’s job was to spin the nanoweb that would haul the asteroid fragments via an ant-chain back to the refining workshop in Mother Whale’s belly. There, more complex chemical and physical processes could deal with the asteroid’s other resources. Through refinement, the minerals could be formed into high-density magnetized projectiles. In the tail section of Mother Whale, there was a launcher with an accelerator a full kilometer in length that would launch our haul at defined coordinates. It achieved the largest possible delta-v with minimal energy consumption. The recoil was evenly distributed throughout Mother Whale via an exceptionally designed slider structure to avoid undesired divergence of our path.
+In flat space, so distant from any gravity well, we had no need to obey the tyranny of Tsiolkovsky’s rocket equation. After a period of time—days, months, or years, depending on price—the receiver would pick up the valuables at a point in low-Earth orbit. Whether for plotting a coup, building a palace for a love, or disrupting global futures markets, the purpose of the valuables made zero difference to us.
+Minimizing costs and maximizing profits was the game, same as it had been since ancient history.
+We ourselves were among the costs too negligible to count.
+Freckles’ sense of control was uncanny. It gave you the illusion that Hermit Crab’s two mechanical claws were synched to her body rather than manipulated by joysticks. Her arms fluttered high like the wings of a white crane just before the claws thrust into the asteroid’s surface, splashing up a plume of dust and debris.
+“Square Face, check it out! Lemme show you how it’s done.”
+Sensors signaled rapidly rising temperatures as compounds began undergoing phase change. Values and curves on my monitor metamorphosed in color and shape. All appeared normal except the pressure curve.
+Some anomalous data caught my eye. I had a vague ominous feeling even before my back end processing calculated its menacing conclusion. The density of the meteorite was about forty percent lower than that of similar meteorites, which meant Freckles had penetrated highly porous rock that would be storing extra water. With Hermit Crab’s rapid heating, that extra water would vaporize, transforming the giant rock into a pressure cooker. Such was the morbid sensitivity of my skill tree. No one except me would have perceived what that slight shift in the numbers meant.
+“Freckles, stop the heating and get out of there!” I ordered.
+“Stop your nonsense! Can’t you see I’m busy . . . ”
+“Now!”
+“You know how pissy you—”
+Her voice cut out. The signal from her cam was black-and-white static. I switched to the external cam, now blinded by a cloud of chalky dust. I couldn’t make out anything. Then, in three seconds of slow-motion replay, I watched the surface of the meteorite between the two claws explode. Debris hurtled toward Hermit Crab like a flock of birds fluttering from their nests. The titanium-aluminum alloy shell shredded like a paper lantern. The cabin decompressed. Its steel frame was torn open to the vacuum of space, revealing a human silhouette inside dangling like an internal organ. Then dust overwhelmed everything.
+“Freckles! You hear me? Fuck . . . ” I flung down the headset. In a frenzy, I tried pulling on a spacesuit. Baldy was staring at me, motionless. The others had already turned away.
+“We gotta save her!” I screamed. “The fuck you standing around for!”
+“Brother, her debt is paid.” Baldy patted my shoulder. “Death is just the middleman.”
+They say the Tonge-Ramesh model proved asteroids were harder to destroy by external forces than we ever imagined.
+They say in space we’ll never make the same mistake twice because we won’t live to make it again.
+There’s a saying for every flavor of truth.
+The cabin spun. I was breathless. I felt as though an asteroid had collided with my chest. I felt an icy breath on my ear, a familiar breath. The voice spoke softly a single sentence. Then every hair on my body stood on end. My eyes flashed on perfect darkness. I collapsed face-first toward the grimy floor.
+The single sentence was this: “You see my nose growing longer?”
+3
+Everything was milky white.
+I wasn’t in the control room. I wasn’t in any dark, dirty cabin of Mother Whale. Nor was I in the cold hopelessness of space, where death could knock at any time. Just where the hell was I?
+It took me some time before realizing I had to be in a dream, the kind of dream that awakens one to a more sober reality.
+They say sometimes one’s encrypted memory module overfills and reveals memories in the form of dreams, only we never can tell whose memories are revealed. All our memory modules are stored on one central cloud system for deployment.
+Neither my sight nor my movement was under my control. It was as though I were puppeted by invisible silk threads, forced to wander like a ghost in corners I had no interest in.
+The milky white in my field of vision began moving, taking shape into a cylindrical cabin that slid around me. In the absence of coordinates, this might mean I was being pushed down or out of the cabin. But then I found a few points I could orient myself with, points on the high ceiling of a white room.
+I began rotating about an axis a meter beneath my viewpoint. My line of sight remained horizontal, the movement slow, never exceeding five degrees per second. Perhaps this was to avoid my getting dizzy. Then I looked down and saw what my axis of rotation was: a man’s hip covered by a blue antibacterial surgical gown.
+I was staring out on the world from the corner of this man’s vision.
+“How do you feel, Mr. Dongfang Jue?” said a voice from the side.
+My line of sight spun. In the doorframe stood a woman dressed head to toe in an almost glossy black that emitted a slight iridescent rainbow. On her chest, she wore a golden chain brooch. Her long hair was coiled high above her head like some strange signal tower. In space, everyone was forced to keep their hair cut short, if not already bald. You never knew if such uncontrolled hairs might be what triggered one’s death in the end.
+“Fine, just a bit strange, like something is scuttling around in my body, trying to control me, or restart me.” The voice saying these words seemed foreign, deep, and weary, as if at any time it might get disconnected.
+“This is a kind of associated hallucination. In theory, you shouldn’t feel any difference, those nanorobots . . . they’re very small, you know.” The woman smiled. She walked up to the man’s body. I could see her more clearly now. She was in her twenties, makeup intricately applied, almost too refined. Her expression held a sense of superiority, as though she never needed to please anyone.
+“So . . . our contract has gone into effect?”
+“Legally, yes.”
+“Are you suggesting there may be something illegal? That’s a bit tedious at this point, Ms. Mei.”
+“What I mean is that, except in regard to the law, the technology is somewhat uncertain.”
+“But you said . . . ”
+“Don’t worry about Anan’s part. Her operation is already taken care of.”
+“Oh, thank you.”
+“All costs will be added to your debt, encrypted in the blockchain embedded in your genes. No one can tamper with it.”
+“A life of debt.”
+“Look around you. Everyone’s eager to borrow. Borrowing represents confidence in one’s future and in one’s self. And why not? Debt defines a person’s value. Such a debt quota is available to few people on Earth. Which is the only reason I’m standing here now.”
+“Of course, Ms. Mei Li’ai, although your time is not as expensive as your father Mr. Mei Feng’s. But let’s talk it through. It’s a debt worth several lifetimes of an ordinary person’s toil.”
+The woman flashed a stern smile that seemed out of context in our conversation.
+“Please remember, Mr. Dongfang Jue. We owe our lives to the God who created us. From this day on, you must treat your body well, and we will use all means to restore your skill tree to its ideal state. One’s body and consciousness are indispensable. Otherwise . . . I’m afraid it won’t be enough.”
+The man was silent. He looked at his own body wrapped in the antibacterial gown.
+“If it weren’t for Anan . . . I mean, who’d go back to that shithole?
+“I fully understand. I am also a daughter. If my father suffered from this same rare disease, I’d no doubt make the same choice. But this is a debt that can’t be settled on Earth. The balance is simply out of reach . . . ”
+The man stared in silence at the woman for some time. Perhaps he wanted to tell her that her father could never suffer such a disease because her family’s genes were meticulously scanned. Even if her father so fell ill, he would never face a lifetime of intractable debt. Her family was rich. The poor barely lived on the same planet as they did. They were a different species.
+But he said none of this.
+“Can I see Anan?”
+“Of course. She received a full checkup before completing surgery.” The woman’s warm tone returned as she seemed to think of something. “We will use our best resources to save her.”
+There was a hidden message in what she said that made me uneasy, but I couldn’t put my finger on what it might be.
+The man’s POV shifted quickly, almost like some transition animation, as he was moved to another intensive care unit. After several rounds of disinfection and dust removal, the man was dressed in a white isolation suit then moved down an aisle to another room.
+A young girl with a shaved head lay on a bed breathing gently. Her face was relaxed. A picture book was spread over her chest. Even the book had been treated with antibacterials.
+The man stood by the bed, quietly watching the girl. He dared not move for fear that even the slightest movement would pull the white plastic isolation suit from his body, make a noise, or wake the girl.
+My eye was drawn toward that colorful picture book. I tried to focus on what was painted on its cover but failed. The harder I tried, the faster my focus dissipated. I eventually gave up, turned back to the girl, but found the details of the girl’s face were eroding like a sand painting in the wind . . . until there was only blankness.
+This was all like something out of a horror film and it filled me with a strange heartache. I wanted to flee, but the more panicked I became, the closer the man’s vision zoomed into the blankness where the child’s face had been, like a celestial body slipping deeper into the gravity well.
+I noticed then the slightest discrepancy in the scene. If I were indeed looking from the man’s perspective, I should have seen the triangulation of his nose, but there was none.
+What did that mean?
+The dream seemed to be coming to an end. Everything was in free fall toward the blank face until it became huge, like the surface of an asteroid. I knew I would soon wake, remembering nothing. I tried desperately to hold on to some detail, some key that could help me unlock why everything felt so wrong.
+In the end, I failed.
+4
+Freckles got deleted.
+I don’t mean her meatbody, rather our memory data of her existence. In the hour since I had woken up, Freckles had become an insignificant name. Even her face was blurred. All the feelings I had once attached to the flesh-and-blood human—desire, annoyance, sadness, and let’s shamelessly admit a little love—were blown away like sand. And it wasn’t just me. It was all of us.
+The company had been moving things around in our minds, for safety and efficiency. The girl became just another entry in the system, a coded lesson reminding future generations not to make the same mistake.
+“ . . . For carbonaceous bodies to be classified as C-type asteroids, we require high-sensitivity spectra covering optical to mid-infrared wavelengths 0.5 to 3.5 micrometers in length, in order to detect absorption bands at 0.7 and 3 micrometers. This is how we determine if asteroids contain water. Absorption bands of approximately 0.7 micrometers do not directly indicate water itself, rather, charge transfers in iron-bearing material, such as water, existing in C-type asteroid. Even then, presence of a 0.7 micrometer absorption band doesn’t allow us to accurately estimate water content in an asteroid or its spectral color . . . ”
+This entry kept popping from the mouth of the beautiful new girl, like a string of tongue twisters. In my mind, I gave her the nickname Magpie.
+Suddenly she stopped, raised her head, and looked at me confused. Her face, slightly red and sweaty, blurted out her question. “I don’t get it. Wouldn’t it be more direct to hunt them with the three-micrometer absorption band?”
+I shot a friendly smile. “The high background radiation in the mid-infrared spectra makes the presence of the three-micrometer band weak and difficult to detect.”
+“Oh.” She looked as though she’d lost all interest in the question. For a hunter, that was a dangerous sign.
+Water was the fundamental element for survival in our vast universe, so asteroids with water were always primary collection targets for miners, but in some cases this proved fatal.
+Magpie was speaking from a cylindrical metal cage just wide enough for a human body. Her waist and hands were strapped to swiveling rods. Her feet were spinning on the “hamster wheel,” which was what we crew called this piece of equipment. It was the safest and most effective way to combat osteoporosis and muscle atrophy in our one-third-gee environment.
+As her mentor, I had to correct Magpie’s movements from time to time. Even slight errors accumulating over time could lead to fractures or fasciitis.
+Bathing on a mining vessel was like mixing vegetables and salad dressing in a sealed bag. Magpie climbed out from her bathbag naked, wiped her firm calves in front of me as though no one were there. For some reason I turned my face to the side, perhaps because she was new and I wanted to show respect. It didn’t matter. Her bathwater would be recycled for our food, drinking water, and air. It would eventually be part of my own body. From this point of view, our intimacy was assured.
+“Why’d you come here?” I asked, trying to shift my attention.
+“That a question?” she asked.
+“I know, of course, the Treatise of Our Divine Debt. I mean, did you ever think about where that debt came from in the first place?”
+“Is that important? We are all born into wearying debt, right? We’re just a bit more fortunate than others . . . ”
+“Fortunate?”
+“It’s not fortunate to catch a fat fish worth more than one hundred billion credits? That’s a platinum mine alone, not counting nickel and cobalt. Enough to pay off all debts and make me a billionaire.”
+“That’s a fairy tale!”
+“No, it’s a probability.”
+“The probability is you get hung out to dry in space . . . ”
+“This isn’t much more dangerous than commercial crabbing in Peru or the Bering Sea. Of course, if you insist, the probability of getting hit by asteroid debris is higher than on Earth. Problem is . . . ”
+“Another hopeless optimist . . . ” I glimpsed something familiar in her expression.
+“Problem is . . . ” She shook her head showing no intention of slowing down. “You got a hundred trillion in gold deposits on Earth, but nobody can get at it. Why? Because it’s in the sea. Cost of extracting gold dissolved in seawater far exceeds the value of the gold itself. So the value of that huge deposit is zip. We’re here. Yes, it’s dangerous. But the desserts are real. They’re out here . . . ”
+When she talked about dessert, it was like I almost remembered something, something on the tip of my tongue. I didn’t bother trying to remember though. I didn’t want to argue anymore.
+“Magpie, I hope you react on mission as quickly as you speak.”
+“Mag—what? You wimp. Go cower in the cabin and do your arithmetic. I hope your debt gets paid as soon as possible.”
+She looked like she was actually getting angry.
+In theory, Magpie wasn’t wrong. An M-type asteroid was the absolute best dessert. A 16 Psyche M-type could carry enough iron and nickel to meet Earth’s demand for the next million years. A platinum-rich asteroid might carry as much as 100 grams per ton, twenty times more than the highest-grade South African open-pit platinum mine. This meant a 500 meter M-type could produce 175 times the annual output of the planet.
+That was our ultimate mission. C-type asteroids were for sustained replenishment. Mother Whale herself could not be exploited. She wasn’t some giant rock. Rather, she was a collection of rocks and gravel gathered by their own gravity, utterly without structural integrity. Any rotation, impact, or deep excavation could trigger her disintegration. Then everything we had built would be destroyed, including ourselves.
+Magpie slowly came to accept her new name. She even came to accept my style.
+I tried not to get too close. I feared gravity’s power of attraction, which caused things to haphazardly smack into each other. I always had this ominous feeling around her, like the superstition of a sailor on the sea too many years who believes doom follows a red tide with white waves.
+I feared it was Magpie’s fate to someday be deleted.
+She knew what I thought and mocked it. Holding her pickaxe or drill, she’d say, “We got one road, and we gotta follow it to the end.”
+To Magpie, life was an adventure with few real choices.
+She was ordered to recycle an abandoned sheepdog. The order said the sheepdog’s memory module might contain data from previous contact with an M-type asteroid and could provide valuable tracking clues.
+We never knew from where our orders came, from Earth 380,000 kilometers away or from some space station? From other humans or from AI? Still, in most cases, the orders were correct. In a few cases, our human interpretation led to bad consequences, like misinterpreting the oracle in a Greek tragedy.
+Magpie never doubted the orders, though I tried to undermine her blind faith any way I could.
+Using a mathematical formula, I once showed her that even if we identified and tracked an M-type asteroid, the odds of changing its orbit and capturing it were equivalent to a monkey typing out the collected works of Shakespeare. It was harder than winning any lottery. Mining an M-type would be like catching a whale with a fishing rod. The costs could swallow up any potential profit while sacrificing dozens of lives. Even if we succeeded, shipping the ore back to Earth might cause a full market collapse.
+At every turn, I tried to seed in her doubt about her abilities. I told her, what a robot can’t do, a miner made of protein and water certainly can’t do.
+“Maintaining complex mining facilities, dealing with unpredictable equipment failures, analyzing anomalous events, assessing their impacts on Mother Whale? If AI can’t succeed, Magpie doesn’t stand a chance,” I told her. “So it’s not clear what value you really have, at least while you’re alive.”
+“Then what do you want me to do?” she shot back. “Cower in the cabin like you, waiting for my muscles to atrophy? Overdose on cosmic radiation causing tumors to take over my body and kill me?” She flashed the whites of her eyes.
+“That’s not what I mean . . . I just hope you get these dumb ideas out of your head so you stay alive a bit longer . . . ”
+“But what does it mean to live when you live like that? We owe our lives to the God who made us . . . ”
+“Tell that to all the people who’ve died doing our work . . . ”
+“Then what are you here for? Didn’t like Earth?
+“This wasn’t my choice! Just like it isn’t your choice! You woke up in this hell, unable to remember anything of the past other than what’s in your damn skill tree. We can never free ourselves of our debt, except in death. There’s no other way out!”
+I turned my back, not wanting to let Magpie see how weak I was. A hand rested on my shoulder.
+“I remember how I came here.”
+I spun my head in astonishment and looked at her unsmiling face. Nobody knew, not even the newest arrivals. I heard the company created a break in crew consciousness to avoid unnecessary risk. I had always imagined the risk was a mentally broken crew member who might try to hijack the spaceship to get back home.
+“Is that a joke?” I asked.
+“No, I remember a strange place. It was like I was waking from a dream. There I was in this long, narrow passage. There were flashing green lights guiding me forward, urging me forward . . . ”
+“And then?”
+“And then I’ll tell you when I get back.” Magpie winked. Only then did I realize I’d been fooled.
+I’ve never met anyone who paid off their debts. That’s to say any living person, at least not on Mother Whale. Perhaps there were such fortunate people scattered on mining bases on the Belt, but it seemed like some religious parable, a meticulously worded advertisement that could never be proven or disproven.
+They said people who paid off their debts could return to Earth, recover their memories, wash their debt data from their DNA chains. More credit points would be added to their account than could be spent in several lifetimes.
+It sounded like a fairy tale, right?
+Only no one knew why they owed their debt or how long it would take to repay. We could only believe in the fairness of the system because we were told that it was absolutely correct mathematically and couldn’t be tampered with.
+Magpie was right. We had no other choice.
+But I was glad she had listened to me and tied the reinforced safety rope.
+Magpie was a light-as-air moth drifting slowly from the lower hatch of Hermit Crab toward a wandering sheepdog. The mechanical arm was far too clumsy to perform the meticulous work of unloading the memory module.
+“So people are still useful . . . ” her rebuttal echoed in my headset.
+“In a few very special cases.” I didn’t want to give an inch.
+“Tell me your theory again about why people aren’t needed in space?”
+She hooked herself to the sheepdog. The elasticity of the safety rope yanked her back. Magpie unhooked the safety rope, attached it to one of sheepdog’s mechanical claws. She got into position. She’d have to push her hand down the sheepdog’s throat, turn on the emergency power supply, enter the password, then open the storage panel inside in order to unload the memory module.
+I cleared my throat. I stared at the feed from her helmet cam, trying to ignore the boundless dark universe beyond. I said, “It’s because of fear.”
+“You mean human fear?”
+“Is there another kind? What do machines fear? Power failures? Erased memories? Only people have fear.”
+She got in smoothly, pushing half her body into the opening. The sheepdog lit up. Its panel opened. Everything seemed within reach.
+“So what? Fear shouldn’t let people venture into space? Fear shouldn’t let people live without machines? I think there’s something you haven’t told me? Some childhood trauma perhaps?” There was something like sympathy in her voice, perhaps teasing me.
+“I can’t think of any childhood traumas to speak of. And even if I did, they’re locked away in sequestered memory—” There was a disturbing flash on the screen. “What’s that on your right hand, Magpie? Those spots lighting up?
+“No clue. All I know is the memory module’s stuck.” I could hear in her voice she was giving it her all. Her whole body was trembling.
+“Something’s off. Get out of there immediately.”
+“I’m trying to shake loose the module . . . ”
+“Maybe you’ve triggered some protection program. Get out now . . . ” I quickly checked the code base of the old sheepdog. Iridescent data pummeled the screen like rain. My eyes tensed, trembled as they tried to scan the keywords.
+“Square Face, there anything you can actually help me with? Apart from making me nervous . . . ”
+I didn’t have an answer, though I felt one eluding me.
+“Hey, guess what? I got it.” She was panting. On screen, her hand was holding a black cube. It was time to get out.
+But if the memory module was removed after a hard restart, the landing position of sheepdog would be triggered, which meant . . .
+“I told you, nothing to fear . . . ”
+Six corkscrew anchors shot from the sheepdog, plunging into Magpie’s stomach. They began to drill. Red globules floated out from her stomach like translucent jellyfish and shimmered around her body before boiling off into vacuum.
+My body froze, mouth agape and speechless. My stomach roiled. My hunch had been right again.
+There was no scream, no call for help, just a lone gasp in the headset as though trying to call back the oxygen rapidly vacating her lungs.
+The sheepdog’s propulsion system that usually buffered landing also activated, pulling Magpie’s corpse toward space while her safety rope was still hooked to Hermit Crab. She was a scrap of rotting meat in a taught tug-of-war between two beasts.
+“Cut the safety rope!” Baldy shouted. “We can’t lose another ship.”
+“No, I won’t do it.”
+“Her debts are paid. Let her go. Death’s just the middleman.” Baldy patted my shoulder, gestured a prayer over his forehead, a horizontal D.
+“Fuck your middleman!” I squeezed my eyes shut, spilling warm tears.
+Unable to stomach the gruesome tug-of-war anymore, I pressed the button. What was left of her body shimmered as it shrank and disappeared among the stars.
+An idea fell on me then, like the shadow of an unseen celestial body.
+Perhaps this was no accident.
+5
+Another dream. I was getting frustrated with these endless hallucinations. It was like each one wanted to say something but never made its message clear.
+If you could strap on those mining boots of ours, perhaps you’d understand what it was like: a month out from Earth, no atmosphere, no day or night, no real gravity, no entertainment, no delicious kung pao chicken—fortunately my memory still held on to that favorite dish—no real friendships, no dating.
+No reminiscing. Though that might have been a good thing.
+There were also a few novelties never experienced on Earth: the odd psychological condition of simultaneous claustrophobia and agoraphobia, restricted nerve conduction, incontinence, prolapsed sphincters. A few of us got to experience comas. And then there was the high radiation and constant vomiting. Radioactive fuel fleas, tiny particles charged with alpha radiation, pummeled our bodies at light speed. They penetrated our protective clothing and flesh, burned holes in our internal organs. They made us bleed, ache, wish we had never been born.
+On a more positive note, there were the genetically engineered algae that produced our oxygen and protein, though the taste was unsettling. We gained knowledge and experience we would never grasp in several lifetimes on Earth. If you’re a curious kid, space mining might be just the career for you.
+In dreaming, I returned to the man’s body. He was staring into a mirror, haggard and old. The face was unfamiliar but the sense of déjà vu was so strong. I knew the plot continued from the previous dream, but I couldn’t remember the backstory at all.
+The mirror reflected a messy room, a bachelor’s apartment with no trace of any other family. There were bottles of booze, cigarette butts, powders of unknown composition scattered on a tea table. A photo frame lay facedown showing only the buckle on the back. Papers littered the furniture and floor like giant snowflakes.
+The man seemed to have come to some decision. He was looking at a black card in his hand, then dialing a number.
+“It’s me . . . Yeah, I think so.”
+He sniffed and turned back toward the room.
+“ . . . You let me down once already. I hope there won’t be a second time . . . ”
+“ . . . You can’t come with me this time. What does that mean, we tried our best? You didn’t try!” His voice grew louder then weaker. “ . . . You didn’t.”
+“ . . . Yeah, read it word for word. Took me all night. Hope it was worth it.”
+“ . . . Anything unclear? Ha, everything! The whole complexity of the system is beyond what any normal person could understand. How am I supposed to make heads or tails of any of this?”
+“ . . . I know, the old debt’s still in the repayment cycle. This adds on a new debt. I get it. That’s life . . . ”
+“ . . . I see how your psychological strategies work—what’s for family, what’s for future . . . You create a papier-mâché moral aura that’s a bit too fake, can’t even weather a little rain. For me, I just hope I get to live a bit longer or a bit better, even if I have to mortgage someone else’s life . . . ”
+“ . . . I just hope you guys have some kind of conscience. I hope you allow her a better life . . . ”
+A virtual birdcall activated behind the man. He spun to see himself lit up in the mirror, embedded in golden rays that were probably supposed to signify hope. An electronic contract illuminated in the mirror. A voice prompted him to read it carefully, then place his palm on the mirror for bio-encryption verification. The man clenched his eyes and frowned, hesitated slightly before he slapped the mirror with his palm. Circles of colored light rippled from his hand.
+“Verification complete. Your contract is now activated. Congratulations on your new debt quota . . . ”
+“Go fuck yourself!” The man relaxed. He took a sip of wine and began cleaning up the disaster zone that was his room. When his finger touched the frame on the table, he pulled back as though it were burning hot.
+“ . . . What the hell did I do?” The man touched the back of the frame with his fingertips, found the courage to turn it over. A girl’s innocent smile beamed back from the other side. He picked up the picture book and covered his face. The book seemed familiar.
+“ . . . What the fucking hell did I do?”
+The man began to sob. His body trembled. He stood unsteadily.
+“I have to . . . have to stop . . . have to . . . ”
+He inspected his room in a panic. His eyes fixed on the balcony. The man picked up the remaining bottle from the table and downed it. He let it go. The bottle shattered at his feet.
+The man rushed toward the balcony, and without a hint of hesitation leaped over the railing. Though I was just the dreamer, the sudden abyss hundreds of meters below me made my adrenaline soar. The gathering wind whistled sharply.
+Many dreams end in free fall. This wasn’t one of those dreams.
+The man’s fall lasted just 0.3 seconds then paused midair. He was like a flying insect trapped by an invisible cobweb, unable to struggle. The bust of a woman in black emerged from thin air. She wore a golden chain brooch, delicate smile, and dignified air.
+“Mr. Dongfang Jue, it’s been too long. You’ve forgotten the details of our first contract. You have no right to end your life. All rights belong to your creditors, to the company. Even if you end your life, your debt cannot be canceled because its data is encrypted and embedded in your genes. It is impervious to tampering.”
+Like that man, I tried to decipher the hidden meaning in her words. It was as though there was a subtle tremor in the transparent web connecting us, reverberating in all directions. It seemed to wait for an open sesame that would unleash a flood of signal that would bust the locks on my cognitive module.
+But sesame didn’t open.
+6
+. . .
+Ginger.
+Freckles.
+Magpie.
+Popcorn.
+. . .
+They had all been deleted. One by one. Faces and voices blurred in my mind like paint dissolving in the rain, mixing into muddy colors, seeping into the dirt along the gutter of my memory.
+“We’re space miners. That’s our life.” Everyone repeated the old clichés to me in hopes we could keep busy with the tasks at hand.
+Maybe they were right. This was our life. Held captive in the distant cold borderlands of the cosmos, abandoned, forgotten, able to repay our inherited debt only through interminable labor. My skills allowed me to cower in the cabin and try to live a bit longer. They didn’t have that luxury.
+Doubt plagued me like never before. It was like someone had lowered logical consistency sensitivity on some module in my brain. All of us miners had a huge blind spot on our consciousness. For some unknown reason though, my blind spot had been shrinking. Now, the problem was becoming exposed, like a black reef emerging from a red tide.
+Maybe from fear, maybe from the fading names, maybe from the skill tree in my head calculating the enormous threats, I could no longer use the old escape routes.
+I had to do something.
+Emerging from the showerbag, Baldy gave me a shock. His scarred body was like that of a striped tiger in the jungle, dark and glinting as vapor rose from his skin.
+“It’s you? I thought it was Hairbeast.” He plucked an eyebrow. “We had arranged to meet, you understand. Anyway, get on with your exercise.”
+“Things aren’t supposed to be this way.”
+“What way? You don’t sound right. You done a self-scan?”
+“I’m fine. It’s you who’s got the problem. You don’t feel like this is all quite absurd? This Mother Whale? This work? This way of people constantly dying . . . ”
+“Hey, Square Face. We’ve discussed this several times. It’s just our fate. To pay our debts we bear risks and pains normal people couldn’t. Death’s just the middleman.”
+“That what you really think? Or is that what they make you think?” I pointed upward, though I knew there wasn’t really an up when spinning in space.
+“You ask me, I’d say maybe you need a companion to release some pressure. Sometimes your module will develop cognitive errors due to accumulation of negative emotion. It’s like a kind of—what’s the word—allergy. Yes, like an allergy.” He turned his back and began to towel himself dry.
+“I calculated the cost. Using the Hohmann transfer orbit to keep people coming here from Earth makes zero economic sense. Imagine scrapping an airplane every time you fly with no return ticket. It makes for ugly accounting, Baldy. No one would do this business at such a loss.”
+He turned slowly, a severe expression on his face.
+“ . . . So what are you thinking?”
+“We tell the company we’re not doing it anymore.”
+“Impossible. Our debt . . . It doesn’t matter. Only the company can contact us anyway. It’s one way. Our calls go to an autoresponder, some message sorter.”
+“Then we shut down Mother Whale’s production line. We stop shipping and see what they do.”
+“Yeah, that’ll get their attention. But you sure you want to do that?” The expression on Baldy’s face shifted, but I didn’t know what it meant.
+“If they don’t respond, I got a backup plan.” I stopped, looked around. “We blow up the refining workshop.”
+The refining workshop in the belly of Mother Whale was central to the second-, third-, and fourth-stage processing of all the ore brought back by Hermit Crab.
+Second-stage processing began with the electrolysis of water into hydrogen and oxygen, which were then liquefied and stored as our primary propellants. Third-stage processing involved high-temperature “baking” for the reduction of magnetite by carbon-containing polymers, resulting in the more complete release of water, carbon monoxide, carbon dioxide, and nitrogen. Fourth-stage processing used released carbon monoxide as a reagent for the extraction, separation, purification, and manufacture of iron and nickel products via the Mond gas process. The residue contained cobalt, rare platinum group metals, and semiconductors like gallium, germanium, selenium, and tellurium. That residue might not look like much but it was worth more than the sum historical value of many of the largest companies in history.
+“You serious?” His eyes narrowed.
+“Mix hydrogen and oxygen, add carbon-containing polymer, high temperatures . . . Boom.” I snapped my fingers and mimed a vast explosion.
+“Alright, let me think on it. This requires a collective vote . . . ” Baldy bowed his head and flung the towel over his shoulder. He had up to that point been repeatedly wiping the same area for some time.
+“I don’t trust them,” I said. “I only trust you.”
+“Alright.” He dropped the towel and walked over, hand outstretched. “Thanks for your trust.”
+Before I could shake his hand, Baldy knocked me cold to the ground with a single punch. Last thing I saw was his mutilated toes, stretching and contracting against the floor, producing a sound like the pincers of some insect scraping against metal.
+I tried opening my eyes but couldn’t. I tried moving my body but couldn’t.
+I felt hands lifting me, stuffing me into something. Voices washed over me intermittently. I tried my hardest to make out their words.
+“ . . . Sorry, Square Face . . . We had the collective vote and this is the outcome . . . We can’t . . . You can’t disrupt our order . . . ”
+I could feel now I was in a spacesuit. I didn’t like that. Spacesuits meant you were about to enter some uncontrollable extreme environment with just one thin layer of protection.
+“ . . . You always said . . . Minimize risk . . . Mathematically, this is the most reasonable way . . . ”
+Something switched on. Air pressure was changing rapidly, as well as temperature. I heard modules in the spacesuit waking up one by one, as if it were the living thing instead of me. My paralyzed consciousness seemed to grasp that terrible fact before my body was fully awake.
+“ . . . Your oxygen can sustain . . . one hundred and twenty-four minutes . . . Try to save . . . ”
+My eyelids flicked open and I saw the crew’s faces, hands on their foreheads as though in mourning. They stood in front of Baldy. Between their faces and mine were two layers of specialized glass. One layer on the isolation hatch door, the other on my helmet. A pitying voice spoke on the helmet’s communicator.
+“ . . . Your debt . . . is cleared . . . Death’s just . . . the middleman . . . ”
+I stretched out a numb hand to try and grab on to anything. I wanted to shout, beg them not to. But it was too late. I watched their faces float away, the light around them become uneven, their bodies spun slowly into the distance. There was no gravity, only the centrifugal force of the cabin rotation, and me drifting away from the axis. There was no way to ever get back.
+Palpable fear triggered the stimulation-response module in my amygdala and ventromedial prefrontal cortex, accelerating my heart rate, raising blood pressure, secreting sweat, cortisol, adrenaline. Trust me. I’m familiar with fear, and this was that most primitive form, evolved over billions of years. No one can suppress it, no matter how brave.
+And certainly not me.
+I floated like some giant bag of trash. My reason understood that fear consumed oxygen faster and as carbon dioxide levels in my blood rose this would further accelerate my fear in a vicious circle. But I couldn’t help it.
+Like a madman, I burst out laughing at the stupidity of humanity’s design.
+I had no idea how much time had passed. In such extreme situations, no one has a clear sense of time. I figured I’d die in my endless drift, finally debtless.
+I had no clue that my body was about to crash into some vast, solid surface. But then, something caught me. It was the inner surface of the Mother Whale asteroid. Its centrifugal spin had somehow landed me here.
+Though there was still no water or oxygen, I at least was able to regain a sense of direction. My fear abated slightly, allowing me to reallocate computational resources for attention and perception, and draw on memories of past experience for behavioral decision-making.
+Unfortunately, I had no past experience being jettisoned into space.
+I fixed my hands and feet to the inner wall of the asteroid. The black sand in the rock wall reminded me that its layers here should contain a certain proportion of iron and nickel. Though it wasn’t high grade, it was enough for my magnetic boots to function.
+Now that I could just barely stand, I began making my way toward the head of Mother Whale. The odd pleasure I felt in that moment must have been similar to the exhilaration our ancestral ape felt when it stood upright to take its first step as a human.
+Overhead, the cabin revolved around its axis at one cycle per minute, too fast and too far. I didn’t have a chance. The axis was in fact a superalloy-bearing pipe piercing both sides of Mother Whale’s skull. It was braided with titanium, chromium, and carbon fibers, sealed and hollowed out as a pipeline for energy and resources.
+Then again, perhaps there was a sliver of a chance.
+My remaining oxygen would last just seventy-two minutes. I began taking advantage of the skill tree in my brain. Analyzing the nearest distance to the pipe opening, mass, step length, heart rate, oxygen level, ground magnetic force, and friction, I calculated the optimal speed to reach my destination before oxygen depletion. I also identified an airlock where I might be able to get in.
+The analysis didn’t make me especially optimistic. If my speed were too fast, the attraction generated by the magnetic boots wouldn’t hold my mass. If too slow, my oxygen would deplete before I even got close. For that sliver of a chance, I had to execute my little space run with precision to two decimal points.
+From the edge of Mother Whale’s star-devouring mouth gleamed a distant ray of sunlight. I had to rush to the entrance of the pipeline before the sun reached me, or its high temperatures would deliver an early death sentence.
+Without starting gun or spectators, I began my race against death.
+If my life weren’t on the line, I would have enjoyed the scenery. Imagine a vast stone ping-pong ball five kilometers in radius with a third of its surface sliced away. The inner surface of that thin shell was my racetrack. Overhead, an unfathomably dark starry sky watched over me like an eye in the rock wall. Above I also could see the revolving cabin containing the mining crew who had lived beside me day and night before voting me to die in space.
+The people I had saved, loved, and slept with, like all these vast cold objects, were now perfectly silent.
+Beneath the boundless darkness, I was an ant racing alone. Next to eternity, all debt becomes meaningless.
+I’d never been much of an athlete—not out there and, I imagined, not on Earth. At the halfway mark, I was overcome with a splitting headache, sore joints and muscles. My heart was pumping beyond all limits. My chest was a wheezing furnace about to pop.
+All I wanted was to give up, lie down, float away. Anything for a breath and a brief rest.
+But the numbers wouldn’t stop for me. They would continue their free fall to zero.
+I heard strange sounds like whispered songs. They surrounded me, guided me, urged me to stop, urged me to continue. I suppose it was all a hallucination caused by lack of oxygen. A rhythmic flash of red numbers showed eighteen minutes left, and the pipe that was my finish line seemed to be getting farther away. Yellow and blue colors floated across my field of view like the mating dance of fireflies in a cemetery.
+—You see my nose growing longer?
+The voice sighed quietly in my ear. I woke with a sudden start. My hair stood upright. It was Freckles’ voice.
+I had almost forgotten them all. My dying dash was not only for myself, but also for all those names now deleted.
+Distant sunlight slanted into the mouth of Mother Whale, smearing its gray inner surface with golden hot color. Its energy was so beautiful yet so lethal. It would soon awaken ice sleeping deep in the stony cracks, transform it into vapor that would spear out from the surface. I had to reach the pipeline before the sun caught up with my shadow. If I failed, I would be either burned alive by the sun’s heat or impaled on its spears of steam.
+I imagined the ground behind me like popcorn in the oven, erupting in crisp explosions that emitted no sound. Death was a silent scheming cat, forever inching closer.
+Every breath seared my lungs. Each stride pushed my muscles to their limits. I soon forgot the pace, the pain, the death. The running became numb, mechanical. The only way to achieve a miracle, of course, is to shed one’s human weakness. This is also perhaps our only human strength.
+The pipe now appeared thicker than I had imagined. It looked like a coral tube growing from the stone wall of the opposite hemisphere.
+My feet grew lighter, so light, in fact, they were almost floating. I realized then that I had foolishly overlooked a key indicator: power consumption.
+Electricity was needed to maintain body temperature, data calculation, external environment monitoring, and—I now remembered—my magnetic boots. Now that power had dropped to five percent, my life-support system had first shut down the boots. A reasonable decision under normal circumstances, but now my efforts were for naught.
+I continued forward from inertia, but the friction between the sole of my boots and the wall was diminishing. I would soon lose all control of my body and float aimlessly, never reaching the pipe.
+There was only one way out with, as I calculated it, an extremely small chance of success. But I had no other choice.
+I took a deep breath, drew my legs together, and hurled my body forward. I somersaulted. When the axis of my body rotated to a certain angle, I pushed out my legs toward the ground and made a leap of faith with all my strength.
+Black dust plumed around my feet like a miniature atom bomb. I straightened my body like an arrow just flung from the bow, plummeted toward my silver target.
+The helmet’s oxygen meter began its final-minute countdown, red numbers flashing to remind me that even if I reached the pipe, it would only be to die.
+In that endless moment, Einstein was right.
+I kept tweaking my posture in the air. For a second, it looked like I would miss the pipe and disappear into the endless starry sea. In the end though, I hit the target and hit it hard. I probably broke a few ribs. An ominous crack appeared on my helmet. I had reached my destination.
+Fortunately, the impact point was not far from the airlock. I had exhausted the oxygen in my spacesuit but somehow reached the airlock with the last gasps of my will. I prepared to crack the code to the airlock.
+But there was no need to crack the code. Those who had banished me hadn’t yet removed me from the system.
+That was perhaps their greatest error.
+I collapsed to the floor and gasped like a salamander emerging on land.
+There was scarce oxygen, likely related to the gap in the resource consumption data. At the center of the dim passage were thick cables and various colors of piping. On either side, sensors flashed green every few meters, like on a runway at night, stretching into dark depths at both ends.
+One direction extended to the rotating cabin that housed the crew, but what about the other? Maybe the miniature nuclear fusion reactor buried in the rock? In addition to solar and hydrogen-oxygen propellant, this was Mother Whale’s primary source of energy.
+Then I remembered the joke Magpie made before she died, and I decided to follow those green lights leading away from the crew cabin.
+Now, I was already a dead man. At least in the system, my suit was dead, no electricity, no oxygen, no helmet. I manually shut down the positioning module to prevent my colleagues from being frightened by my walking corpse. If I wanted to get back to the cabin though, I’d need a new outfit.
+As my expedition progressed, odd fragments of memory flickered. I felt a sharp discomfort, like the fear of returning home after being away too long. I felt like a ghost whose sole mission was to blow a chill breath down the necks of the living from time to time.
+As I proceeded through several more airlocks, things grew more interesting. One of the cabins was equipped with a high-precision 3-D printer, which could print and modularize most lightweight space supplies from digital renderings—spacesuit shells, mining tools, even weapons. All I needed to do was transfer the integration module from my old spacesuit into the new one.
+The ghost in the new spacesuit came online.
+This new bounty did little to cheer me up, however. It mostly just raised more questions. Why was such a cabin set up here? Who had access to such equipment? What did they use it for?
+Maybe the answer was hidden in some dark corner of my memory, blockchain encryption still denying my access.
+Perhaps I didn’t want to know the answer.
+When I reached the last cabin door, I glimpsed through its porthole a hellish scene. No monsters, corpses, or blood. Everything was pristine, radiating the holy light of life. Yet this was far grimmer than any nightmare.
+The cabin door slid silently open. I entered.
+My fingers trembled along the transparent tanks holding the suspended bodies. Some were fully formed, others still growing. Some were young, others old. Faces, familiar and unfamiliar, waiting to be awakened by the demons in their dreams. I saw Baldy, Hairbeast, Long-Legs . . . Their bodies, fresh and strong, spasmed from time to time in their artificial amniotic fluid. They were ripe fruit ready to drop, lacking only that last ingredient—the infusion of their souls.
+Maybe that was what we had mortgaged to the devil—our souls, our genetic debt, our blockchain memories . . . No matter what you called it, the fact remained.
+They had lied to us.
+I wondered if waking one of these bodies might signal the death of someone back in the crew cabin. Just who controlled the growth rate of each clone? Could it be that the life expectancy of every miner had been so precisely calculated? All for maximizing efficiency? A bitter chill slinked down my spine.
+This was the true secret of the space miners. This was the debt we carried.
+I came to the body of a girl who seemed to have just reached adolescence. The features on her face made me realize a contradiction. The face on each clone seemed to be the same yet different from that in my memory. Perhaps the system had altered genetic expressions. Perhaps it wasn’t so complicated. Perhaps it just needed to make some slight adjustments to the facial recognition module in our minds to make us pay more attention to some features than others. Then again, perhaps we just didn’t recognize the person when they returned at all.
+But that girl’s face provoked a more complex emotional response, like a whirlpool about to swallow me whole. I finally managed to break away from her gravity well and turn toward the last sealed body.
+This one was just a tiny embryo curled amidst a yellowish liquid, like a pink asteroid. It squinted its eyes and sucked at its fingers, immersed in seemingly eternal dreams. I watched nutrients flow from the translucent synthetic umbilical cord into the embryo.
+I noticed then the line of code at the bottom: EM-L4-D28-58a.
+Dizziness swept over me. I knelt to one knee, doing all I could to support my body.
+The embryo was me. Of course, I was one of them. Perhaps the embryo had been triggered by the signal of my recent death. It looked like it was going to need some time.
+Would it have all my memories? Including those sequestered within the blockchain encryption? Would it remember my trials of life and death? Would it fear death as I did? How many more cycles would it take to pay off my debt? Maybe such a day would never come. Perhaps human existence was itself just another form of debt.
+My heart filled with an anger I couldn’t name. I hammered against the transparent casing, making a muddy, dull echo. I wanted to destroy it all and terminate the endless cycle.
+The embryonic me seemed to perceive something. Its eyelids trembled. Tiny eddies appeared in the amniotic fluid, as if in response to my anger.
+It was so innocent. I woke to the fact that I myself was just another avatar of the same identity. It was me.
+We were all innocent. The guilty ones were those who had built this place.
+I stood. I had to get back to the crew cabin to warn my deceived companions, but how could I not sound like a madman? I had to print something that would convince the other brainwashed, damaged miners this was all real. I had to get the company to stop this. I didn’t care if they ended up doing something drastic.
+The long, green lights of the pipe stretched into the distance. I could not shrink back again.
+Baldy raised both hands and kneeled slowly, his back to me. On his knees, his head was now level to mine.
+I aimed the gun at the back of his head. I had no illusions as to how strong or cunning he could be.
+Behind me, a body lay supine. Blood covered the soles of my boots. An odd sticky texture accompanied my every step.
+They had wanted neither to listen nor believe. “Your debt’s been paid. Why come back?” they had asked. Their faces had been frightened and distorted, like polished foil torn by a meteoroid.
+I had explained that this place was all a lie. No matter how long you lived, your debt was never erased.
+I had pulled the trigger to give those soaking in amniotic fluid an opportunity to accelerate their development.
+“You’ve no clue what you’re doing,” Baldy murmured breathlessly.
+“And you do?”
+“Some truths are best unknown, like some shackles are best unbroken. To achieve eternity by joining God is our only choice . . . ”
+“So, you were selected for the role of administrator?”
+“Without an administrator, Mother Whale would be run by algorithms. My memory, just like yours, isn’t so clear.”
+“And you really don’t know how to get in touch with the company?”
+“I told you before. Communications are one way. The company has to contact us.”
+“Let’s imagine a rather extreme case then.” I traced his skull with the muzzle of the gun. “Let’s say of all us miners, there’s just one left. Think if they received such an odd signal, it might get their attention?”
+Baldy trembled. The instinct for survival always won over the instinct for loyalty, whether the latter instinct was innate or acquired.
+“The Recycle Protocol.”
+“What?”
+“In my memory module, there’s a command for something called the Recycle Protocol, which lets us transmit to a relay satellite when we’re at high alert. The signals will reach a secret TT&C center on Earth to then be transferred to the company. The one-way delay takes about 13.4 seconds. The company should take any survivors back to Earth, but . . . ”
+“But what?”
+“ . . . But only when facing the threat of death can I access the memory of the command . . . ”
+I simpered, pressed the cold reinforced plastic muzzle against his sweaty scalp.
+“You mean, like now?”
+Baldy stabbed the sixteen-digit command into what looked like some steampunk difference engine. On the screen, an interface I’d never seen before prompted whether to initiate the Recycle Protocol.
+Select “Yes.”
+The screen showed the message sent successfully. We stared coldly and began the wait.
+A sound like the flapping of a moth’s wings announced the return message. The clock showed precisely five minutes and forty-seven seconds had passed. Perhaps the company had already held a high-level emergency meeting to discuss countermeasures.
+The other party requests a call. Select “Yes”.
+“—Check, check. This is Wenchang. This is Wenchang. Please reply.”
+Baldy glanced up at me, eyes filled with the same confusion. His body reacted before he realized what he was doing as he raced toward the communicator. My gun reacted faster still. To ensure an airtight cabin, we had only slow bullets, which couldn’t penetrate the body. Instead they released their kinetic energy by fragmenting the bullet, doubling its pain and lethalness.
+I had no time for regrets.
+“Wenchang, Wenchang. This is EM-L4-D28-58a. I’m the only one left. Request recycling. Repeat, request recycling.”
+“Request received. Reenter command and grant full data privileges to assist us in situation assessment.”
+As Baldy twitched in the pool of blood, he gracefully raised his two hands to signal the command’s sixteen digits.
+Death’s just the middleman. Math is forever.
+Data, like snowflakes falling silently in a vacuum, required time. I found a corner to curl up in. I felt like an entire lifetime of strength had been squeezed out of me. Memory and pain whirled together. I didn’t care how they would judge or deal with me. All I wanted was to leave this hell and get home, even if no one was waiting for me at the door.
+If they refused, I would destroy myself along with our asteroid home. All I had to do was adjust the vector of the electromagnetic mass projector and Mother Whale would tear open, crushing everything inside her, including all our debts and our sins. My cognitive module reminded me that debt and sin were the same words in Sanskrit, Hebrew, and Aramaic.
+Now, I really was the only one left.
+Then, I felt a strange force dragging me down, drooping my eyelids, weakening my limbs, preventing nerve impulses from flowing smoothly. I was pulled into a dream, just like in those countless previous confrontations that had ended in my failure. I tried to resist the invasion, tried to listen to the gospel transmitting from hundreds of thousands of kilometers away. It was spoken by a voice vague and uncertain.
+“ . . . EM-L4-D28-58a, data assessment has been completed. We will take you home. We will . . . ”
+Darkness swallowed me again.
+7
+. . . Wearying debt is sinful and never complete. But completeness can mean only death . . .
+The sheepdog dragged Magpie’s crippled body until it disappeared into deep space.
+. . . Sacrifice is for all the gods, not just death. Death is just the middleman . . .
+Covered in the dust of the shattered cabin, Freckles’ helmet hung from her body by a thread, like dandelion fluff about to blow away.
+. . . When we devote our lives to the God who created us, we commit to paying interest in the form of sacrifice. Only at the end, can our lives repay the principal . . .
+Baldy slapped me on the shoulder. Baldy was blown away by my gun. In the low gravity, he was like a paper doll flung against the wall. A bloody mist bloomed from his chest as I thought on the young Baldy taking form in his amniotic chamber.
+. . . Birth is the original debt, which all humans carry, the debt created by humanity’s emergence in the cosmos. This debt can never be repaid on Earth, where its sum is beyond all reach . . .
+Freckles winked at me and made an indecent gesture. Magpie, emerging from her shower, bent to wipe her calves. She winked at me without any sexual significance.
+. . . When the sacrificial rites are performed justly, God promises a path to shed our human condition and achieve eternity. This is possible because, in the face of eternity, all debt loses meaning . . .
+In the dream, the sequestered girl fell to sleep, the picture book still in her hands. The picture frame upside down on the table displayed a line of small characters. The pink embryo rotated slowly in its chamber, eyelids twitching from time to time.
+. . . A form of sacrifice, through supplementing the credit of living humans, makes life extension possible, and in some cases through joining in God, achieves eternity . . .
+The girl’s face behind the seal. A desperate man who intended suicide but froze in midair. The bodies of miners. My own body. Freckles’ face. Magpie’s face. The woman in black’s face. The faces of all the living and the dead slowly overlapping, merging into one face.
+. . . Human existence is a form of debt . . .
+Names began floating to the surface, but I wasn’t sure they were real. They were like my memories, fragmented and confused. Then an enormous asteroid tore through the cabin right next to me. Hot fuel fleas tunneled through my body, tearing holes that reeked of singed flesh. I leaped desperately onto the surface of the asteroid as miniature ice volcanoes erupted on its surface in spears of steam. A crack engulfed me and I tumbled into a spinning tunnel as the fabric of all things stretched into infinite distance, transformed into infinitely thin light.
+I finally remembered the name, the one name, the name that should never have been forgotten.
+8
+“Anan!”
+I woke from the nightmare to find myself neither in the cabin nor in any part of Mother Whale I knew of.
+There was a vast open room and milky white light, but the light was so evenly distributed I couldn’t locate its source. I couldn’t even awaken my cognitive module to get my bearings.
+I tried to move, but my body was too heavy. It felt as though I could only exert a third of my strength. My every breath was strained. Then I realized what that meant. Joyful tears erupted in two raging streams.
+I had finally come home.
+Dr. Li, an Afro-Asian woman with a halo of dark fluffy hair, was assigned to watch over me. She equipped me with an exoskeleton and breathing aids to help me adapt to Earth’s gravity. Compared with ordinary Earthlings, my limbs were too slender and weak. My skin was deathly pale. My head was a little too large. If she had painted me green, I could have easily passed for an alien.
+My range of activities was limited to that one floor. Dr. Li explained I had caused a terrible storm outside and therefore must shelter here for a while.
+The area I could access on this floor already exceeded the sum area of all cabins and passages in Mother Whale. Of course, this did not include the inner and outer surface area of the asteroid. After all, not everyone got the chance to participate in a death race on the inside of an asteroid. Regardless, the area was more than sufficient to meet my needs. I even had the pleasure of sinking my teeth into some coveted kung pao chicken, not to mention sleeping according to the natural rotation of the Earth. I was also able to touch real human beings, without having to worry if they were clone space miners with corrupted memories.
+All felt as perfect as the life of some ancient emperor except for one thing: my memory had still not been completely restored. For some unknown reason, Dr. Li said, my consciousness had cracked the blockchain encryption technology, breaking through the memory barrier, but not all the information was indexed. It was in fact a mess and it would take time for my brain to reestablish order.
+Order. The word made my body shiver.
+I had more questions than could be answered, and Dr. Li sensed the terrible urgency that surged inside me.
+She smiled to comfort me. “The storm will pass. You will meet our leader, the person who ordered you saved. Then you will get your answers.”
+There was no television, no Internet, no media to share outside information, and no sense of time. Perhaps the answers were all right here, folded into a wall or curled up in a corner. It felt almost as though I just needed to say a magic word or wave my hands and they would jump out in front of me.
+But I didn’t belong in this place. I didn’t know anything about Earth these days. The skill tree of a space miner was of no use here.
+Even after coming back, I was deprived of the details from my dreams. I could only remember a name or two, a few odd fragments. I couldn’t access my true feelings or memories. I felt like a blind man bound in plastic wrap, as though I could only touch the world through obstructed senses. It was suffocating.
+I tried to please Dr. Li, begged her to show me the outside world, just one peek. Each time, with a pitying look in her eye, she denied my request.
+“It’s not time for that yet. What you need now is to care for yourself.”
+But I never understood exactly what she meant.
+Finally, I got my chance when a nurse adjusting the wall control panel was suddenly called out. I tried a few buttons. The light, color, and temperature in the room adjusted smoothly. It felt as though time were suddenly passing more quickly. I pressed several more buttons until the white opaque wall in front of me suddenly turned transparent, revealing the world outside.
+I stumbled backward. Outside was a vast open city square. It was pale gray and carved into irregular shapes by black lines. In the distance loomed a vast geometric architecture with shadows, proportions, and angles that provoked a sense of instability. What appeared like vast moving sculptures, part machine and part biological beings, responded to the subtlest environmental shifts.
+This was not any Earth I was familiar with.
+In the square, someone seemed to recognize me. He glanced up. Some type of light flickered on his forehead as if transmitting a message to me.
+The crowd grew. They stood on the square with their twinkling foreheads, staring up at me. I noticed that as each new person joined the crowd, the flickering light on their foreheads tuned to the same frequency.
+Soon there was a dense mass of hundreds staring at me, each forehead a flickering pixel in a vast low-resolution screen. That human screen began to scroll unintelligible patterns until I was overcome by dizziness.
+I pressed my palm to the transparent wall. The pattern of the crowd-light froze for a moment then transformed into another pattern, this one like an infinite spiraling sea.
+Were they communicating with me?
+I tested various movements and gestures. They responded, but I still had no idea what they might want to express.
+Just as I was about to take more drastic action, the transparent wall turned milky white again. I spun around to see Dr. Li looking at me with a sullen expression. She shook her head.
+I raised my hands and said, “I only wanted to look outside.”
+“It’s already settled. In three days, the leader will meet you. Be ready.”
+My heart was in a flurry, but there was none of the joy I had expected.
+“Those people out there . . . Who are they? Why did they do that?”
+Doctor Li’s eyes wandered as she weighed her words. Every time she was about to make an excuse, a funny expression would appear on her face. In the end, she gave up and lowered her long thick eyelashes.
+“They are the debtless, your admirers. You are their God.”
+9
+The meeting did not take place in some grand hall like I had imagined. Instead, it was arranged in a plain yet elegant old bookstore called Gewu. The place had a spiral bookshelf staircase that led up into a café.
+Exoskeletons were forbidden. I climbed the steps like a frail old man, feeling out how each muscle handled what to me was triple gravity. I felt fortunate that many of the names on the shelves were still familiar to me, even without the aid of my cognitive module.
+The leader was dressed in black with a golden chain brooch on her chest. She rose from the coffee table and greeted me with a smile.
+“Mr. Dongfang Jue, it’s a pleasure to meet you. I’m Mei Lingyilu.”
+I was stunned by her youth, drawn in by some familiar feature in her eyebrows.
+“We . . . have met before?” I couldn’t restrain my curiosity.
+She tilted her head and frowned, thought a moment, then smiled. “Oh, I understand. You see in me my grandmother, Mei Li’ai.”
+“Grandmother . . . ” I was frightened by the time span that implied. “So how many years ago would that be?”
+“If the debt contract was calculated correctly, it would have been seventy-two years.”
+“Seventy-two . . . ” I took a deep breath, still a bit dizzy. She helped me into a chair.
+“You’ve recovered well. You were in that place for so long . . . ” Her tone was a perfect expression of sympathy.
+“So, what is in fact going on? Who are you? Who controls all this?”
+“You have many questions. Considering your memory hasn’t been completely restored, I’ll start with my great-grandfather, Mei Feng.”
+Mei Lingyilu sipped her coffee, wiped her lips with a paper towel, and began her story.
+Mei Feng, my great-grandfather, established the Lifechain Group, the company where he worked tirelessly to integrate blockchain technology with biotechnology. He believed this was the only path toward achieving human immortality.
+Of course, he ended up building his fortune not by selling eternal life like the alchemist Xu Fu, but by providing genetic debt technology to governments. The so-called “genetic debt” took debt data, modularized it into blocks, and embedded the blocks into the DNA chain. The technology let debt data be traced in real time and protected it from tampering. The debt data could even be genetically passed to future generations. It protected against economic collapse. The debt couldn’t be written off by suicide or modifying biosignatures. It allowed the greatest and most granular control of individuals’ economic behaviors.
+By this time, precision cloning and synthetic embryo technology were no longer a hurdle. The key was now in the transfer of consciousness. If we had to reexperience life to accumulate knowledge and language every round, it would only be regarded as intergenerational alternation, not the continuation of a true individual’s life. So Mei Feng successfully developed memory storage and implantation technology. The result was a soybean-sized brain implant that could synchronize and store sensory stimulation and thought flow each second in the cloud. Implants could then be inserted into the hippocampal cortices to achieve seamless memory docking.
+The technology triggered panic because of the possibilities it portended. It could solidify social classes, permanently enforce that ever-expanding gulf between rich and poor. Some thought it could even return civilization to a slavery economy. After struggling with these implications of immortality, global leaders reached the so-called Geneva consensus, which put the technology on a blacklist alongside large-scale biochemical, genetic, and nuclear weapons. These technologies could no longer be used on Earth. Research and development would be subject to the most intensive scrutiny and supervision. At the same time, they didn’t want to kill off the Lifechain Group. After all, they required Lifechain’s genetic debt technology to maintain the economic system.
+My great-grandfather was from the Chaoshan ethnic group. He often recalled how his ancestors never feared storms, were keen on gambling, and spread capital and culture across the world. Nothing could stop the Chaoshan people from taking risks.
+Therefore, as a benefit exchange, Lifechain Group took a big step in the scope of “self-governance” tacitly approved by the government. On the surface, the government still maintained regulatory function, but in fact gave the Group greater freedom.
+Mei Feng’s investments in asteroid mining, construction of space stations, transformation of asteroids, capital, and technology weren’t too difficult. But the space mining companies all faced the same tricky issues with human resources. There weren’t enough qualified miners. Even with investments in high-paid training, demand couldn’t be met. Many looked to robots, but those steel buggers required a lot of water, condensers, relays, circuits, and batteries to maintain operations. Worse, they were only able to perform their more complex tasks in controlled environments.
+My great-grandfather often joked that Opportunity’s geological survey of Mars took twenty years to achieve what a grad student could have knocked out in a week.
+It was all a big chess game.
+Lifechain Group searched for qualified candidates worldwide and signed debt contracts with them through a balance of temptation and coercion. These people sold their bodies, their genes, and their souls. Biological studies show that only when mind and body are perfectly in tune can human potential be maximized. Their genetic data would be transmitted to the space station, reassembled into new genetic material, split into fertilized eggs, and developed into embryos. Their memories, after a series of procedural stimulation and reproduction, would also be encrypted like debt data and transplanted back into the cerebral cortex of the clone.
+The road to success was covered with more blood than you can imagine.
+The Group spent ten years, tens of billions of dollars in funds, and undeclared numbers of victims to achieve its extraterrestrial economic model. In addition to precious metals and rare earth deposits, an early mining site also captured metastable helium from asteroids outside the solar system, allowing for both high energy density and renewability, which triggered a revolution in energy storage methods.
+There were also unexpected disturbances, mutinies, mental breakdowns, collective slaughters. In human history, such scenes had played out countless times before when opening new frontiers. To conceal such horrors, the Group developed a method to seal up memories. Through AI, it generated a kind of ideological holy book, Treatise of Our Divine Debt, which was embedded in every miner’s cognitive module. Over the years, the Treatise grew in its spiritual influence and became a new religion.
+The system worked so perfectly that years later, Earth had forgotten the existence of these people. The secret was known to only a very few. When Mei Feng died, my grandmother, Mei Li’ai, took over the company. She knew the huge political risks hidden in it and regarded it as the top secret of the group. By this time, the Lifechain Group had become an almost omnipotent force. Due to the Group, almost everyone was burdened with some form of debt.
+When life becomes so complex, it also becomes extremely vulnerable. One slight misstep can lead to enormous downfall.
+Just like everything you did up there in space, Mr. Dongfang Jue.
+The weight of Mei Lingyilu’s story was so great that my instinct was to engage my cognitive module to process. Of course, it took me a few seconds to realize I would have to digest it by myself. That would take some time.
+“So, we were slaves deceived into signing our own eternal deed of sale?” I was embarrassed by the heaviness of my words but could think of no others.
+“Technically, everything you encountered up there was written into the contract. All was to the letter of the law.”
+“But I don’t understand. Why save me? Wouldn’t it have made more sense for you to let me die?”
+Mei Lingyilu gave a slight smile. “If we think according to the interests of the old times, that’s true. But now things are different.”
+“Different how?”
+“To tell the truth, we believe now is the best time to strip away that original sin.” She hesitated a moment to observe my reaction. “As the new leader of the Lifechain Group, I wasn’t aware of everything that had happened in the past. If you hadn’t sent that emergency signal, it’s quite possible the entire planet would never have known of these horrible acts . . . ”
+“I’m listening.”
+“Thanks to your selfless dedication in space, we were able to develop laser array launch technologies that greatly reduce the cost of entering low Earth orbit per unit load. We now also have four space elevators—in Quito, Mombasa, Riyadh, and Singapore. Even space miners don’t have to endure the mines for too long. We’ve reached a new space revolution. We are ready to truly colonize space—Mars, the asteroid belt, Europa, into the depths of the universe. We need heroes like you to inspire our people . . . ”
+“Hero?” I sneered. “Skip the sales pitch and get to what you came to say.”
+She burst into a stiff, awkward laugh that seemed out of place in our previous conversation.
+“Now, there are some people, some forces, who would like to use your experience to attack the Group. They see you as an idol, as a symbol of resistance to the entire debt system . . . ”
+“The debtless.” I realized she was referring to the crowd in the square.
+“So you know?” Mei Lingyilu flashed a suspicious glance. “They claim the genetic debt system is outdated, too inflexible, and utterly immoral. They want the greater society to take on the debt and lead what they call the ‘Debt Opening Up Movement.’ If you’ve seen their people, you’ve seen the flickering lights on their foreheads, which represents the changing total of debt each person has added to mankind.”
+“Doesn’t sound unreasonable.”
+“For the past five thousand years, such has been the cycle of civilization. All revolutions aim to cancel debt and redistribute resources. It doesn’t matter whether those debts are written on papyrus or hard drives. But such revolutions must progress step by careful step. Otherwise, like with the Roman Empire and the Carolingian dynasty, society will regress to old systems, perhaps even collapse entirely.”
+“So what do you, the famed leader, want me for? . . . And why do they call you leader instead of boss?”
+She smiled again, and for the first time I caught the significance of her golden chain brooch. A secret key turned deep in my memory.
+“Stand on our side, Mr. Dongfang Jue. Heroes are needed to lead us in the construction of the new system, a system that will never again enslave people into wearying debt or force them to compete for their survival. Instead, we will encourage people to create and contribute to the economic system they are born into, to give thanks to others, to society, to the gods, and to the universe. Let us design this system together and alleviate the old system’s tyranny of interest-based debt. We will internalize costs as a natural desire rather than passing them on to others and future generations. Will you join us?”
+Mei Lingyilu held out her hand in a convincing pose.
+I pretended to consider, then burst out laughing.
+“If you weren’t already the leader, you’d make an amazing actor. Though perhaps these are the same thing?”
+“What do you wish to say?”
+“From the very start, you’ve known of the asteroid mines and all their dark secrets. But, some truths are best unknown as some shackles are best unbroken. Wouldn’t you agree, Ms. Mei Li’ai?”
+Her delicate and tender expression hardened as though she were taking on a completely new personality. Perfect coldness flashed in her eyes.
+“Sometimes I really must admire you,” she said. “It seems any miracle can befall you. None of our top scientists could explain how your consciousness broke through that memory barrier, which even our quantum computers can’t crack. They say, maybe only the power of love can explain it. See how romantic you are?”
+“Love?” I stared in bewilderment. The word seemed so far away from me now.
+“It seems only this part of your memory has not yet been restored. But after all, it is the deepest buried, under a deadly seal. We didn’t want you to meet Anan, so we applied a certain technique to your facial recognition algorithm to make you think she was a stranger every time you saw her.”
+“Anan . . . ” Blurred faces began to take shape in my mind, overlapping to create a single face.
+“Yes, Anan, your daughter. You sold her data to us for your own survival. You made her a sinner of that infinite hell as well.”
+Flashes from my dreams rained over me in fragments, drowning me in suffocating terror. My eyes clenched as I tried to catch my breath. It felt as though my head were splitting open. Baldy had been right. Some truths were best unknown.
+“I envy Anan, to have a father like you.” I forced my eyes open. Mei Lingyilu’s face—or Mei Li’ai’s face, rather—revealed a trace of genuine loss. “You’re willing to die for her, no matter how many times, no matter how many people you have to kill. Yet in the end, it’s all empty. My father, on the other hand, moved me around like a chess piece.”
+I thought on my tiny embryo in Mother Whale and the girl next door who was always like a stranger to me. The two of us were so close but could never recognize each other. All this was the work of this immortal leader now in front of me and the ruthless empire of debt behind her.
+“Let me pose my question one last time, Mr. Dongfang Jue. If we could bring Anan back, would you act the part of hero on behalf of the Lifechain Group?” Mei Lingyilu rose, bowed gently toward me. “Or, would you prefer to let the world know the truth behind the curtain? Your math is quite good. I’m sure you can do the calculations.”
+Eyes fixed on her ageless face, I took quite some time to reach the solution.
+10
+Dreaming is a strange human design.
+When I was on the asteroid, I always dreamed of Earth. Now that I’m back on Earth, I dream of the low gravity darkness of that living hell I once called home. There’s always some flake of the past I can’t give up.
+I dream of Ginger, Freckles, Magpie, Popcorn . . . One by one, they say goodbye to me and leap from the rotating hatch through the mouth of Mother Whale into the dark sea of stars.
+They wear no protective clothing, no helmets. They float naked as though suspended in amniotic fluid. The universe is their uterus.
+I too am naked, racing along the slate-gray interior of Mother Whale, chasing after them. The endless starry sky, the curved horizon, the glittering dust spark the hallucinatory sense that I too am disappearing. I have no need for oxygen, gravity, or protection. Like a wolf lost in the wilderness on the verge of death, I connect again to the whole of the universe. Hidden forces in the body awaken. Senses spring open. I realize some part of me is not yet consolidated into the system. Some emotions thrive unencrypted, unfiltered by algorithms. Some things are more important than extending life.
+I guess they’d all agree that the freedom from debt brought by death is not so much an escape as it is a return.
+I stop running. I watch them float on until they merge with the stars.
+I open my eyes in a smile. Before me now are two tombstones.
+I brush away the dust, sweep webs from their names.
+I lift a yellowing picture book from the cardboard box and set it before the tombstone on the left. On the cover of the album is a gray whale with a puppet boy, a long nose obscured by the shadow cast inside the whale’s belly. The puppet is grinning as if to say—
+“You see my nose growing longer?”
+I hold back tears as I pull the mottled picture frame from the box. The picture inside is so damp and mildewed I can no longer make out the original image. I turn it over and set it facedown on the tombstone at the right. In the corner of the frame is a twisted line of small characters that read, “Dad, don’t be afraid.”
+I nod. It’s as if I am actually hearing that voice. Dad, don’t be afraid. The words echo inside me.
+They say I’m no longer who I was when I was in space. The Lifechain Group never brought back my physical body. They just transmitted my consciousness back from the cloud to the Earth to install it in a freshly manufactured body. So, the reason I can’t adapt to Earth’s gravity has nothing to do with my muscles, but simply the inertia of my consciousness. They say the crimes committed by EM-L4-D28-58a on the asteroid have nothing to do with me.
+I try not to think about what happened on Mother Whale. When I do, it only drives me crazy.
+They say, I’m a new man.
+I finish my prayers, rise to leave, and stroke my fingers along the edges of the two tombstones on my way out. I may never come back.
+The debtless form a circle on the green hills outside the cemetery. They are waiting on me.
+I wave. Their foreheads glimmer like clocks, like whirlpools, like songs of freedom.
+For me, for Anan, for all the people of Earth.
+Originally published in Chinese in the anthology The Promising Land.
+Translated and published in partnership with Storycom.
+Chen Qiufan was born in 1981, in Shantou, China. (In accordance with Chinese custom, Mr. Chen's surname is written first. He sometimes uses the English name Stanley Chan.) He is a graduate of Peking University and published his first short story in 1997 in Science Fiction World, China's largest science fiction magazine. Since 2004, he has published over thirty stories in Science Fiction World, Esquire, Chutzpah, and other magazines. His first novel, The Abyss of Vision, came out in 2006. He won Taiwan's Dragon Fantasy Award in 2006 with "A Record of the Cave of Ning Mountain," a work written in Classical Chinese. In English, his short stories have been published in Clarkesworld, Lightspeed, MIT Technology Review, Slate, Pathlight and other venues. His novel, Waste Tide was published by Tor in 2019.

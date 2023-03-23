@@ -1,0 +1,146 @@
+4960 words, short story
+Across the Terminator
+“I’m telling you, it’s alive!”
+Fasbender shook the flask as though it really were some living thing he was trying to subdue, yet its contents looked more than anything like dirty water—it was Hank’s pointing this out that had provoked his outburst in the first place.
+At forty-three, Fasbender was the oldest member of their three-man team. With his shock of prematurely white hair and pale skin scarred by some vindictive childhood illness, he tended to look even older—especially when he was seized, as now, with what Hank considered his ‘mad scientist fits’.
+“So what is it?” Hank asked.
+“I don’t know. That’s what I’m saying. I don’t know. I don’t have the lab equipment. I don’t have equipment for anything like this.”
+An old grievance. It wasn’t so much that Blue Glacier was under-equipped. Indeed, while the base was being established, money had been thrown at it in mind-boggling quantities. But without a specific mandate, no one had known exactly what to buy with those inflated budgets. They’d requested tools, machines, and software according to guesses of what might be useful down the line. In the end, whether from funding cuts, space restrictions on shuttles, or pure bureaucratic obstinacy, much of it had never materialized.
+These days, to Fasbender’s endless frustration, nobody ever asked what they needed.
+“I might be able to rustle something up,” Hank said helplessly. “If you can explain what you need and why.”
+Fasbender just glared from beneath flamboyant eyebrows, as though reprimanding an obstinate child.
+“Oh come on. If it’s something important, they’ll listen. It is important, right?”
+“Yes,” Fasbender said. “It’s very important. It’s too important for red tape, for protocols, for orders signed in triplicate. It’s too important to sit on. That’s why, Hank, I’m going to ask you to do something you really won’t want to do.”
+Ever since their arrival, Hank had loved and despised going outside in equal measure. There was something about the uncompromised desolation that stirred him, that took him out of himself, even in his worst moods. The pocked surface of Shackleton Crater peeled away in every direction, a void beneath vast skies, its jagged rim blindingly bright compared to the absolute darkness of its depths. It was lonely, utterly lonely—and breathtaking.
+Yet here he was, spoiling it. There was the bit he hated. The rover bounced and lurched in the loose regolith, churning dust beneath its bubble wheels, traveling within a chalky cloud that followed like some agitated ghost. Out here, Hank always felt like the worst kind of tourist.
+He sighed. At least he was lucky enough to see firsthand what the vast majority would only ever experience through the feeds and LOsim. So why was he about to do something that might—no, had to—jeopardize that?
+Because if Fasbender’s right, this is too big not to. So suck it up, Schakowsky.
+Behind him, Blue Glacier sat like a basking toad. Ahead, Yang Liwei loomed nearer. It was easy, and misleading, to make assumptions about the societies that had constructed each one from their eccentricities of design. The Chinese base might be brutal in its functionality of form, but Fasbender was right about one thing: Yang Liwei was a scientific research station in a way that Blue Glacier wasn’t and had never been intended to be.
+He drove slowly to negate any suggestion of hostility, however insane such a threat might be. There was a patch of churned ground before the entrance, a scar from Yang Liwei’s construction. Hank let the rover grind to a halt in front of it and swung to the ground. Dust spat around his booted feet, but inside the suit he felt and heard nothing, and saw only what the spotlights and his photocromic visor allowed. He took one awkward step, then another, and wondered what the hell he was expecting. For two years, the US and Chinese astronautic teams had sat opposite each other, engaged in what had always seemed like the geopolitical equivalent of a staring contest. Would they vaporize him? Ignore him? Did they even know he was out here?
+Hank took a third step. His helmet mike spat static.
+A female voice said, “Commander Schakowsky, welcome to Yang Liwei Lunar Science Station. May we ask what took you so long to visit?”
+“You have to understand, we had orders. Well, we still have. Only, our scientist thinks that after what Crazy Bessie brought in . . . ” Hank realized he probably wasn’t making much sense. “Bessie’s our robot. She’s one of the prototype AI-led rovers Holier has been developing for the Mars program. It took us a while to beat the kinks out of her programming, though. Like trying to train a too-smart dog. Ah—”
+The woman opposite him smiled patiently, and Hank lost his thread again. Until now, Liang Lei had been a face on the feeds, rather intense and harsh-looking in her stark blue-grey uniform. She was famously charismatic, a celebrity in her native country. But Hank’s Chinese was atrocious, and charm, it seemed, lost a lot without translation.
+In the last few minutes, however, her perfect English had not only shamed his own linguistic limitations but also made him realize why she was so well-liked. She spoke with a slight lilt and a hint of laughter, both of which made her seem more attractive than her hard features might suggest.
+As if this wasn’t difficult enough already . . .
+“So anyway,” he continued, “I’ve brought over a file with Doctor Fasbender’s notes and results so far—which I’d be grateful if you could keep to yourselves, because I’m pretty sure they’d drag me home and shoot me if they knew I was doing this.” Or would they? Do they even care what we do up here anymore? “You have us over a barrel. But Fasbender has this nutty idea that science should be bigger than borders, and this even nuttier idea you’ll think the same way.”
+Liang smiled. “I think I would like to meet your Doctor Fasbender.”
+Hank grinned back, and felt a tremendous release of tension. “Believe me, you wouldn’t. He’s stubborn and annoying. In fact, if you really like the sound of him, I might be willing to trade.”
+Liang’s smile broadened, her surprisingly pretty face became a little prettier still, and Hank struggled to hold his thoughts together.
+“The way I see it, Commander,” he said, “we’re stuck up here together. Now that I think about it, we should have been friends from the start. I’m sorry for that. Right now, though, we may have found something big . . . and if we have, then we need your help.”
+“Please,” she replied. “My name is Lei. And you’re right, we should have been friends before today. The Moon is a lonely enough place without us making it lonelier still.”
+“This doesn’t sit right.” Landeimer, third and final member of Blue Glacier's small staff, sat on the canteen table, kicking his heels savagely against its supports. “Something’s up.”
+“They’re in exactly the same boat we are. Once the Chinese authorities had a flag waving permanently on the Moon, they lost interest, just like our people did. What’s so strange about that?”
+“Not that. It’s the way you’re taking it so well.”
+Hank laughed awkwardly. “Commander Liang is a persuasive lady.”
+“I thought you were meant to be persuading her.”
+“Sure. That too.” Desperate to change to the subject, Hank turned to Fasbender. “So where does this leave us? What happens now?”
+Fasbender stood with his back half to them, distractedly picking at a tube of rhubarb-flavored nutrient gel. He shook his head. “This leaves us with the boring stuff, Hank—the actual science. You did your part, and I appreciate that. Now I have to get on with mine. I’m sure you don’t want me explaining it to you.”
+That stung, because Hank really had stuck his neck out, but also because the implied criticism was more than a little justified. “Look,” he said, “I’ve been distracted lately, I admit it. But I care about this. I want to understand.”
+Fasbender glared from under his gargantuan eyebrows, holding the nutri-gel straight out like a weapon. Then he glanced down at his hand, looked puzzled for a moment, and relaxed. “You have been rather noncommittal these last few months. And you do seem different now.”
+Hank sighed. “I’m sorry. You too, Landeimer. The last year hasn’t been what any of us expected when we signed up. If we can do some good here, though, I want in on that. Just talk me through it, okay?”
+For once, he was relieved to see Fasbender slip into mad scientist mode. As though his thought processes were powered by motion, the doctor began a circuit of the room: past the portholes of the outer wall, then the doors to the bunk hall, comm room, laboratory, and airlock, and then past the portholes again, emphasizing in a few short moments how claustrophobic their existence was. “Obviously,” he said, “it began with the water.”
+This, at least, Hank understood. After the supply shuttles had started to become irregular, Hank had raised the unpleasant possibility that one day—if the cold war back home ever turned hot—they might find themselves stuck with no support at all. They’d discussed food rationing, and Landeimer had explained how they could boost the output from the solar panels to cover if the fuel cells dried up. “You’re talking about your idea of mining for ice in the unlit regions of the crater wall?”
+“Correct. Landeimer and I have made a lot of headway since we ironed out the glitches in Bessie’s code.” Fasbender always seemed taller when he was orating. Now Hank was certain the doctor had gained a clear couple of inches. “There are some sizeable deposits over there, most likely brought in by meteorites and other space debris. It’s spread out and tricky to get at, but Bessie came up with the goods.”
+“Hence the bottle you were waving around.”
+“Yes. Because what Bessie brought back wasn’t just water. There was something else in it. Something living.”
+“Even though that should be impossible with no atmosphere.”
+He felt childishly pleased to be making a useful contribution, which only made it worse when Fasbender started glaring at him again. “My God, Henry. I know we’re from different specialisms, but did they teach you nothing at Canaveral? Of course there’s an atmosphere. Outgassing and run-off from the solar wind, among other things, take care of that. There are even traces of oxygen. What’s important is that there’s nowhere near enough for any aerobic organism to get by on.”
+“Which means what you’ve found must be anaerobic?” asked Hank desperately.
+“Correct. That in itself makes it unusual and potentially useful. What’s truly rare, however, is that it generates oxygen without relying on photosynthesis. It processes water much like any earthbound plant, but takes its energy from the radioactive decay of rocks, as certain methanogen-based microbes do.”
+“It’s a good job I don’t need to understand that. I think I see the significance, at least. We give it water and it makes air, right?”
+“Not air, no . . . but a way of farming oxygen on the moon would be a fine start. It might also be a potential biofuel if one could find sufficient ice reserves, or even the basis for a food protein. Imagine, fields of Glacier Grass stretching across the lunar—”
+“What?”
+“Oh. Yes, that’s what Landeimer’s been calling it. I’m afraid I’ve adopted the term, despite its utter inaccuracy.” Abruptly, as though suddenly tired, Fasbender leaned back against the canteen table, forcing Landeimer to shuffle aside. “The point is, Henry, that the possibilities are enormous.”
+“I get that much. So now might be the time to tell you that I’ve arranged for the Chinese to come over here in about—oh, half an hour’s time. We’re going to thrash this out, the three of us with the five of them. So I have one more question.”
+“Oh?” Fasbender creased his eyebrows suspiciously.
+Hank grinned. “Who wants to bake the welcome cake?”
+In the end, they settled for cocktails. Landeimer had an unexplained supply of some virulent alcohol that seemed to materialize whenever he was in a black mood. On his worst days, he’d taken to mixing it experimentally with various fruit and vegetable nutrient pastes, which he forced the others to try. The results had been variable, to say the least. Thankfully, he spared their guests the more bizarre concoctions in favor of his safer recipes.
+There were eight of them crammed into the small canteen now, more than twice the number for which it had been intended. Fasbender had bonded instantly with his Chinese counterpart, and Hank had drawn wry amusement from his uncharacteristically puppyish attitude towards the famous bacteriologist.
+As the meeting had progressed and the science become more in-depth, those with least to contribute had drifted towards the peripheries. Hank now stood halfway through the bunk hall door, a position that was playing havoc with its sensors. Every few seconds the door would attempt to close, bump against his foot, and offer a sad mechanical sigh. Liang Lei was leaning against the wall, deftly protecting her glass from the darts of elbows and shoulders.
+Hank took a careful sip of his mystery alcohol, avocado paste, and rehydrated lime sling, and said, “I thought I knew what they were talking about an hour ago. I’m not even sure it’s English anymore. Is it Chinese?”
+She offered the smile that had made such an impact on him earlier. “I was educated in Community Management. I am just as confused as you, Henry.”
+Feeling his cheeks flush warmly, he said, “Please, it’s Hank. No one but Fasbender calls me Henry, and I think he only does it to annoy me.”
+“Hank,” she said, as if testing the sound. “Aren’t you bothered by that door hitting your foot?”
+“Sure. How are you enjoying dodging elbows?”
+“Very little.”
+“Perhaps it’s time we moved then.”
+He stepped back into the bunkroom, sat down and waved toward the opposite beds. She perched on the edge of the lowest. He couldn’t help noticing how her nose wrinkled. “We’ve had trouble with the air recycling, and the new tanks have been delayed,” he explained apologetically. “Also, Fasbender seems to think that changing his overall every day is a luxury.”
+“It must be strange to have volunteered for this life,” she said.
+“Didn’t you?”
+“I was chosen. It was a great honor.”
+“Well, I wouldn’t change it. I wouldn’t give it up for anything. Even if the worst happens, even if . . . ” He faltered. He’d said more than he’d meant to. In fact, he’d strayed onto a subject he would never have deliberately raised.
+“I spoke a little with your Mister Landeimer,” Lei said. “He mentioned that you’ve been troubled. That you’ve been watching all the time for news from Earth and worrying they have forgotten you.”
+Unable to read her tone, he nodded. He felt oddly guilty, as though his earlier excitement had soured like old milk.
+“I have been troubled too,” Lei said, almost in a whisper.
+Hank started. “Really?”
+“We were put here to—” She struggled to find the right phrase in the less familiar language. “To make a point. We were sent here to prove how superior our science was, just as you were sent to prove that anything we could do, you could better. Now both points have been made. We are no longer news, and at home they wonder what to do with us.”
+Astonished to hear his own anxieties summed up so perfectly, Hank could only nod.
+“Mister Landeimer also said that you have been looking for ways to survive on your own here, if the need should come. What I wanted to tell you is that so have we. We are growing a little food and generating our own power. We have improved our air filters. While the doctors investigate their discovery, would you work on this with me?”
+Hank felt such relief that he fought an urge to cry or, perhaps more rationally, to lean forward and kiss her. Instead, he smiled tiredly and said, “Lei, I’d be very glad to.”
+The next few days were the best he’d spent on the Moon—better even than those first weeks when it was all new and all exciting, a marathon endeavor driven by seemingly inexhaustible supplies of adrenalin.
+Almost effortlessly, the lunar population—for suddenly, amazingly, that was what they were—split into two new factions, without any hint of discord. Fasbender and the Chinese bacteriologist Shen Tao pursued their science project. Everyone else worked under Hank and Lei, developing ways to prolong their survival should the worst happen.
+That had been a gloomy and paranoid occupation when it had been just the three of them. Now, with the two camps combined, it seemed no more than a sensible precaution, about which they could talk openly and even joke. It felt like a holiday, or an exchange project between two ramshackle schools. New friendships were made. A weight lifted.
+Hank noticed not only a change in himself, but in Landeimer’s and Fasbender’s behavior as well. Landeimer was drinking less, and when he did, it was because he’d arranged a poker game with new acquaintances from the Chinese base. Fasbender seemed younger and walked without a stoop that Hank had never consciously noticed him develop. He was as enthusiastic as he’d been in the days before the launch, and considerably more focused.
+Hank knew, however, without pride or modesty, that he’d changed more than either of the others. For months, the responsibility of leadership had been a weight holding him uselessly in place. Now it was an opportunity. They were the first citizens of a new world. How had he failed to see that?
+He also realized quickly, even without Landeimer’s conspiratorial glances and frequently inappropriate comments, that Lei was a part of that. It wasn’t just attraction, though he was grown-up enough to admit it was partly that. More, it was the sharing of a burden that had nearly crushed him, and the discovery that it had always been shared. He’d imagined—as the peoples of Earth had imagined—a conflict between the two hemispheres of Shackleton Crater, where in fact there had only been mirror images fighting the same weary fight.
+They tweaked the air filters in Blue Glacier using adaptations the Chinese had developed, extending the filters’ lifetime by at least two years. The Americans were awed by the garden of cress and fungi growing in one wing of Yang Liwei, and Landeimer—revealing a hobbyist’s interest in botany that Hank would never have guessed at in a million years—made a number of useful suggestions to increase their yield. They calculated that Bessie, working at full capacity from a suitable reservoir of ice, could keep them all in water for four months or more. There was even talk of devising a well and a pipeline, though that might take upwards of a year.
+Behind it all, like a persistent rumor, was Fasbender’s sample of Glacier Grass. For a long while, Hank felt no need to discuss it with Lei, but by the third week—when it became abundantly clear that nothing else they did could match the possibilities of Bessie’s chance find—he found himself forced to raise the subject. They had slipped away and come to rest in the garden, with its mottled splotches of khaki and empires of fungal grey.
+“I don’t think I’ll ever get over this,” Hank said wonderingly.
+“I remember when the first seed broke through. I don’t think I’ve ever been more happy.”
+“If what Fasbender and Tao are saying is right, then this may only be the beginning. Have you heard the latest?”
+“Yes. Doctor Fasbender is sure now that it could be processed into food.”
+“I’ve had to forbid him from trying to eat the stuff. They still don’t really understand its growth mechanism. We’d have to bring in Earth before we thought about that angle seriously.”
+“Yes,” Lei agreed, and the note of melancholy in her voice surprised him.
+“What’s up?”
+“Oh . . . ” She looked up at him quizzically, and tugged unconsciously at a coil of hair. Just when he was certain she wouldn’t answer, she said, “Back in China, they would call me a traitor.”
+Hank considered. “Probably.”
+“I wish it wasn’t like this. I hope that things will get better between our countries. I hope that one day they will be glad of what we’ve done. Perhaps then they will look at this place with hope and not as a playground to fight in.”
+“Nothing lasts forever. In the meantime, we’re just going to have to live with the possibility of being branded traitors. With that in mind,” he said, and then halted, suddenly unsure if he wasn’t too bashful to ask what he’d maneuvered Lei in here to ask. He’d never been good at things like this.
+You’re standing in a garden on the Moon. Perhaps it’s time to start adjusting your ideas of what you can and can’t do.
+He gulped. “How would you feel about conspiring with me over dinner tonight?”
+“What do you think we’re going to do all night, go for a walk outside? Man, I can’t believe you’d organize this without even asking us.”
+“Paul, I’m really sorry.” It had been hard enough just revealing his plans for the evening to the others, let alone asking if they’d be okay with vacating the base for a few hours. What kind of a date would it be, though, with Landeimer thrusting peculiar cocktails at them and Fasbender regaling them with his latest discoveries? Still, it was true that he hadn’t thought the details through. If he had, he would never have got around to saying anything. “I’ll absolutely owe you one. I’ll return the favor or—”
+Landeimer’s poker face cracked into a wicked grin. “Hank, you’re so easy. Who’s the one who’s been telling you that you should make a move? Anyway, I’ve got a game organized and Fasbender, to everyone’s surprise, is doing science stuff with his new best pal.”
+Fasbender nodded sagely. “We’re trialing a half-dozen samples with different nutrient bases, seeing if we can’t stimulate a better growth rate.”
+“Damn. I hadn’t thought about that.”
+“Well, why would you have?”
+“No . . . I mean, what are we going to eat tonight? What kind of a romantic dinner can you have over ham and pea nutrient tubes?”
+“I have some cookies,” Fasbender said. “I was saving them for a special occasion, and this is as good as any.”
+“Albert, you’re a bona fide saint. I—”
+He was cut off by the raucous screech of the airlock alarm. Surely Lei wouldn’t turn up two hours early . . .
+When he went to the screen, he saw—not from the anonymous bulk of the suit, but by the familiar nametag on its shoulder—that it was her. Surprised and suddenly anxious, he hammered the button marked ‘cycle’ and ducked through the door, leaving Fasbender and Landeimer exchanging puzzled glances.
+For safety reasons, the airlock was a short distance from the base proper. By the time Hank had reached the other end and the huge doors had whirred open, Lei already had her helmet off and tucked beneath one arm. Though her face was perfectly composed, something in her expression made him certain that she’d been crying.
+Before he could ask what was wrong, she said, “They’re taking us back.”
+“What?” He stared at her in horror, willing the words back into her mouth.
+“In a few hours. They’re coming to take us back. The shuttle has already been dispatched.”
+The words barely seemed to penetrate the fog that had suddenly seeped into his brain. “Is it because of—of us, the last few weeks?”
+“I don’t think so. I don’t know everything, but there has been some change in Beijing. They say now that Yang Liwei is wasteful, that only America chooses to be wasteful in such a way. They say we have no purpose here. It must have been planned for weeks, for months, but they only told us now.”
+“Will you be in trouble?”
+“Perhaps for a while. Then perhaps they will call us heroes. It doesn’t matter.” Lei drew a hand across her face. “I came to say goodbye, Hank. We haven’t much time, and there’s so much to do. They told us to destroy whatever we can.”
+For a moment, her voice faltered. In that instant, Hank remembered the garden in precise detail, every dull grey orb and spike of muted green, and as though they were joined by some momentary telepathy, he knew she was thinking of it too. He wanted urgently to hold her, and realized that any physical connection would be impossible through the bloated mass of her suit.
+The moment passed.
+Her surface calm restored, Lei said, “I have something to return to you.”
+She unzipped one of the suit’s flabby pockets and drew out a flask of some unhealthy-looking liquid. Hank stared in confusion until he recognized it as Fasbender’s original sample of Glacier Grass. He took it from her carefully.
+“Goodbye, Hank,” she said. “I’m sorry I couldn’t have dinner with you. I hope that one day, when things are different, you will ask me again.”
+Then she replaced her helmet, and he could no longer see her face.
+It was almost a relief.
+Hank had watched the shuttle, though it was only visible as occasional glints of light depending on the angle of its solar panels, and the effect had been like staring at an empty bottle perched just in sight on a very bright day.
+He’d finally given up and glanced around Shackleton Crater instead. He found nothing in its stark horizons to reassure him, even though this might be the last time he saw it properly. Its walls hung like sheet iron lain upon some colossal scrap heap. Its shadows seemed sinister and unreal.
+An hour ago, two hours after he’d last seen Lei, their own orders had come through. Prepare for recovery at 22:00. Destroy all paper records, electronic memory, organics.
+Among other things, it confirmed what he’d sometimes suspected. The two governments were quite capable of putting aside their hostilities when it suited them. This mutual retreat from the moon had probably been agreed upon months ago.
+Landeimer had taken it well, perhaps had even been pleased. He’d always had the most difficulty with the combination of extreme isolation and constant companionship imposed by lunar living. Fasbender had been stoic, though there had been something heartbreaking in his expression as he fed his samples and data piece by piece into the incinerator.
+When Landeimer had been absent, he’d asked Hank, “You’re not going to do anything stupid, are you? You’re not thinking of defecting?”
+“It would kill my folks,” he’d replied, only then realizing that on some level he had been considering it.
+For an instant, anger made him clench his hands until his palms stung. He’d been happy when Lei was around, happier than he ever remembered feeling. Now, most likely, he would never see her again.
+He hadn’t consciously planned to go outside. He had drifted towards the airlock and clambered into his suit with barely a hint of conscious purpose. He’d only remembered the flask in the pocket of his overall at the last minute. The only remaining sample of Glacier Grass, perhaps all that remained in the solar system—maybe the entire galaxy. Still with no real intention, he’d transferred it to a pouch of the suit.
+He’d stared skyward for a long while, observing the Chinese shuttle in its delicate pirouette against the blackness. During that time, a realization had struck him. All those days ago, Lei had never revealed what it was that frightened her. He’d assumed she shared his phobia of abandonment. Perhaps the truth was that, despite his months-long obsession with the barrage of often-contradictory messages their nations sent out, she’d understood the politics between them better than he ever had. Perhaps she’d simply been afraid of this day, and of saying goodbye to her bleak, magnificent foster home.
+Only now, glancing with dissatisfaction around Shackleton Crater, did he remember the flask. He took it out and gazed at it, watching the dark flakes that swirled inside, and realized why he’d come out here in the first place. He remembered what he’d asked Fasbender as he watched his friend cramming the last of his handwritten notes into the incinerator.
+“You really think Glacier Grass could have survived out there? In that dark and cold? It really could have grown?”
+“Yes, I believe so. Of course, we’ll never know for sure.”
+Hank opened his fingers. In the low gravity, the flask fell slowly and settled lazily into the dust. Only when he stamped with his weighted boot did it break, and its contents burst free. An instant later, there was nothing to see but glistening shards of glass and ice.
+Yet amid the debris was something that could grow without air—without atmosphere. Something that had traveled an unimaginably long way. Something that one day might be food, might be fuel, or might be turned to other undreamed-of uses if it survived to be rediscovered.
+It had made it this far. Maybe the odds weren’t so bad.
+He wanted to say something though there was no one to hear. Nothing came to mind. He tried to remember what Lei had told him in the garden that day, and found he couldn’t even manage that. The words jumbled. All he could hear was the specific lilt of her voice.
+In desperation, Hank paraphrased. “Well, we screwed up today. Here’s hoping we get it right tomorrow.”
+David Tallerman is the author of the comic fantasy novels Giant Thief and Crown Thief, as well as the absurdist steampunk graphic novel Endangered Weapon B: Mechanimal Science. A second sequel to Giant Thief, Prince Thief, is due for release later this year. David's short science fiction, fantasy and horror has appeared in over fifty markets, including Lightspeed, Bull Spec, Nightmare and Flash Fiction Online.

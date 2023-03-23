@@ -1,0 +1,52 @@
+<doc sitename="Clarkesworld Magazine" title="Clarkesworld Magazine - Science Fiction &amp; Fantasy" author="Susan E Connolly" date="2022-01-01" source="https://clarkesworldmagazine.com/connolly_07_14a/" hostname="clarkesworldmagazine.com" excerpt="Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: The Issue of Gender in Genre Fiction: The Math Behind the Slush by Susan E. Connolly" categories="" tags="" fingerprint="NMOAXuOjMtnQ5PbchjJGA8i8fF4=">
+  <main>
+    <p>Non-Fiction</p>
+    <head rend="h1">The Issue of Gender in Genre Fiction: The Math Behind the Slush</head>
+    <p>Editor’s Note: Knowing that some people will be curious about the math behind Susan’s piece, we asked her to provide something a bit more technical for those more mathematically inclined among us.</p>
+    <head rend="h3">Submissions Variation Between Markets</head>
+    <p>Hypothesis: There are no significant differences in gender ratios relationship between markets.</p>
+    <p>All Submissions</p>
+    <p>Chi Square: 248.94<lb/>Critical value at 99.9%: 34.53</p>
+    <p>I can reject the null hypothesis</p>
+    <p>Science Fiction Submissions</p>
+    <p>Chi Square: 89.6<lb/>Critical value at 99.9%: 31.26</p>
+    <p>I can reject the null hypothesis</p>
+    <head rend="h3">Science-Fiction Submissions by Genre of Market</head>
+    <p>Hypothesis: Science fiction only markets are not more likely to receive submissions from men.</p>
+    <p>Using a Pearson’s correlation I got an R value of 0.14 (considered weak), with a T-value of 0.46 and a p value of 0.33. For a one-tailed t-test the critical value is 1.81.</p>
+    <p>Therefore I cannot reject the null hypothesis.</p>
+    <head rend="h3">Non-Science Fiction-Only Publications: Gender Split of Total Subs vs. Gender Split of Science Fiction Subs</head>
+    <p>Hypothesis: There is no relationship between the gender ratio of all submissions and the gender ratio of science fiction submissions.</p>
+    <p>R value: 0.7132 (Strong positive correlation)</p>
+    <p>I can reject the null hypothesis.</p>
+    <head rend="h3">All-Men Senior Editorial Team Vs All-Women or Mixed-Gender Senior Editorial Team</head>
+    <p>Hypothesis: Men-only senior editorial teams are not more likely to receive submissions from authors who are men.</p>
+    <p>All Submissions</p>
+    <p>R value: -0.16 (weak negative correlation)<lb/>T value: -0.57<lb/>Critical value at 95% probability: 1.78</p>
+    <p>Based on the t-value this result is not significant.</p>
+    <p>Science Fiction Submissions</p>
+    <p>R value: 0.23 (weak positive correlation)<lb/>T value: 0.76<lb/>Critical value at 95% probability: 1.81</p>
+    <p>Based on the t-value this result is not significant.</p>
+    <head rend="h3">All-Women Senior Editorial Team Vs All-Men or Mixed-Gender Senior Editorial Team</head>
+    <p>Hypothesis: Women-only senior editorial teams are not more likely to receive submissions from authors who are women.</p>
+    <p>All Submissions</p>
+    <p>R value: 0.19 (weak positive correlation)<lb/>T value: 0.66<lb/>Critical value at 95% probability: 1.78</p>
+    <p>Based on the t-value this result is not significant.</p>
+    <p>Science Fiction Submissions</p>
+    <p>R value: -0.23 (weak negative correlation)<lb/>T value: 0.74<lb/>Critical value at 95% probability: 1.81</p>
+    <p>Based on the t-value this result is not significant.</p>
+    <head rend="h3">Age of Senior Editorial Team</head>
+    <p>Hypothesis: Age of Senior Editorial Team Has No Relationship with the Percentage of Submissions by Authors Who Are Men</p>
+    <p>Mean Age vs. Total Subs by Men %</p>
+    <p>R value: 0.2395 (weak positive correlation)</p>
+    <p>Mean Age vs. Science Fiction Subs by Men %</p>
+    <p>R value: 0.1299 (weak positive correlation)</p>
+    <p>Median Age vs. Total Subs by Men %</p>
+    <p>R value: 0.2329 (weak positive correlation)</p>
+    <p>Median Age vs. Science Fiction Subs by Men %</p>
+    <p>R value: 0.1125 (weak positive correlation)</p>
+    <p>While the results technically show a positive correlation, the relationship is extremely weak, and insufficient to reject the null hypothesis.</p>
+    <p>Susan E. Connolly's short fiction and non-fiction have appeared in Strange Horizons, Daily Science Fiction, The Center For Digital Ethics and the fanzine Journey Planet. She is the author of Damsel, a middle-grade fantasy from Mercier Press and Granuaile, an upcoming historical comic book from Atomic Diner. Her degree in Veterinary Medicine given her strong opinions about the accurate portrayal of animal sidekicks in fiction. Susan lives in Ireland, near the mountains. Also near the sea. Also near the forest (Ireland is a small country).</p>
+  </main>
+  <comments/>
+</doc>

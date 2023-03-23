@@ -1,0 +1,72 @@
+2010 words, short story
+The Opposite and the Adjacent
+Just like that the lonely ship appeared before us: an enormous ovoid, scarred with great cracks and fissures, as if having given way under the awesome power of some great unknown force. Despite having long since lost all means of propulsion, inertia and gravity had conspired to carry it within range of our observation station in the Kuiper Belt.
+Having determined that the vessel posed no danger to us, Gu He and I concluded an investigation was in order.
+Upon reaching the cabin door, I pulled at the twisted wreck of metal with the utmost of caution, managing only to pry it open halfway. More or less intact, the furnishings appeared slanted and strange, calling to mind famous works of postmodern sculpture back on Earth. It was around this time that we found the golden box, with “him” inside.
+Having had already long since expired, “he” lay in the box with stiff limbs and no signs of a functioning metabolism. Aside from a strange, triangular-shaped head, “his” body was shockingly similar to that of a man.
+In a cabinet we found sheets of a rubber-like substance covered in countless symbols, each more bizarre than the last.
+After scanning them into the computer, we tried our luck with the automated code breaker. It took nearly a week but in the end we were left with something resembling as much study notes as it did a diary.
+I found the following passages especially significant:
+Entry #103
+Yesterday we studied the Law of Area: The area of a square equals length times width. I’ve already finished today’s homework, including this problem: Calculate the area of an irregular polygon. By cutting it up I was able to create a square from the resulting pieces. During class today our teacher praised me in front of everyone else, saying that I was the only one who’d figured it out. I think all the papercuts I’ve done definitely helped out.
+I’m so happy! Math isn’t nearly as hard as they’re always saying it is—it’s actually pretty interesting.
+Entry #197
+A lot of people say that math gets harder after 6th grade. But I don’t think it’s hard at all, it’s just that the calculations have gotten more complex.
+Like yesterday, when we studied the Theorem of the Opposite and Adjacent: In a given right-angled triangle the sum of the two legs squared is equal to hypotenuse raised to s. S is an abbreviation for the natural constant of the Opposite and the Adjacent, which is approximately 2.013. Ancient mathematicians had already accurately calculated s to the 28th place over a thousand years ago!
+You don’t need to be so exact though, ‘cause 2.013 is good enough for most things. That’s what our teacher said.
+Still, it’s really tough to calculate the value of something raised to the power of 2.013 (or to find the square of 2.013). Since starting 6th grade every problem usually takes a couple of hours and I feel like most of that time is used for complex operations involving exponents.
+Sometimes I think about how much easier everything would be if s was equal to 2! That way you could find the answer to these problems in seconds, not hours.
+Entry #248
+“Practice making squares and finding roots until you know the operations like the back of your hand.” I remember my teacher saying this over and over when I was little, but I feel like I’m only just starting to understand what he meant.
+There probably isn’t one single lousy branch of science that that doesn’t use them. In equations for falling bodies, the inverse square of gravity to distance is 2.07; the inverse square of an electromagnetic field to distance 3.02; and energy is of course equal to mass times the speed of light raised to the power of 2.03 . . . it all makes me tired just thinking about it.
+It doesn’t matter how exciting or interesting a science may be, because in the end you’ll inevitably get stuck doing dull and tedious calculations.
+Entry #335
+Without meaning to, I’ve discovered something pretty weird.
+I really like making papercuts—it’s something I’ve enjoyed since I was a little kid. So yesterday, I took out a square piece of paper and started playing around with it. First, I cut a small square from the very center of the paper. That left me four right triangles. Originally I had been planning on trying to fit the pieces together into the shape of a spaceship, with the four triangles acting as wings. As I looked at the pieces of paper on the table, however, I was suddenly struck with a passing thought.
+If the area of the original square piece of paper I had started with was equal to all of the small pieces that were left over, and the area of a square was the product of one side squared . . . why did something seem wrong here?
+Writing out a rough equation, I did my best to simplify it, until I was left with this amazing conclusion:
+a2+b2=c2
+There’s no 2.013 after all! Just two!
+It’s a really weird result, I know, and pretty shocking too. But, I have to admit I’m kind of in love with how simple my formula is and my gut is telling me that this is the true form of the Theorem of the Opposite and the Adjacent.
+Entry #336
+Well, it looks like that was a waste of time.
+I went to meet my math teacher today to explain my formula. Hoping for the best, I waited for him to look as surprised as I had been, and then maybe say something like, “My word! It really is true!” I was pretty disappointed, though, cause he just laughed and shook his head.
+“Incorrect.”
+“What’s incorrect about it?”
+“Your formula for calculating the area is wrong,” he said, patting me on the head. After a pause, he said, “You’re a smart cookie—you’ve come up with a simple way to deduce the Theorem of the Opposite and the Adjacent. It’s too bad because—”
+“Isn’t area the product of length times width though?”
+“That’s just an approximation. While it’s true that introductory texts explain it this way, once you enter the higher grades you’ll find out that in addition to the length times width, there is an additional factor that must be applied to create the correct result. That’s the true formula for area!”
+He’s right, of course, I should have thought of this earlier. Since when have things ever been easy?
+So depressing. When I got home and saw the cut up pieces of paper on the table I didn’t waste any more time messing around with them.
+Entry #1129
+Soon I’ll be signing up for the higher academy, where I’ve decided I’ll apply to become an astronaut.
+I still remember when I was a teen all I wanted was to be a scientist. But when I think about science now, all I feel is, well, a headache. I’ve found scientific formulas to be, pretty much without exception, complex and tedious to complete—or to put it another way, they’re freaking irritating. But that’s the world we live in, built on the foundation of an irrational, aesthetically unpleasing constant. Sometimes I think that if God really exists, then he’s one lousy craftsman.
+Entry #2983
+My vessel has already left the belt system, a pioneering first in the history of my people! When my messages and survey data finally reach the home planet three months from now I can only imagine they'll be filled with pride at my accomplishment.
+Meanwhile, I continue forward, seeking out places as yet unexplored by any who have come before.
+Entry #3012
+Something very strange has happened.
+Some days ago, a crack appeared in my vessel’s main cabin. The atmospheric sensor quickly found the leak in an out of the way corner. I carefully patched the crack, thinking that would be that.
+Since then, though, it’s been one non-stop emergency. It’s like my ship is being crushed, with compressions and fractures appearing all over the place. Fixing the cracks keeps me up at all hours, but none of it makes any sense. Where, in the vastness of space, is this mysterious pressure coming from to bear down upon my vessel?
+A number of sensors and engines in the craft have begun to malfunction as well, with obvious cracks appearing in the hardened alloys of the various components. Every day I fall asleep to a symphony of creaks and groans echoing out of some new, unknown corner of my vessel, as if I’m living in a haunted house. There’s absolutely no way for me to fall asleep without taking sedatives.
+Earlier today I discovered that even the gravitational sensors have begun to fail. When an asteroid of about thirty tons happened to pass by the nose of my ship I was completely unable to get the gravitational data supplied by the sensor to agree with the telemetric calculations of the ship’s computer.
+I really don’t know how much longer I can keep going like this.
+Entry #3028
+I think I’ve discovered the source of the problem.
+Having spent the last day combing through yesterday’s gravitational data, I found something strange. If the numbers provided are correct, the inverse square of gravity to distance should be 2.
+Using the principle of the interference on polarized light, I was able to measure the lengths of the three sides of a right triangle. The shortest leg opposite the hypotenuse was 3 units in length, to the adjacent leg’s 4 units. The hypotenuse, meanwhile, was 5 units long!
+Given an acceptable experimental margin of error, the hypotenuse was exactly 5 units in length, being neither slightly longer nor slightly shorter as one would have expected.
+Entry #3084
+I’ve become certain I won’t be able to keep my vessel together much longer.
+The whole ship is coming apart now. Even if I were to return to my home planet immediately there would be no way for me to land without killing myself.
+And it’s all because of the Theorem of the Opposite and the Adjacent—it’s true, a single formula is to blame for everything that's happening. The great pieces of metal that shape the hull, the precise and exacting components of my instruments—they were all constructed and assembled according to the natural constant 2.013. But now even the natural laws are no longer what they once were.
+I’m not afraid—in all honesty, I’ve made peace with this whole mess. You might even say I’m a little happy. It’s how the Theorem of the Opposite and the Adjacent was meant to be all along, isn’t it?
+And now I’ve found my way into a more beautiful universe where I can my lay my head to rest, having arrived at long last . . .
+“I’m curious . . . How in the world did they come up with such a strange version of the Pythagorean theorem?” I asked, sighing as I set down the the printout of the translated journal.
+“Indeed. I suspect it was on account of wormhole K09,” Gu He replied, searching the database. “It just so happens that a medium-sized wormhole is located just outside their star system. Within the radius of its influence, space and time are slightly distorted.”
+“But are we really supposed to believe that they never suspected all of those so-called ‘natural constants’? Imagine, raising something to a bizarre number like the power of 2.013! It looks so funny!”
+“As a wise man once said, ‘Living as I do on Lushan mountain, truly, I know nothing of its appearance from afar!’” Gu He said, sighing. “We really shouldn’t try to judge their intelligence from our own perspective—who knows, human civilization on Earth probably developed under the influence of an even greater distortion in time and space! Doesn’t pi being 3.1416 strike you as equally odd?”
+Suddenly speechless, I had nothing to say.
+Originally published in Chinese in Micro SF, December 2014.
+Translated and published in partnership with Storycom.
+Liu Yang has a PhD in physics and is a professor at Xi'an University of Technology. Since his first short story in 2012, he has published over 30,000 words of short stories in magazines such as Sci-fi World, and ZUI Found, in addition to his 2015 short story collection A Perfect Doomsday. Additionally, Liu is a prolific author of sci-fi essays, with a regular column in Non-Exist.

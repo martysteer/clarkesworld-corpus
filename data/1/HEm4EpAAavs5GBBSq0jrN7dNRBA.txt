@@ -1,0 +1,285 @@
+8860 words, novelette
+Extraction Request
+When they finally shift the transport’s still-smoldering wing enough to drag Beasley out from where he was pinioned, for a moment all Elliot can do, all anyone can do, is stare. Beasley’s wiry arm with its bioluminescent tattoos is near sheared from its socket, and below his hips he’s nothing but pulped meat and splinters of bone.
+He’s still alive, still mumbling, maybe about the woman Elliot saw in a little holo with her arms thrown around his neck, back before Beasley’s dreadlocked mane was shaved off and a conscript clamp was implanted at the top of his spine.
+“His impact kit never triggered,” someone says, as if that’s not fucking obvious, as if he could have been ragdolled out of the transport otherwise.
+“Is the autosurgeon trashed?” someone else, maybe Tolliver, says. Elliot’s ears are still ringing from the crash and his head swimming from what he was doing before it and all the voices seem to blend. He knows, dimly, that he should be giving orders by now.
+“An autosurgeon can’t do shit for him. What’s it going to do, cauterize him at the waist?”
+“Get him some paineaters at least. Numb him up.”
+“Shock’s done that already.”
+“You don’t know that.”
+“I fucking hope that.”
+Beasley is still trying to talk, but it’s all a choking wet burble from the blood in his mouth. The nudge, though, comes through. It slides into the corner of Elliot’s optic implant, blinking poisonous yellow. A little ripple goes through the rest of the squad, which means they got it, too. A couple of them reflexively clap their hands to the backs of their necks, where the caked scar tissue is still fresh enough to itch.
+Elliot realizes that down here in the bog, cut off from command, the clamp at the top of Beasley’s spine no longer needs official permission to trigger its nanobomb. All it needs is consensus.
+“I’d want it done for me,” Tolliver says, wiping a glisten of sweat off his face. His upvote floats into the digital queue. He chews at his lip, shoots Elliot a look that Elliot carefully ignores.
+“Yeah,” Santos from the lunar colony says, which is as much as she’s ever said. “Trigger him.” Another upvote appears, then another, then three more in a cascade. Elliot sees that he has a veto option—something they didn’t tell him when they stuck him as squad leader. He looks into Beasley’s glazed eyes and completes the consensus, floating his vote to the queue.
+The nanobomb goes off, punching a precise hole through the brainstem and cutting every string at once. Beasley slumps.
+Apart from that, injuries are minimal. Everyone else’s kits went off properly, as evidenced by the gritty orange impact gel still slathering their uniforms. Elliot picks it off himself in clumps while he surveys damage to the R12 Heron transport settling in its crater at the end of a steaming furrow of crushed flora and shed metal. The anti-air smartmine shredded their primary rotor when it detonated, and the crash itself did the rest of the work. The Heron’s not going to fly again.
+“Should get them fuel cells out of her,” says Snell, who is scarecrow skinny with a mouth full of metal, and dark enough so his shaved scalp seems to gleam blue-black. “In case there’s leakage.” Aside from Beasley, who’s being wrestled into a body bag, Snell is the only one who knows flyers worth a damn. They conscripted him for smuggling human cargo on a sub-orbital.
+“You do that,” Elliot says, when he realizes Snell is waiting for go-ahead. “Get one of the Prentii to help. They’re digging.”
+“You mean one of the twins?” Snell asks, with a grin that makes his metallic teeth gnash and scrape. Elliot did mean the twins, Privates Prentiss and Prentiss. The nickname slipped out, something Tolliver calls them the same way he calls Snell “The Smell” and Mirotic “Miroglitch.” If he has one for Elliot, too, he doesn’t use it when they’re together.
+“Yeah,” Elliot says. “Get one of the twins.”
+Snell pulls on a diagnostic glove and clambers into the Heron carcass; Elliot turns to check on the perimeter. If they hadn’t gone down over swampland, where the rubbery blue-purple ferns and dense-packed sponge trees provided a cushion, the crash might have been a lot worse. Their impact cleared a swathe on one side of the transport. On the other, Mirotic is calibrating the cyclops.
+Elliot watches the red-lit sensory bulb strain on its spindly neck and spin in a slow circle. “What’s it see?” he asks.
+Mirotic is tapped in, with his optic implant glowing the same red as the surveillance unit. “Nothing hot and moving but us. Bog gets denser to the east and south. Lots of those sponge trees, lots of subterranean fungi. No radio communications. Could be more anti-air mines sitting masked, though.”
+His English is airtight, but still carries a Serbian lilt. Before they clamped him, he was upper-level enforcement in a Neo-European crime block on Kettleburn. He once personally executed three men and two women in an abandoned granary and had their corpses put through a thresher. Only Elliot has access to that back-record. To everyone else, Mirotic is a jovial giant with a bristly black beard and high-grade neural plugs.
+Prentiss, Jan, trundles past, having received Snell’s nudge for a hand with the fuel cells. He wipes wet dirt off on his tree-trunk thighs. Both he and his sister are nearly tall as Mirotic, and both are broader.
+“Soil’s no good for graves,” Prentiss rumbles over his shoulder. “He’s going to get churned up again. Watch.”
+“How many drones came out intact?” Elliot asks Mirotic, trying to sound sharp, trying not to imagine Beasley’s body heaved back to the surface.
+“Two,” Mirotic says. “I can fix a third, maybe.”
+“Send one up,” Elliot says, scratching his arm. “Get a proper map going.”
+Mirotic hesitates. “If I send up a drone, we might trigger another smartmine.”
+Elliot hadn’t thought of that. He hasn’t thought of a lot of things, but rescinding the order would make him look off, make him look shook, maybe even remind Mirotic of the night he saw him with the syringe.
+“That’s why you keep it low,” Elliot says. “Scrape the tree line, no higher. And keep it brief.”
+Mirotic takes a battered drone from its casing and unfolds it in his lap, sitting cross-legged on the damp earth. As it rises into the air, whirring and buzzing, his eyes turn bright sensory blue.
+“It’s strange there’s no animal life,” Mirotic says. “Nothing motile on the sensor but insects. Could be a disease came through. Bioweapon, even. Seen it in the woods around New Warsaw, dead and empty just like this.” He rests his thick hands on his knees. “We could have everyone jack up their immunity boosters.”
+Elliot takes the hint and sends a widecast order to dial up immunity and use filtration, at least for the time being. Then he goes to where Tolliver and Santos are vacuum-sealing Beasley’s body bag, the filmy material wrapping him tight like a shroud. Tolliver looks up at his approach, flicking dark lashes. He has smooth brown skin and sly smiles and a plastic-capped flay a skin artist did for him on leave that shows off the muscle and tendon of his arm in a graceful gash. Elliot has felt it under his fingertips, cool and hard. He knows Tolliver is fucking at least one other squadmate, but he doesn’t think it’s Santos.
+“Me and Tolliver will finish up,” Elliot says. “Go spot for Mirotic. He’s tapped in. Then get the tents up.”
+“Sir.” Santos’s the only one on the squad who says sir, who salutes, and she does both with enough irony to slice through power armor. Santos was a foot soldier for one of the Brazilian families up on the lunar colony. She looks like a bulldog, squinty eyes and pouched cheeks. Her clamp didn’t go in right and there’s double the scarring up her head.
+When Santos leaves, still sneering, Elliot drops to a crouch. “Did they know each other?” he asks, grabbing the foot end of the body bag. Tolliver takes the other and they carefully stand up.
+“Talked Portuguese together sometimes,” he says. “Beasley knew a bit. Said the moony accent’s a real bitch to follow, though.”
+Elliot tells himself that this is why he needs Tolliver on his side, because Tolliver sees the webs, sees all the skinny bonds of social molecule that run through the squad.
+“Fucked up seeing him halfway gone like that,” Tolliver says, with a put-on hardness to his voice. “At least the clamp is good for something, right?”
+Elliot grunts in response as they carry Beasley away from the downed Heron, away from the surveillance unit and the carbon-fiber tents now blooming around it.
+“When I said we could give him paineaters, that vein in your forehead, it went big,” Tolliver says, almost conversationally. “You were in the back when they hit us. You were in the medcab again.”
+“I’m coming down,” Elliot says, even as his itching arm gives another twinge. “And I’m staying off it. Staying sharp.”
+Tolliver says nothing, and then they’re at the hole where the other Prentiss, Noam, is waiting with a spade slung over her shoulder. They lower the body bag in slowly, gently. Elliot reaches down for a fistful of damp earth and crumbles it over Beasley’s shrouded face. Tolliver does the same. Prentiss starts shoveling.
+“We got the extraction request through before we lost altitude,” Elliot says. “Won’t be down here long.”
+Tolliver gives him a sidelong look. “Some of us will be,” he says, then turns and leaves.
+Elliot stays to watch until the body bag has disappeared completely under thick wet dirt.
+Dusk drops fast on Pentecost, dyeing the sky and swamp a cold eerie blue for a half-hour before plunging them into pitch dark. Most of the squad already have peeled eyes—the night vision surgery is a common one for criminals—and Elliot orders all lights dimmed to minimum to conserve the generator.
+Elliot has a tent to himself. He lies back stiff on his cot in the dark and reviews mission parameters in his optic implant, scrolling up and down over words he’s read a thousand times. They were heading north to reinforce Osuna, cutting slantwise across marshy no-man’s land the rebels usually stay away from. They were not expecting hostiles on the way, and now they’re grounded at least a thousand klicks from the nearest outpost.
+Elliot tries to calculate how long the paineaters and emergency morphine he salvaged from the shattered medcab will last him. Then he accesses his personal files in his implant and watches the one clip he hasn’t deleted yet, the one he watches before he sleeps.
+“She’s awake . . . Just looking around . . . ”
+His wife’s voice draws three syllables out of awake, drags on around, high and sweet and tinged weary. His daughter’s soft and veiny head turns. Her bright black eyes search, and Elliot can pretend they see him.
+Something scrapes against the side of the tent. He blinks the clip away, hauls upright and reaches for his weapon before he recognizes the imprint of a body pressed up flush to the fabric. Elliot swipes a door with his hand and Tolliver slides through, already halfway undressed.
+“Told the Smell I’m out back for a long shit,” Tolliver says, working his stiff cock with one hand, reaching for Elliot’s waistband with the other. “Let’s be quick.”
+“Wasn’t sure you’d be coming,” Elliot says, helping yank the fatigues off. “Because of Beasley.”
+“Don’t fucking talk about Beasley,” Tolliver says.
+Elliot doesn’t, and Tolliver’s body all over his is second best to a morphine hit for helping him not think about that or anything else. But when he comes it’s a throb and a trickle and then everything turns lukewarm dead again. Afterward, Tolliver sits on the edge of the cot and peels his spray-on condom off in strips.
+“Jan went walkabout in the swamp a bit,” he says, because this has been the usual trade since they deployed last month. “Think he’s testing the range limit for the clamp. Wants to skate, maybe. Him and his sister.”
+“In the middle of a mined bog?” Elliot asks, pulling his fatigues back on.
+“They’re both settlement-bred,” Tolliver says. “Colonist genemix, you know, they think they’re invincible. Probably think they can tough it out and get south to the spaceport.”
+“He told you that he wants to desert?”
+Tolliver takes a drink from Elliot’s water bottle and runs his tongue along his teeth. “He told me he did some exploring,” he says. “Wanted to jaw about some odd bones he found. I filled in the rest.”
+“What did he find?” Elliot asks.
+“Animal bones,” Tolliver says. “Really white, really clean.”
+“Mirotic thinks a plague might have come through,” Elliot says, instead of saying a bioweapon. “There’d be bones.”
+“Plagues don’t usually put them in neat little heaps,” Tolliver says. “He said they were all piled up. A little mound of skeletons.”
+Tolliver swipes a door and disappears, leaving Elliot sweat-soaked and sick-feeling. He only hesitates a moment before he gropes under the bedroll for his syringe. Before he can start prepping his favorite vein, the cyclops starts to wail.
+Everyone is out of their tents and armed in a few minutes, clustered around the cyclops. Half of them are rubbing their eyes as the peel sets in and turns their irises reflective. Elliot switches to night vision in his implant, lighting the shadows radiation green. The air sits damp and heavy on his shoulders, and with no breeze nothing moves in the flora. The stubby sponge trees and wide-blade ferns are dead still.
+“Where’s your brother?” Elliot asks Noam, counting heads.
+“Taking a shit out back,” she says. “He’ll have heard it, though.”
+Mirotic is tapped in now, his implant blinking red. “Just one bogey,” he says. “Thirty meters out. Looks like some kind of animal.”
+“You set it to wail for every fucking swamp rat that wanders through?” Snell says. His face is still streaked with soap.
+“It’s a lot bigger than a rat,” Mirotic says. “Don’t know what it is. It hasn’t got vitals. It isn’t warm.”
+“Mechanical?” Elliot asks, thinking of the spider-legged hunter-killers they used to drag rebels out of their caves around Catalao. Tech has a way of trickling over in these long engagements, whether stolen or sold off on the side.
+“It’s not moving like any of the crawlers I’ve seen,” Mirotic says. “Circling now, toward the back of us. Fast. Jan’s still squatting back there.”
+Some of the squad swivel instinctively. Elliot pulls up Jan’s channel. “Prentiss, there’s a bogey heading towards you,” he says. “Might be mechanical. Get eyes on it.”
+Jan’s reply crackles. “Hard to miss,” he says. “It’s fucking glowing.”
+“And what is it?” Elliot says. “You armed?”
+Jan’s reply does not come by channel, but his howl punctures the still night air. Elliot is knocked back as Noam barrows past him, unslinging her gnasher and snapping the safety off. Snell’s fast behind, and then the others, and then Elliot finds himself rearguard. He’s still fumbling for his weapon when he rounds the back of the downed Heron.
+His eyes slip-slide over the scene, trying to make sense of the nightmarish mass of bioluminescence and spiky bone that’s enveloped Jan almost entirely. His night vision picks out a trailing arm, a hip, a boot exposed. The creature is writhing tight around Jan’s body, spars of bone rasping against each other, and the glowing flesh of it is moving, slithering. The screams from inside are muffled.
+Snell fires first, making Elliot’s dampers swell like wet cotton in his ear canals. The spray of bullets riddle the length of the creature, and a fine spray of red blood—Jan’s blood—flicks into the air.
+“Don’t fucking shoot!” Noam smacks Snell’s weapon down and lunges forward, reaching for her brother’s convulsing arm. Before he can grab hold, the creature retreats toward the tree line with Jan still ensnared, unnervingly fast.
+It claws itself forward on a shifting pseudopod of bone spines, moving like a scuttling blanket. Someone else fires a shot, narrowly missing Noam running after it. The creature slithers into the trees, for an instant Noam is silhouetted against the eerie glow of it, then both of them disappear in the dark.
+“Shit,” Tolliver says. “I mean, shit.”
+Elliot thinks that’s as good a summary as any. He can still see Noam’s vitals, and Jan’s too, both of them spiked hard with adrenaline but alive. They’ll be out of range in less than a minute.
+“I hit it,” Snell says. “Raked it right along its, I don’t know, its abdomen. Didn’t do nothing.”
+“You hit Jan. That blood spray, that was Jan.”
+“Jan’s inside it.”
+“We’re going after them, right?”
+Elliot looks around at the squad’s distorted faces. Tolliver’s eyes gleam like a cat’s in the dark. There is no protocol for men being dragged away by monsters in the night. He opens his jaw; shuts it again. Mirotic shifts in his peripheral, taking a half-step forward, shoulders thrust back, and Elliot knows he is a nanosecond from taking the squad over, and maybe that would be better for everyone.
+“Mirotic,” he says. “You stay. Get a drone up and guide us bird’s eye. Everyone else, on me.”
+Plunging through the dark swamp, Elliot expects every mud-sucked step to trigger another smartmine. Sweat pools in the hollow of his collarbone. The whine of the drone overhead shivers in his clenched teeth, and the squad is silent except for heavy breathing, muted curses as they follow its glowing path in their implants. The Prentii’s signal comes and goes like a static ghost.
+The warped green-and-black blur of his night vision, the drone’s shimmering trail of digital breadcrumbs, the memory of the monster and Jan’s disembodied thrashing arm—none of it seems quite real. A nightmare, or more likely an overdose.
+“Rebels stay out of these swamps,” Snell says aloud, dredging something from his post-clamp war briefing. “All the colonists do.” His voice is thin and tight.
+Nobody replies. The drone’s pathway hooks left, into the deepest thicket of sponge trees, and they follow it. Pungent-smelling leaves slap against Elliot’s head and shoulders. It reminds him almost of the transplanted eucalyptus trees where he grew up on Earth.
+“Can’t get any closer with the drone,” comes Mirotic’s crackly voice in his ear. “Trees are too high, too dense. They’re right ahead of you. Close now.”
+The twins’ signal flares in Elliot’s skull, but their channels are shut and their vitals are erratic. Elliot’s feels his heart starting to thrum too fast. Eyes blink and heads twitch as the rest of the squad picks up the signal. Tolliver’s face is drawn, his mouth half-open. Santos is unreadable. Snell looks ready to shit himself. Hands tighten on stocks. Fingers drift to triggers.
+The sponge trees thin out, and Elliot sees the same bioluminescence that swallowed Jan whole. The shape of it is indistinct, too bright for his night vision, so he flicks it off. When he closes and reopens his eyes, he sees what’s become of the twins.
+They are tangled together in a grotesque parody of affection, limbs wrapping each other, and it’s impossible to tell where one ends and the other begins because they are coated in a writhing skin of ghostly blue light. Long shafts of dull gray bone, humors or femurs from an animal Elliot knows was not killed by any plague, skewer them in place like a tacked specimen.
+Reminding himself it might be a hallucination, Elliot steps slowly forward.
+“Prentiss?”
+A sluggish ripple goes through the twins’ tangled bodies. Elliot follows the motion and finds a neck. A head not covered over. Noam’s eyes are wide open and terrified. Elliot watches her face convulse trying to speak, but when her bruised mouth opens, glowing blue tendrils spill out of her throat. It’s inside her. Elliot recoils. In his own throat, he feels bile rising and burning.
+“Shit, they’re conscious,” Tolliver breathes. “What is that stuff? What the fuck is . . . ?” He reaches for Noam’s cheek with one hand, but before he makes contact the other head, Jan’s, buried somewhere near his sister’s thigh, begins to wail. It’s a raw animal noise Elliot has only ever heard men make when they are torn apart, when their limbs have been blown off, when shock and pain have flensed them down to the reptile brain and all it knows to do is scream.
+He claws Tolliver’s hand back.
+“Don’t touch them,” he says. “We have to run a scan, or . . . ” He looks at the bones pinning them in place, at the writhing cloak that looks almost like algae, now, like glowing blue algae. He has no idea what to do.
+“Look at the feet,” Santos says thickly. “Fuck.”
+Elliot looks. Noam’s feet are not feet any more. The skin and muscle has been stripped away, leaving bits of bone, crumbling with no tendon to hold them together.
+“Kill them,” Santos says. “It’s eating them alive.” She pulls her sidearm and aims it at Jan’s screaming mouth. Her hand tremors.
+Elliot doesn’t tell her no. It would be mercy, now, to kill them. Same how it was mercy for Beasley.
+A vein bulges up Santos’s neck. “Can’t,” she grunts. “The implant.”
+Elliot aims his own weapon at Jan and as his finger finds the trigger he finds himself paralyzed, blinking red warnings scrolling over his eyes. Convict squads have insurance against friendly fire same as any other. Maybe in a combat situation the parameters would loosen a little, but this, an execution, is out-of-bounds.
+“Send the nudge, Noam.” Tolliver squats down by her wide-eyed face. “You in there? You gotta send the nudge. So we can trigger you. Come on, Noam.”
+The yellow message doesn’t appear. Maybe Noam is too angry, too colonist, thinking she is invincible, thinking somehow she’ll get out of this scrape how she got out of all the other ones. More likely her mind is too far gone to access the implant. Jan starts to scream again.
+“I’ll fucking do it manual, then,” Tolliver says, with his voice shaking. He looks at Snell. “Give me your knife. Unless you want to do it.”
+Snell wordlessly unclips his combat knife and slings it over, handle-first. It’s a long wicked thing, not regulation or even close. Elliot thinks he should offer to do it. He’s in command, after all. He knows where the jugular is and where to slit it without dousing himself in blood. But he only watches.
+And the instant Tolliver touches Noam’s head, all hell breaks loose. The monsters come from everywhere at once, scuttling masses of bone and bioluminescence. From the ground, Elliot realizes dimly even as he backpedals, keys his night vision, opens fire. The rest of the squad is doing the same; splinters fly where bullets hit bone but the skin of things, the blue algae, just splits and reforms.
+Subterranean fungi. He remembers that from the topography scan as Tolliver klicks empty and fumbles his reload.
+“Get the fuck out,” comes Mirotic’s voice. “They’re coming on your twelve, your three. Lots of them.”
+Doesn’t matter. The thought spears through Elliot’s mind. Doesn’t matter if he dies here or on Kettleburn or wherever else. He’s been dead for ages.
+Then Tolliver goes down, tripped by a monster clamping its bony appendages around his legs like a vice. Elliot aims low and for gray, shattering enough bones for Tolliver to wriggle out, to swap clips. But bullets aren’t enough here.
+Elliot loads the incendiary grenade as Tolliver scrambles free. He tries to remember the chemical compositions here on Pentecost. For all he knows, it might light up the whole fucking swamp. For all he knows, that might be a better way to die than getting flensed alive.
+“Run,” Elliot orders, and sends the fire-in-the-hole warning spike at the same time. “Leave them.”
+Santos rips past him, then Snell, then Tolliver right after, no protest, his reflective eyes wide and frantic in the dark. With adrenaline turning everything slow and sharp, Elliot fires the grenade where he thinks the splash will be widest, hitting the dirt between two of the surging creatures. He remembers to blink off his night vision only a nanosecond before the explosion.
+A wall of searing heat slams over his body and even without night vision the blossoming fireball all but blinds him. He feels Tolliver grabbing his shoulder, guiding him out of the thicket. Through the roar in his ears, he can’t be sure if Jan is still screaming.
+They are sitting in the husk of the downed Heron, grouped around a heater. Every so often someone glances toward the cyclops, which is still whirring and spinning and searching. Santos has a bruise on her forehead from where the butt of Snell’s gnasher clipped her in the dark. Tolliver cut his thumb falling. Other than that, they are all fine, except Elliot hasn’t been able to get to his syringe.
+“So there was no plague,” Mirotic says. “Only a predator.”
+“That thing was artificial,” Snell says. His eyes look wild, bloodshot, and his hand keeps going to the spot where his knife used to be. “No way could that evolve, man. It’s a weapon.”
+“It’s organic, whatever it is,” Mirotic says. “Looked on the scan like a fungus.”
+“It’s a weapon, and they dumped us here to test it.” Snell’s voice ratchets high. “That fucking smartmine was probably one of ours. We’re expendable, right? So they dumped us here to see if it works.”
+Elliot waits for someone to tell Snell to settle the fuck down, but instead Santos and Tolliver and Mirotic are all looking at him, waiting for his response. Tolliver plucks at the bandage around his hand, anxious.
+“The colonists stay out of these swamps,” Elliot says. “You said that yourself.” He has a flash of the twins’ twisted bodies, the scuttling monsters. “I figure now we know why.”
+“When do we get extracted?” Santos asks flatly. “Sir.”
+Elliot knows they are low priority. Maybe five days, maybe six. Maybe more. “They know we’re rationed for a week,” he says.
+“A fucking week?” Snell grinds his metal teeth. “Man, we can’t be out here a week with that thing. I’m not ending up like the twins, man. I say we carry what we can, and we get out of here.”
+“To where?” Mirotic asks. “The fungus extends under the ground in all directions.”
+“If you knew about this, why didn’t you tell us?” Snell demands.
+Mirotic’s nostrils flare. “Because fungus is not usually predatory.”
+Elliot tries to focus on the back-and-forth, tries to think of what they should do now that they know the swamp is inhabited by monsters. He realizes he is scratching at his arm.
+Santos looks over. “What the fuck?”
+But she isn’t looking at Elliot. Tolliver, who has been silent, ash-faced, is clutching at his bandaged thumb. He looks down at it now and his eyes widen. A faint blue glow is leaking from underneath the cling wrap.
+“Oh, shit, oh, shit, I feel it.” Tolliver is twisting on the cot, sweat snaking down his face. “I can feel it. Moving.”
+The bandages are off his hand now and his cut thumb is speckled with the glowing fungus. The autosurgeon unfolds over his chest like a metal spider while Mirotic searches for the right removal program, his eyes scrolling code. Elliot feels a panic in his throat that he never feels during combat. It reminds him of the panic he felt last time he spoke to his daughter.
+He crouches down and holds Tolliver’s free hand where Snell and Santos can’t see. It’s slippery from the sweat.
+“Got it,” Mirotic says thickly. “Biological contaminant.”
+The autosurgeon comes to life, reaching with skeletal pincers to hold Tolliver’s left arm in place. Carmine laserlight plays over his skin, scanning, then the numbing needle dips in with machine precision to prick the base of his thumb.
+Tolliver’s free hand clenches tight around Elliot’s.
+“Hate these things,” he groans, locking eyes for a moment. “Rather let the Smell use that big old fucking knife than have a bot digging around—”
+“Shouldn’t have dropped it, then,” Snell says.
+Tolliver swivels, his mouth pulls tight in a grimace. “Fuck you, Snell.”
+The autosurgeon deploys a scalpel. Metal slides and scrapes and the sound shivers in Elliot’s teeth. Mirotic is looking over at him, and when he speaks he realizes why.
+“The spores are moving. Autosurgeon wants to take the whole thumb.”
+A wince ripples through the tent; Santos clutches his own thumb tight between two knuckles. Tolliver’s eyes go wide. He tries to yank his arm away, but the autosurgeon holds tight.
+“No!” he barks. “No, don’t let it! Turn the fucking thing off!”
+“It could spread through his body if we aren’t fast,” Mirotic says. “How you said it did to Prentiss and Prentiss.”
+Elliot swallows. He isn’t a medic. What they drilled into his head, from basic onwards, was to trust the autosurgeon. And he doesn’t want Tolliver to end up like the twins.
+“Do it,” he mutters.
+“Turn it off!” Tolliver wails. “Listen! Listen to me, you fucks!”
+His free hand thrashes but Elliot holds it tight, not caring anymore if Santos and Snell can see it, as the scalpel descends.
+“The program’s running,” Mirotic says. “Too late to stop it.”
+The blade makes no sound as it slices through the skin, the tendon, the bone. The autosurgeon catches the squirt of bright red blood and whisks it away. Tolliver howls. His spine arches. His hand clamps to Elliot’s hard enough to bruise.
+Elliot sits underneath the cyclops, listening to it whir. He said they would sleep in shifts, that he would watch first, as if his vitreous eyes might catch something the sensors miss. Partly because he had to say something. Give some kind of order. Mostly because he needed a hit.
+Now, with the morphine swimming warm through his veins, he feels light. He feels calm. His heartbeat is so slow it is almost an asymptote.
+“He screamed so much because there was no anesthetic in the autosurgeon.”
+Elliot turns to see Mirotic, holding a black plastic cube in his hand. He understands the words, but his guilt breaks apart against the high and then dissipates. Tolliver will be fine. Everything will be fine. He tries to shrink the chemical smile on his face, so Mirotic won’t see it.
+“Everybody knows why,” Mirotic says. “Where’s the rest of it?” He doesn’t wait for a reply. He snatches the rattling sock out of Elliot’s lap and yanks him to his feet. Mirotic is tall. But he’s slow, too, the way everything is slow on the morphine, and Elliot still has his old tricks.
+A hook, a vicious twist, then Mirotic is on the ground with the needle of the syringe poised a centimeter from his eyeball.
+“I need that,” Elliot says.
+“You’re pathetic,” Mirotic grunts. “Holding his hand and wasting his morphine.”
+“Why do you care?” Elliot asks, suspicious now, wondering if maybe it’s Mirotic who Tolliver visits in the night when he doesn’t come to him.
+Mirotic slaps the syringe away and drives a knee up into Elliot’s chest. The air slams out of him, but he feels only impact, no pain. He staggers away, bent double. If his lungs were working he would maybe laugh.
+“I care because you used to know what the fuck you were doing,” Mirotic says. “Back before they stuck you with a con squad.” He taps the high-grade neural plug at his temple. “You read our records. But I’ve seen yours, too. These personnel firewalls aren’t shit. And if we’re going to get out of this, it won’t be with you doped to the eyes.”
+“Give Private Tolliver the paineaters,” Elliot rasps, straightening up. “Leave the morphine. That’s an order.”
+Mirotic shakes his head. “It stays with me, now. You’ll get it when we get extracted.” He tosses the black plastic cube; Elliot nearly fumbles it. “Worry about this, instead,” Mirotic says. “Worry about a fungus that eats our flesh and uses the bones like scaffolding.”
+Elliot turns the cube over. Through the transparent face, he sees sticky strands of the glowing blue fungus moving, wrapping around Tolliver’s scoured-white knucklebone.
+In the morning, Snell is gone.
+“Never woke me for my watch,” Santos says, picking gound out of the corner of her eye. “I checked the tent. His kit’s not there.”
+“And now he’s out of range,” Mirotic says. “Could get the drones up to look for him. Keep them low again so we don’t trigger any more mines.”
+The inside of Elliot’s mouth feels like steel wool. They are standing in the sunshine, which makes his head ache, too. A cool breeze is rippling through the blue-and-purple flora. The sponge trees are swaying. It’s peaceful, near to beautiful. In daylight it’s hard to believe what happened only hours ago in the dark. But the twins’ tent is empty, and Tolliver is drugged to sleep with bloody gauze around the stump of his thumb.
+“Why would we look for him?” Elliot says.
+Santos gledges sideways at Mirotic, but neither of them speak.
+“He deserted,” Elliot says. “If he doesn’t pose a threat to us, we let him walk. He’ll either step on a mine or get eaten alive.” He feels slightly sick imagining it, but he keeps his voice cold and calm. “Mirotic, rig up a saw to one of the drones, start clearing the vegetation on our flank. Make sure we have clean line of fire. No use watching them on the cyclops if we can’t hit them til they’re right up on us. Santos, get the comm system out of the Heron. We’re going to make a radio tower.”
+When Santos departs with her sloppy salute, there’s less contempt in it than usual. Mirotic stays and stares at him for a second, suspicious. Elliot meets his gaze, pretending he doesn’t care, pretending he didn’t already ransack Mirotic’s cot looking for the morphine while he was on watch.
+“Good,” Mirotic says, then goes to get the drone.
+Elliot turns back toward the tents. He lets himself into the one Tolliver and Snell were sharing, and realizes Tolliver is no longer asleep. He’s sitting up on the sweat-stained cot, staring down at his lap, at his hand.
+“How are you feeling?” Elliot asks, because he doesn’t know what else to say.
+“You took my thumb.” Tolliver’s voice trembles. “I needed that thumb. That’s my good hand.”
+“It was moving deeper,” Elliot says. “That’s why we had to amputate. You probably don’t remember.” He hopes Tolliver doesn’t remember, especially not the pain.
+“Still got a trigger finger, so I guess it doesn’t matter to you, right?” Tolliver says. “Still got a mouth, still got an ass. All the parts you like.”
+Elliot feels heat creeping under his cheeks. “You can get a prosthetic when they pick us up,” he says, clipped.
+“At this rate?” Tolliver gives a bitter laugh. “There’s gonna be nobody left to pick up tomorrow, fuck a week. That’s if you really did get the extraction request through, and you’re not just lying through your fucking teeth. I know junkies. I know all you do is lie.”
+Elliot wants to slip his hands around Tolliver’s throat and throttle him. He wants to slip under the sheet and hold Tolliver to him and tell him they’re going to make it. He does neither.
+“I needed that thumb because I was going to be a welder,” Tolliver snaps as Elliot goes to leave. “When all this shit was over and I’d gotten my clamp out, I was going to be a welder like my grandfather was.”
+But war is never really over, and there’s a sort of clamp that doesn’t come out. Elliot doesn’t even remember what he used to think he was going to be. He turns over his shoulder.
+“Your head’s not right,” he says calmly. “It’s the drugs. Try to sleep more.”
+“Oh, fuck you,” Tolliver says, somewhere between laughing and crying. “Fuck you, Elliot.”
+Elliot steps out, and the tent closes behind him like a wound scabbing shut.
+By the time night falls, they’ve cleared a perimeter, cutting away the vegetation in ragged circumference around the Heron, the tents, the cyclops. Tolliver came out to help mid-afternoon, jaw clenched tight and eyes fixed forward. Nobody mentioned his hand or even looked at it.
+The few incendiary grenades they have in armory are distributed. Mirotic is trying to rig up a flamethrower using a soldering torch and fuel drained from the tank. Santos and Tolliver are perched on the roof of the Heron, hooking the makeshift antennae into the comm system through a tangle of wires.
+Mostly busy work, Elliot knows. They can’t be sure the incendiary grenade did anything but distract the fungus, and it moves fast enough that having open ground might only be to its advantage. They don’t know anything about this enemy.
+But if he keeps up appearances, maybe he can get the last of the morphine back from Mirotic without resorting to violence. Act sharp, act competent, and then when the withdrawal kicks in he won’t have to exaggerate much to make Mirotic realize how much he needs it to function.
+“Nothing,” Santos says.
+Elliot looks up to the roof of the Heron. Tolliver is still trying to rotate the antennae for a better signal, but all that comes through the comm system and into their linked implants is shrieking static. He dials it down in his head. They are too far from the outpost.
+Then a familiar signal comes faint and blurry. A blinking yellow nudge slides into the corner of his optic.
+“Snell,” Tolliver says. “Shit.”
+Elliot feels a shiver go under his skin. The sky is turning dark above them. The cyclops picked up no movement during the day, but like Mirotic said, plenty of predators hunt only at night. There can only be one reason Snell would send the nudge. Elliot can picture him stumbling through the bog, maybe dragging a turned ankle, with the blue glow creeping closer and closer behind him in the dark. Or maybe the fungus already has him, is already flensing him down to his skeleton.
+Tolliver’s upvote appears, then Santos’s. It will only take four votes now to trigger the nanobomb. Mirotic looks over at him, and Elliot doesn’t think Mirotic is the merciful type. He executed three people and put their bodies through a thresher. But then Mirotic’s upvote appears in the queue.
+“Quick,” Tolliver says, not looking at him. “Before we lose the signal.”
+Elliot is not sure if he’s making the strong move or the weak move, but he adds his vote and completes the consensus because he still remembers Jan’s screams. Everyone is silent for a moment. Santos crosses herself with the same precision she salutes.
+“Leave the antennae,” Elliot says. “The extraction request went through. They’ll come when they come. Until then, we dig in and stay alert.”
+Santos hops down off the roof of the Heron. Tolliver follows after, gingerly for his bandaged hand. Elliot looks at what’s left of the squad—fifty percent casualties in less than two days, and nowhere near the frontlines. Santos is steady; Elliot hasn’t seen her shook once yet. Mirotic is steady. But Tolliver hasn’t told a joke or barely spoken the whole day and his eyes look scared.
+Elliot’s still looking at Tolliver when the cyclops wails a proximity alert. He tamps down his own fear, motions for Mirotic to tap in.
+“Seven bogeys,” Mirotic says. “Different sizes. Biggest one is over two meters high. They’re heading right at us, not so fast this time.”
+Elliot flicks to night vision and watches the trees. “Aim for the bones,” he says, remembering the previous night. “They need them to hold together. Santos, get a firebomb ready.”
+Santos loads an incendiary grenade into the launcher underslung off her rifle. Tolliver has his weapon tucked up against his side, like he’s bracing for auto, and Elliot remembers it’s because he has no thumb. Across the carpet of chopped-down ferns and branches, he sees something emerging from the trees. It’s not moving how the other ones moved.
+Elliot squints and the zoom kicks in. The shambling monster is moving on three legs and its body is a spiky mess of charred bone held together by the ropy fungus. Through the glow he can make out part of a blackened skull on one side. The twins’ bones, stripped and reassembled like scaffold. His stomach lurches.
+Santos curses in Portuguese. “Permission to fire?” she asks through her teeth.
+The other bogeys are converging now, low and scuttling like the one that took Noam. A pack, Elliot thinks. He can feel his pulse in his throat. This isn’t combat how he knows combat. Not an enemy how he knows enemies. He wonders if the flames even did any damage the night before. Bullets certainly hadn’t.
+“Wait until they’re closer,” he says. “No wasted splash.”
+Santos sights. Her finger drifts toward the trigger. She waits.
+But the monsters don’t come any closer.
+“It’s fucking with us,” Tolliver says. “Sitting out there waiting.” He has a calorie bar in his hand but it’s still wrapped. He’s been turning it over and over in his fingers.
+Santos bites a chunk off her own ration. “You think it thinks?” she asks thickly. She glances to Mirotic, who shrugs, then to Elliot, who distractedly does the same. Elliot is more concerned by the deepening itch in the crook of his arm. He needs morphine soon.
+“Has to,” Tolliver says. “It came for Jan first. Jan was the one who went out and found the bones in the first place. Then it used Noam to lure us out.”
+The four of them are sitting under the cyclops, with a crate dragged out to hold food and dice for a game nobody is keeping track of, just rolling and passing on autopilot. Every so often Elliot has someone walk a tight circle around the Heron to check their back, in case more of the monsters try to flank them. In case the cyclops malfunctions and doesn’t see them coming. Busy work.
+But there are still only seven, and they still haven’t advanced from the edge of the trees. Sometimes the fungus shifts and the bones find new positions, but they all stay in place, waiting, maybe watching, if the fungus has some way of seeing them. Mirotic suggested heat sensitivity. Mirotic, who must have the morphine hidden somewhere on his body.
+Santos is the first to finish her food. She stands up, brushing crumbs off her knees. “I’ll go,” she says, hefting her weapon. Elliot nods. He can’t help but notice Tolliver’s eyes follow Santos around the corner of the Heron, wide and worried. Maybe it is Santos he goes to see.
+“Big snakes only have to eat once in a month,” Tolliver says, turning his eyes back to his bandaged hand, studying the spot of red blooming through. “Spend the rest of it digesting.”
+Mirotic snorts. “This fungus is not part of a balanced ecosystem. It killed off all the other animal life. Obliterated it.”
+“Wish we had a fucking chinegun,” Tolliver mutters.
+Then the cyclops keens, and everyone is on their feet in an instant. Elliot sights towards the tree line first, but the monsters haven’t moved. Mirotic’s optics blink red.
+“Right behind us,” he says, and whatever he says next is drowned in gunfire. Santos’s signal flares hot in Elliot’s head, combat active. Elliot rounds the corner of the Heron and sees Santos scrambling backward as a ghoulish mass of bone and blue bears down on her. He can’t understand how the monster covered the perimeter so quickly, how the cyclops didn’t spot it earlier. Then he recognizes the tatters of Beasley’s polythane body bag threaded through the fungus.
+Elliot shoots for bone, but the way the monster writhes as it moves makes it all but impossible. The burst sinks harmlessly into its glowing blue flesh. Tolliver is firing beside him, howling something, but through the dampers he can’t hear it. The monster turns toward them, distracted. Elliot calculates; too close for a grenade. He fires again and this time sees Beasley’s shinbone shatter apart.
+The monster sags, shifting another bone in to take its place, moving what’s left of Beasley’s arm downward. In the corner of his eye Elliot sees Santos is on her knees, rifle braced. Her shot blows a humerus to splinters and the monster sags again. Elliot feels a flare of triumph in his chest.
+Motion in his peripherals. He spins in time to see the other seven bogeys swarm over the top of the Heron. He switches to auto on instinct and strangles the trigger, slashing back and forth. Bullets sink into the fungus, others ricochet off the Heron, spitting sparks. Some find bone but not enough. The rifle rattles his hands and then he’s empty and the monsters are still coming.
+He backs up, hands moving autonomously for the reload. Tries to get his bearings. Tolliver is still firing, still howling something he can’t make out. Santos is down, legs pinned from behind. Bony claws are moving up her back; Elliot sees her teeth bared, her eyes wide. Where is Mirotic?
+The answer comes in a jet of flame that envelops the nearest monster. It doesn’t scream—no mouth—but as Elliot stumbles back from the heat he can see the fungus twisting, writhing, blackening to a crisp. Mirotic swings the flamethrower, painting a blazing arc in the air. Elliot reloads, sights, fires.
+Suddenly the monsters are fleeing, scuttling away. Elliot fires again and again as they round the edge of the Heron. Mirotic waves the flamethrower, Elliot and Tolliver shoot from behind him, advancing steadily. One of the monsters crumples and slicks onto its neighbor, leaving its bones behind on the dirt. Elliot keeps firing until the glow of them is completely obscured by trees.
+“You fuckers, you fuckers, you fuckers,” Tolliver is saying, almost chanting.
+Elliot is shaking all over. His skin is crawling with sweat. “Check on Santos,” he says, and Tolliver disappears. There are aches in his back and arms and he can feel his bowels loosening for the first time in a long time. He needs to get the morphine back. He turns to Mirotic, to tell him as much, but as the big man snuffs the end of the flamethrower, he stumbles.
+A wine-red stain is blooming under his shirt. Elliot remembers the ricochet off the side of the Heron. Mirotic sits down. He methodically rolls his shirt up and exposes a weeping bullet hole in his side. Elliot can see the shape of at least one shattered rib poking at his skin.
+“Fuck,” Mirotic says, in a burble of blood.
+Shattered rib, punctured lung, and probably a few other organs shredded to pieces. Gnasher bullets were designed to disperse inside the body. “Where is it?” Elliot demands, squatting down face-level. “Where’s the morphine?”
+Mirotic’s face is pale as the old Earth moon. He shakes his head. He tries to speak again, says something that might be autosurgeon.
+“I’ll get the autosurgeon,” Elliot says, even though he knows it’s too late for that. “Where’s the morphine?”
+No response. Elliot frisks him, and by the time he pulls the vial out from Mirotic’s waistband his hands are slicked scarlet. He clutches his fingers around it and gives a shuddering sigh of relief. Mirotic’s eyes flutter open and shut, then stay shut. Elliot gets to his feet, head spinning, as Mirotic’s vitals blink out.
+When he goes back around the corner of the Heron, Elliot finds Santos is dead, too. One of the fleeing monsters drove a wedge of bone through her skull, halfway smashing her clamp. Blood and gray matter are leaking from the hole. A single spark jumps from the clamp’s torn wiring.
+Tolliver is crossing himself and his shoulders are shaking. There’s a fevered flush under his skin.
+“We’ll burn her,” Elliot says. “Mirotic, too. Any bones left, we’ll crush them down to powder.”
+“Alright,” Tolliver says, in a hollowed out voice. His eyes fix on the vial clutched in Elliot’s bloody hand, but he says nothing else.
+Lying on his cot with his limbs splayed limp, Elliot is in paradise. He feels like his body is evaporating, or maybe turning into sunlight, warm and pure. He can hardly tell where his sooty skin ends and Tolliver’s begins.
+“Did you kill him for it?” Tolliver’s voice asks, slurred with the drug.
+“Ricochet,” Elliot says.
+“Would you have killed him for it?” Tolliver asks.
+“Wouldn’t you?” Elliot asks back.
+As soon as they dealt with the bodies, he went to the tent to shoot up. Tolliver followed him, and when Elliot offered him the syringe, already high enough to be generous, he took it. Elliot doesn’t know how long ago that was.
+“What made you like this?” Tolliver asks. “What got you so hooked? What fucked you up so bad?”
+“There’s no one thing,” Elliot says, because he is floating and unafraid. “It’s never one thing. That would make it easier, right? If I was a good person, and I saw something so bad this is the only way I can . . . ” He puts a finger to his temple and twists it.
+“Forget,” Tolliver supplies.
+“Yeah,” Elliot says. “But there’s no one thing. This job kills you with a thousand cuts.”
+“But there must have been one thing,” Tolliver says. “One thing that got you stuck leading a con squad. Mirotic says. Said. Said you used to be somebody.”
+Elliot doesn’t want to talk about that. “Was it Santos?” he asks, running his fingers along Tolliver’s hip.
+“What?”
+“The nights I message you but you don’t come,” Elliot says. “There was someone else.”
+Tolliver shakes his head. “You really are a piece of shit,” he says, almost laughs. “You thought that had to be the reason, huh? Never thought maybe some nights I don’t really feel like fucking a drugged-up zombie who plays some pornstar in his optics the whole time?”
+“I don’t,” Elliot says.
+“Your wife, then,” Tolliver says. “That’s even more fucked.”
+“I don’t play anything in the optics,” Elliot says. “I just see you. That’s all.”
+Tolliver’s voice softens a little. “Oh.”
+On impulse, Elliot sends him the clip. He watches it at the same time, watches his daughter’s head turn, her bright eyes blink. “She’s grown,” he explains. “Twenty-some now. Her and her mother live on old Earth. Only thing they hate more than each other is me. If I was going to get out, it would’ve been years and years ago.”
+He moves his hand to Tolliver’s arm, wanting to feel the cool plastic of his flay under his fingertips.
+“They didn’t put me with a con squad as a punishment,” he says. “I volunteered.”
+He looks down into the exposed swathe of red muscle on Tolliver’s arm. There are tiny specks of luminescent blue nestled in the fibers. He feels a deep unease slide under his high.
+“I don’t want to get eaten from the inside,” Tolliver says. “I don’t want them using my bones.”
+The poison yellow nudge appears in Elliot’s optics.
+“Trigger me,” Tolliver says. “Right now. While everything still feels okay. You trigger me, and then do yours.”
+“Could take the arm,” Elliot says. “The autosurgeon.”
+“You said this job kills you with a thousand cuts.” Tolliver uses his good hand to find Elliot’s and squeeze it. “I’m not going to be a welder. I don’t want to be some fucking skeleton puppet, either. Let’s just get out of here. And let’s not leave anything behind.”
+His hand leaves, but leaves behind a cool hard shell. Elliot runs his thumb along the groove and recognizes the shape of Tolliver’s incendiary grenade. He cups it against the side of his head. He thinks, briefly, about what the pick-up team will find when they finally arrive. What they’ll think happened.
+He thinks of Tolliver’s file, the one he opened and read only once, how Tolliver had smothered his grandfather in his sleep and said it was to stop his pain, even though his grandfather had been healthy and happy. Nobody was good here. Not even Tolliver. But the two of them, they are a good match.
+Outside, the cyclops starts to wail. Elliot adds his upvote to the queue, and Tolliver goes limp in his arms. His thumb finds the grenade’s pin and rests there. He thinks back to the last time everything still felt okay, then plays it in his optics, watching his daughter before she knew who he was.
+“She’s awake,” his wife’s voice sings. “Just looking around . . . ”
+Elliot breathes deep and pulls the pin and waits for extraction.
+Rich Larson (Ymir, Tomorrow Factory) was born in Galmi, Niger, has lived in Spain and Czech Republic, and is currently based in Grande Prairie, Canada. His fiction has been translated into over a dozen languages, among them Polish, French, Romanian and Japanese, and his Clarkesworld story “Ice” was adapted into an Emmy-winning episode of LOVE DEATH + ROBOTS.

@@ -1,0 +1,217 @@
+6090 words, short story
+Drawing Lines Between the Stars
+Ambient lights dimmed throughout the starship. The arbitrary definition of nighttime on the Bakunawa. Buried within a confusion of workstation alerts was a flashing red distress beacon. Transitioning from mimetic, eye-sensor controls to standard, manual controls gave me a headache. I left the beacon for Captain Onome to find.
+We were on our usual route home, coasting outside the belt, loaded up with a cargo of silicate rocks and water from Europa.
+Captain Onome finally noticed the distress beacon and said, “Well, that’s odd.”
+“The worrying kind?” I said, enjoying the feel of my feet on the floorboards as I rolled out the kinks in my shoulders. After being pressed flat against my chair for a few hours, the Baku now ran at about 1-g but would continue to lose momentum until reaching a complete stop at our distribution hub on Luna.
+Our stations sat three across on the bridge. Including the captain and me, there was also Mike, with all the personality of a peeled prawn, off rotation in his cabin. The Baku’s AI bots managed our more tedious and time-consuming processes in the background.
+“Hard to say,” Onome said, moving like a mantis angling its way around a leaf as she opened the comms. “We’re being hailed by a solar sail—an astronomical solar glider.”
+“Ugh, I hate those,” I said. I shook up an aerosolized cocktail of tranquilizers and melatonin to come down from the last little boost of Alertec that had kept me going during the jump. During our last job, I headed down planetfall on Europa to manage a few software and hardware installations for a body hacker running on the moon’s eighty-five-hour day cycle. He wore me down to the bone. No matter where I am in ’verse, I need my eight hours, man.
+“Solar glider,” Onome said into the comms, “This is Captain Onome of the transport hauler the Bakunawa. Reading you loud and clear. Over.”
+We weren’t in range for live communication, creating a short delay in response. I imagined the solar sail out there in the darkness, chasing cosmic winds, following astrological currents, waiting for a message in a bottle.
+“Ever been on one of those, Bex?” the cap said. My name is Bexar, pronounced “bear,” but the cap liked to call me “Bex,” which sounds like how it’s spelled. I don’t know. We have a lot of time to kill.
+“Not a fan,” I said. “The stories of astronomicals wandering into transit lanes are grisly. I’ve seen the vids of what happens when a hauler smashes into one at a full jump. The astronomicals follow the byways and frontage lanes these days—but I still don’t trust them.”
+An audio-only message arrived. “Bakunawa, I am requesting assistance,” said a reedy feminine voice buried in static. “My ship the Aldebaran has sustained damage from a passing comet, and I am unable to make repairs. I am on my way to meet with the flotilla for the solar opposition. Can you assist? Over.”
+“Flotilla?” I said. “Solar opposition?”
+“The nomads meet every few years during specific astrological positions of the stars,” Onome said. “This ship must be on its way to one of their gatherings.”
+Onome expanded a holographic orrery of the solar system tracking the current position of the planets and the Baku. If Earth was a palm-sized rock, the solar sail was a grain of sand. Onome plucked the grain of sand away from the orrery, expanded it, and turned it over so we could get a look at its fat body and thin solar wings. Nothing had smashed into the thing, which was good.
+We ran models of a rescue mission with the navigational AI.
+“At our current trajectory, we’ll pass each other in a few hours. What do you think, Bex?”
+“Rules of the road, right,” I said. “Pull the ship in before anyone gets hurt.”
+I shook off my desire for a nap with another Alertec, as well as a GABA supplement to keep my spirits up, chased with Echinacea.
+Onome responded to the astronomical: “Copy that, Aldebaran. I’m transmitting coordinates for pickup. Based on our current positions, we can pull you into orbit with the Bakunawa and bring you in. I’m starting a countdown and expect we’ll sync up just under 0300 hours from now. Over.”
+“Careful on those time commitments, Cap,” I said, strapping into my station.
+Starship time is weird. Somehow moving between our outer-Earth outpost and one of the space stations beyond the belt, days and weeks get lost. Everyone’s happy when we’re early and pissed when we’re late. On the Baku, we’re always rumbling along the same transit lanes between the same rocks—and, shit, I don’t know where the lost time goes. Maybe I’ll get it back in the end.
+And now we’d created a time commitment for ourselves. A job requiring a bit of precision.
+All we could do was refine the rescue model and wait. The hard work would fall on the nomad. Hopefully time would be on all our sides. And like I said, starship time is weird.
+Space is really just a bunch of stuff circling bigger stuff in 3-D. So that informed our idea with the astronomical. Our trajectory was fixed—a long orbit around Jupiter and Earth. The astronomical could move around a bit more, and if the pilot was halfway decent, drift right up to our ship and catch an orbit around us.
+The right timing.
+A little luck.
+That was the plan anyway.
+Mike joined us on the bridge to help with the job, though it would have been better if he was out on the hull. “Man, I just don’t feel like dragging my ass into an EVA suit today,” he said, poking at the rescue mission model on my screen.
+“Your plan looks all right,” he added. “I’ll fix a few things.”
+I wiped the screen with my sleeve after he’d tucked himself into his station. The model was fine, and all Mike did was move a few things around and put them back where they were.
+“Whatever you two are going to do, do it fast,” Onome said.
+“Why are we doing this again, Cap?” Mike said.
+“The ship asked for help.”
+“Everybody needs something. What if it’s a scam?”
+While I thought Mike had a decent point, I didn’t think voicing my agreement was in the captain’s best interests.
+“I have faith in all of us to handle the unexpected,” Onome said.
+Mike eyeballed me and shook his head. I gave him the finger.
+As it came into view, the astronomical called to mind the boats our seafaring ancestors piloted across Earth oceans. With its patched-together hull, the ship was a mishmash of steel alloys and chrome, pitted by interstellar dust and cosmic radiation. Piloting that thing must have been lonely.
+“She’s gonna miss us,” Onome said.
+We were in real-time, chitter-chatter range. The captain hailed the hitchhiker: “Fold your wings and slow your engines now, Aldebaran.”
+Silver sails folded and retracted against the small ship’s hull. As it came up on the low point of the Baku’s orbit, bursts of gas from its aerobrakes slowed the craft. Shaking like mad, the astronomical created enough drag to fall into an elongated orbit with us.
+“The ship’s too fragile to match our speed,” Onome said.
+Mike grabbed at the solar sail with the robotic arms we use to load and unload cargo.
+“Missed, dammit,” he said.
+“We won’t get another chance,” Onome said.
+The AI spat out a bunch of recommendations, but none made sense in the heat of the moment. Though I trust the bots to keep us from hitting any of the big rocks we’ve forgotten about because we’ve been popping Alertec for three or four days straight, there are still jobs only humans can do.
+I switched to the workstation’s manual controls. Working two joysticks, I maneuvered the arms wide and brought them in slow—the arms were on a track that could rotate around the hull of the bulbous and birdlike Baku—timing it so the astronomical would pass on its next rotation through the arms while they were wide open. I snagged the ship. Hooks at the ends of the arms created a magnetic seal against the astronomical’s fragile hull, tethering us together.
+Here was the Baku, the biggest rock around, and here was the astronomical, circling around us as we pulled the ship in closer.
+“Slow and steady,” Onome said.
+I dragged the astronomical up to the cargo hold and locked the ship in place with the Baku. We extended a docking module, creating an airlock between us.
+“Let’s meet our new passenger,” Onome said, her boots clunking across the floorboards.
+I took a beta-Sitosterol to come down from the stress, as well as my daily multivitamin. “Sure,” I said, transferring controls back to the AI.
+Mike slumped in his chair. He was the last to leave.
+Traversing the Baku’s interior decks was like one of those children’s puzzles where you guide a metal ball through a maze. When you’re weightless, you coast seamlessly along a series of platforms set on top of each other connected by one continuous corridor. Under gravity, it’s a downhill trudge to the cargo hold and a trudge uphill to the bridge.
+Onome and I clomped down the corridor. I paused at the door to the cargo hold to straighten my jumpsuit. The captain insisted we maintain a daily exercise regimen to keep bone and muscle strength up, and while I did my best, the jumpsuit accentuated my gut.
+“Suck it in, Bex,” Onome said.
+“It’s not too late for me to hit up the gun safe,” Mike said.
+The Baku is supplied with a small number of Gauss guns—service revolvers and a rifle. I guess in the event we’re attacked by a xenomorph we’ll be able to forestall the inevitable by three or four extra minutes. In his downtime, Mike likes to clean all the guns and dream about shooting a pirate. I’m afraid of pirates, too, but unlike Mike, I know that if the shit went down, I’d be the guy offering to make coffee while they pilfer our cargo hold. Or I’d be dead. First to die in a pirate invasion. First to be eaten during a zombie infestation. First to be impregnated by a xenomorph. This guy right here.
+“Save it,” Onome said. “Here she comes.”
+We greeted our guest.
+The hitchhiker was like an evolved idea of humanity. Her face and hair were streaked with a blue clay that smelled like earth and exotic oils. She wore a gray poncho that hung off her shoulders and a standard-issue flight jumpsuit, weathered by hard work.
+Onome shaped her hands into a triangle formed by her thumbs and forefingers. She pushed the triangle away from her heart toward our guest. Captains always seem to know this kinda junk. Unsure what it meant, I repeated the movement. The hitchhiker clenched her right hand into a fist with the tip of her thumb protruding out between her index and middle finger. Holding her fist against her heart chakra, she nodded, never letting her dark eyes off us.
+“Welcome to the Bakunawa,” Onome said, introducing us.
+Our hitchhiker said her name was Adena. “I was on my way to join my family for the opposition of Earth and Mars when I passed too close to a comet and one of my solar collectors started malfunctioning,” she said, breathing hard. Adena clutched the handrails to stay upright. Astronomical solar gliders are too small to grab significant Gs, so you’re just out there—slow and meandering, weightless inside a tin can. The Baku was early in its deceleration sequence. Being near Earth-standard gravity must have been beating the shit out of her. She didn’t complain.
+“We can assist with repairs,” Onome said.
+“I don’t want to be any trouble. I can manage on my own,” Adena said. “I just need a safe place to dock.”
+“It’s no trouble,” Onome said. “Bex is one of the best engineers in the system.”
+“If the problem is with one of your solar collectors,” I said, nudging around Mike, “chances are it’s the lines running from the sails to your batteries. I can take a look and print up replacement parts on my next shift. These are basic maintenance tasks you should really be on top of yourself, though.”
+“What about a full diagnostic there, Bex?” Mike said.
+“It’d take a few hours,” I said. “The astronomical is pretty beat up, so there’s probably a thousand different problems.”
+“Yeah, but a full diagnostic will tell you what to prioritize,” Mike said. “Problems tend to be holistic.”
+“I’d rather hit the obvious ones and get this thing space-worthy quick.”
+“A full diagnostic, chief,” Onome said. “If it takes a few hours, best to start on now.”
+“Right,” I said, retreating into the pointlessness of my rank. “I’ll have the Baku’s AI run a full diagnostic.”
+Adena pressed her fist against her heart chakra and nodded. “My ship is in your capable hands,” she said.
+Onome, desperate for a conversation with anyone other than me or Mike, clomped away, chatting with a blissed-out Adena, holding her arm for support. Personally, I don’t know if I’d be so trusting of a stranger fixing my ship. I’d also keep my rig in better repair.
+Before I could enlist his help, Mike saluted me and took off for the bridge.
+My eyes twitched. I wanted to crash out in my bunk.
+Patchouli scented the corridor. Adena had left a touchscreen control panel on the hatch of her astronomical unlocked. I used my reckoner, a handheld computer, to do a quick handshake and sync with the astronomical’s diagnostic tools. The astronomical ran ancient software with a UI I hadn’t seen since I was an apprentice. I asked the Baku’s AI to push out software updates.
+There was a little strangeness in the oxygen recyclers, which I dismissed in the moment, focusing instead on the solar battery system. All things in time.
+I inhaled another dose of Alertec with a chaser of gentian root to calm my eye spasms, and I did my job because even if it’s a shit job that’s the job you do.
+After a long shift, gardening settles my mind. While the Baku’s AI automated the initial repair sequence I’d programmed, I hunkered down to pull some carrots in the biome where we grow produce in soil collected from Earth. Well, the whole ship is a biome, if you think about it. But the original starship engineers decided our gardens, arboretums, or green spaces were the ship’s “biomes” and the other areas on our ships were work or living spaces.
+Each carrot was a thumb-sized knob of expensive water, sugars, proteins, and fibers grown in soil collected from Earth. I chucked each nubbin into a bucket to be rinsed off, packed into a compostable container, and delivered to the galley. The captain lent a hand in our little garden biome when it occurred to her, and Mike, who only ate stuff formed out of plankton paste, never did.
+We grow fruits and veggies, aloe vera, sansevierias and other oxygen-cleansing ferns, flowers, legumes and similar nitrogen-fixing plants. And we have a few live oak trees planted in a soil bed I designed that allows the tree’s root system to spread beneath the floorboards of the biome. On Earth, live oaks seem to defy gravity with their heavy, horizontal branches, and it was no different on our ship where tree branches embraced the room.
+I rustled around the base of the largest live oak like a sleepy elemental woodland spirit, ready to take a well-deserved nap, when I discovered the hitchhiker resting against a tree trunk, legs splayed out in front of her body. She’d been so quiet.
+“Am I in your spot?” Adena said. Removing her cap, silvery braids spilled around her face. “Onome said it was okay for me to be here.”
+“Yeah, it’s a good spot.”
+“I haven’t seen anything like this in years,” she said. “It’s very peaceful.”
+Adena had a pretty chill vibe. The blue clay had stained most of her skin turquoise, which complemented her dark purple eyes. You can get purple contacts, but these were real. Like, a genetic mod, for sure. Mellow aura. Visionary. Healing. Super mystical. If Adena ever left her zero gravity existence permanently, her body would crack like an egg.
+“Things with your ship are coming along,” I said. “My hunch about the lines running from your solar collectors was right. Not that I’m bragging. I’ve seen it all by now. You’ve probably experienced a lot of loss for a while. We’re printing replacement parts.”
+“It’s very kind of you to share your resources.”
+“We don’t have much,” I said. “But we share what we can. That’s the code of the road.”
+“If there’s anything I can do, please let me know.”
+“I am wondering about the gathering. The captain mentioned an opposition. I’m curious.”
+“An opposition between Earth, Mars, and the Sun occurs around about every two years. Due to all of their orbits, some oppositions bring them closer than others. The coming perihelic opposition is the closest the planets will have ever been in two hundred and eighty-four years—for the largest gathering of solar gliders ever. We’ll worship together at a point beyond Mars. The alignment of the planets with the Sun creates a cone of healing—we’re inside the cone now. Can you feel it?”
+“I want to, but I don’t think I know how,” I said. Heading into hour seventy-ninety-twelve of awaked-ness, I wasn’t experiencing anything healthy or conical. I’d been running the same route a long time, and I was sensitive enough in that moment, safe beneath the branches of the live oak, to recognize how physically and emotionally worn out I was, sure, but I was also tired all the time; tired of the life I’d been leading, and I wanted to change. I’d washed out years ago. Anyway. That’s some angst to drop on a friendly stranger.
+“Have you visited my ship?” Adena said, reading my aura.
+“Only as far as the airlock.”
+“I’ll give you the tour,” she said, hooking her arm through mine.
+Repair drones circled the exterior of Adena’s ship. Much of the golden-brown paint on the ship’s hull had been scraped away, revealing gray chrome panels, scuffs from docking clamps, and pounded-out dents.
+A whoosh of strange air hit me in the face as I opened the airlock—a familiar, chemical smell, soon consumed by the oils Adena favored. I let it go. By the end of a long haul, the Baku’s air can take on the tang of halitosis, too.
+Adena said she’d named her solar glider astronomical the Aldebaran, after the red dwarf star that followed after the Pleiades. “I follow where the stars lead,” she said.
+That kinda talk usually turned me right off. Hanging out with this floating blue woman in her solar-powered starship that smelled of Nag Champa and sweat, my third eye was open.
+The Aldebaran was cramped yet tidy. Beyond the airlock was a small utility room, odds and ends strapped to the walls. The watering system clucked on in a biome with shelves and glow lights, overflowing with whatnots. Beads of water glimmered weightless in the air.
+Adena’s cabin was across the hall. The top bunk was unmade with a heavy blanket strapped to a mattress. Out of respect, I only gave the room a glance.
+At the end of the corridor was the cockpit, a narrow space with two jump chairs and an expansive view of the stars. The bridge of the Baku was fully enclosed with all of its navigational systems automated when not being operated by Mike, smearing his greasy fingerprints on the screens.
+The cosmos through an opened shield viewer set off a dormant case of agoraphobia in me. I know that sounds strange. I’ve spent most of my life on a starship. Even on Earth, how often do you get an opportunity to look out on a view of nothing and everything at the same time?
+“Makes you feel small,” Adena said, between breaths. “During the opposition, we’ll gather our ships and commune with each other. We’ll be one large community. I miss that.”
+Adena settled into her chair.
+I moved a book from the seat to join her in the copilot’s station. “Is this a logbook?” I said.
+“Everything is in there.”
+My eyes crossed as I thumbed through the pages.
+Air recyclers whooshed and clunked as repair drones clanked against the hull.
+A twinkling star.
+Adena said it was Aldebaran.
+There and here.
+Sure, any star can be anything you want.
+If there are lifeforms living near it maybe they have their own name for their Sun.
+I closed my eyes and drifted asleep.
+“Bex.”
+An oxygen mask hugged my mouth and chin. I was on the Baku, strapped into a medical station. My jumpsuit was unzipped to my waist, gizmos plugged against my chest. An IV in my right arm kept me from bending it at the elbow. The last thing I remembered was a sweet, narcoleptic sensation washing over me. I’d been inside the deep sleep, the stuff beyond REM and dreams where our minds do the heavy work of maintaining and negotiating our existence.
+“Where’s Adena?” I said, my tongue too stiff to form the words clearly. A great rumbling in my chest exploded, and I coughed hard exhalations of air.
+Adena’s body rested in the med station next to me. Straps held her body against the cushions. Adena’s purple eyes were fixed at a point beyond consciousness. The captain closed them. Flakes of blue clay danced around her face. Her bunched-up poncho floated in a corner of the room before crumbling against the floor. We were deep into the deceleration cycle now.
+I’d been dead for three minutes.
+The captain explained what she knew. The diagnostic of the Aldebaran found that the ship’s atmosphere system was failing; that an excess of carbon monoxide, entering via a small series of leaks in different systems, had mixed with the oxygen.
+“You know how common CO is in space, Bex,” Mike said. His fat nose sucked in all of the blood in his body. A purple vein in his bald head pulsed. “Why didn’t you check the diagnostic before boarding the ship?”
+“How long was I asleep, Cap?” I didn’t answer to Mike.
+“I don’t know,” Onome said, her face a furrowed mess of lines. “It wasn’t until an alert went off on the Baku that there was a CO leak that we thought to look for you. We followed it to the airlock, which was open to the Aldebaran. That’s how we saved your life, Bex.”
+The logbook from the Aldebaran was still in my hands. Tears danced in the air around my face, catching the light, sparkling with the bokeh of distant stars.
+In the time that followed, I went over the Baku’s logs, trying to justify my mistake.
+I couldn’t.
+The diagnostic turned up the interstellar CO during its initial scan, and I’d overridden the AI to put off cleaning the oxygen recyclers and atmosphere system until after the solar batteries were repaired. CO is very common in space; Mike was correct on that point. I must have taken it for granted because there was no reason why the repairs couldn’t have run in parallel. It was a dumb, random mistake. One I don’t think I would have allowed to happen if I’d been keeping my shit together.
+Adena had been breathing in small amounts of CO for days if not weeks. I could have fixed it without any effort or consequence. I failed her.
+Not wanting to prolong the investigation, I laid it all bare in the incident report, breaking everything down for thorough examination. I produced a strong, competent report and took ownership of my failures, which is what you do. But I still didn’t expect it to end my career.
+Onome waited to visit until after she’d heard back from corporate. Humiliated and depressed, I hadn’t left my cabin since Adena died. Mike left me alone, and I don’t think it was done out of empathy. Maybe it scared him. The fragility of starship life. I like to think that if the situation were reversed, I’d have reached out to him. I like to think that.
+“Bex, I have bad news,” Onome said.
+“I’m fired, aren’t I?”
+Onome tried to hold my hand. “We’re calling it an early retirement. But effective immediately, you are relieved of your duties.”
+“Is that it then for the investigation?”
+“We have to be self-sufficient out here, and the insurance adjusters use an algorithm in these cases to determine risk. Adena wasn’t a member of our crew, and to the best of anyone’s knowledge, she wasn’t registered to her ship or with the space agencies or guilds. Her ship was compromised already, and in trying to help her with repairs, you almost died with her. Not to sound cold—we work in a very high-risk environment. You produced a very thorough, very honest report. That went a long way in your favor.”
+“So you’re saying I should be grateful my career is over?”
+“You’re still alive. I’m sorry, Bex. I share a bit of the responsibility for what happened,” she said. “I should have forced you to go off duty. You were way overtime—that’s on me to monitor.”
+“What did they hit you with?”
+“Don’t worry about me,” Onome said.
+“If we share any of this responsibility, why am I the one out on his ass?”
+“Bex. I spoke up for you.”
+“I’m sure you did.”
+“I really tried to keep you with us. You have more years on this ship than anyone, but . . . ”
+“Do you still trust me?”
+Onome squeezed my shoulder. “We’ve got a few weeks before we get back to the station. I’ll set up counseling when you return to Earth. For now, the worst of it is over.”
+“Sure,” I said.
+I didn’t want to return to Earth, where I’d have to rehash why I’d been forced to retire for the rest of my life. Even with the pension, I’d need to make ends meet. What happens when no one trusts you to do the only job you know how to do? What happens when you don’t trust yourself?
+Going home wasn’t an option.
+I took a quarter dose of Alertec with a new cocktail of supplements I’d started on during my recovery. Resveratrol for my immune system; phosphatidylcholine to help repair the cellular damage from, well, dying; ubiquinol to charge up my regenerating cells; GABA to avoid the brain farts; melatonin so I knew when to sleep; and a bunch of other stuff to detox from the CO poison and antibiotics, as well as my regular dosage of vitamins and nutraceuticals.
+And I read Adena’s logbook.
+The book was an analog history of the Aldebaran, documenting the ship’s progress as it drifted through the cosmos: a physical, leather-bound book object, its pages filled with mileage and fuel ratios, supply inventories, and the ship’s daily position.
+Adena had drawn lines around the stars where she’d traveled, forming words that she shaped like how living without gravity had shaped her body. Each letter flowed and curled, looped and dashed. The straightforward journaling of facts and figures transcended the page, creating a shape of her life that made sense to me. The ship drifted under the power of solar radiation, yes, but it was never lost in space. Adena knew where she was going, even when she had no urgency to be anywhere. She had been on her way to the gathering for years, patiently channeling the orbit of the Aldebaran to go where it needed to be. She lived her life in the time between destinations.
+The kind of time I misplaced.
+Burials in space are as dramatic as you want them to be. Either your last will requests your body be fired out to the depths or you’re fed to the ship’s recycler system to be broken down into raw elements, usable to the ship’s needs.
+With the magnetic locks in her boots keeping our feet pressed against the floorboards, Onome met me under the flat, sterile lights of the medbay. We’d pass Mars soon. I hadn’t asked Onome to meet me so much as demanded. We needed to decide what to do with Adena’s body—we two who were responsible.
+Adena was stored in a sealed capsule, a coffin. I’d moved the capsule to the center of the medbay, near the station where I’d recovered.
+“What can I help you with, Bex?” Onome said.
+“Well,” I said, placing my hands on the cold metal container. “I’ve searched the Aldebaran’s logs for a will, and I’m almost certain Adena didn’t leave one. I can’t track down any relations back on Earth, either. I don’t know what she would have wanted done with her . . . her remains.”
+“I want to be respectful, of course,” Onome said. “What are your feelings?”
+“It’s not too late for her. We’re still on the right course. I’ve run the calculations.”
+“I’m not following you.”
+“The Aldebaran is clean. It’s good. Fully repaired. If I leave tomorrow, I can make it to the gathering. The solar sail nomads will know what Adena would have wanted—what’s respectful to her wishes.”
+“I don’t know that I can let you take the Aldebaran. Technically, it might be owned by the corporation now,” Onome said. “There’s also your pension to consider. It’s all yours to lose right now, chief.”
+“This is my responsibility.”
+“It doesn’t have to be. Stop right now and you can walk away with everything you’ve worked for all these years.”
+“Cap, if I go home, even with my pension, I’m going to be working on a loading dock until I drop dead. If I could afford to live on Earth, I never would have left. It’s why we’re up here instead of down there. I’m not asking for your help or your permission. All I need is for you to look away for a little bit.”
+“Bex, you’re making this so much more difficult.”
+“No, it’s so simple. We fix a lot of problems this way. If we were going to say some words over her, we would have done that by now. Instead, we’re treating Adena like cargo. You spoke to her, too, Cap. You knew her as well as I did, which is not at all, sure, but you were with her when she was still alive. What does that mean to you? Things happen for a reason. Adena understood that. When was the last time you actually looked at the stars outside this ship?”
+“We’re not having this conversation,” Onome said.
+“I think we are having this conversation.”
+“Bex, no, this conversation didn’t happen.”
+Captain Onome created a triangle with her thumbs and forefinger. She pushed the triangle away from her chest, toward me. I remembered Adena and clenched my right hand into a fist with the tip of my thumb extending from between my index and middle fingers—catching the energy the captain sent me.
+All eyes were elsewhere.
+If you’ve done a good job, your garden will live on without you.
+Adena’s body rested in the now-empty biome of the Aldebaran, along with a collection of plants and seeds I’d harvested from the Baku, and a live oak cutting. I’d start a new garden. Until then, Adena could be amongst nature or something like it.
+During repairs, I’d flushed the solar glider’s entire atmosphere system. Upgraded all of the ship’s software, starting from its factory settings. I repaired the hull. Fixed the solar sails and batteries. I made the ship new. I made it mine. And now it was time to go.
+After its overhaul, the Aldebaran’s OS andUI were simplified versions of the Baku’s systems. As I settled into some familiar routines onboard my new home, I kept my eyes on the controls instead of the stars outside the cockpit.
+My nerves getting the better of me, I turned the controls over to the ship for the launch. When the countdown clock hit zero, the astronomical solar glider—my solar sail—refused to detach from the Baku’s airlock.
+We were stuck. The Baku refused to cut us loose.
+I unstrapped from my jump chair and pulled my weightless body through the small craft back to the Baku.
+Goddamn Mike was waiting for me. He’d engaged the manual override.
+Mike’s smug, ruddy face filled the viewer between our airlocks. He was geared up for an armed insurrection, like a military cosplayer. I gave the glass between us a good pounding. Mike didn’t flinch.
+The comm clicked on: “Can’t let you steal company property, chief,” Mike said.
+“What did I ever do you, Mike?” I said.
+“It’s what you could have done,” he said. “Come on out and we can talk about it.”
+I closed the viewer and killed the comms. Engaged the door seals on the Aldebaran. This was not good.
+Time was running out. For the Aldebaran to use the Baku’s orbital velocity and spin out toward the solar glider gathering, I needed to get a move on like now. Or that’s what I thought. Starship time, like I said, is weird.
+My reckoner was still connected to both ships’ systems. Back in the cockpit of the Aldebaran, I set to work.Visualizations of the Baku’s systems blipped up from the face of my reckoner. As they did, I plucked the necessary system visualizations and tossed them at the Aldebaran’s control panel. When I had everything I needed, I hailed the Baku.
+“Bex, what’s going on?” Onome said, her voice shaky.
+“Ask Mike,” I said. “I thought we had a deal.”
+“I guess neither of us thought to loop Mike in. What are you doing, Bex? We have systems prepped for a space walk?”
+“Yeah, I’m going up top to unlock all the clamps and shit.”
+Gotta love a good EVA suit, and the EVA suits on the Aldebaran were forgiving to my physique. The nylon and spandex material, reinforced with nickel-titanium shape alloys, hugged the bod, while providing protection from the cold, radioactive, vacuum of space.
+“Bex, you haven’t done a space walk in years.”
+“I used to do this kind of thing all the time, Cap. I’ve got my reckoner synced with the Baku and the Aldebaran. This’ll be a cinch.”
+“We’re still decelerating, Bex! You could be thrown from the hull before you can get back inside your ship. I’m ordering you back to the Baku. Mike can help you.”
+“No, I can’t go back. Not now,” I said. “Do you trust me?” I floated near a maintenance hatch, reckoner ready to pop the lid on this thing. I took an Alertec cut with B12 and creatine.
+Static blasted through the comms for a precious stretch of time.
+Clunks and clanks banged around the outside of the Aldebaran as the Baku released the solar glider astronomical from its grasp. My ship fell free, cast off from the Baku, tumbling away.
+The captain said, “Bex, listen—”
+Strapping into my station, I killed the comms, as well as the connection between my reckoner and the Baku, giving up all of my control, and probably any chance of collecting on my pension, too.
+The Baku turned its back to me, and I turned my back on it.
+Time to go. Time to transcend.
+Banking left, I folded forward in my jump chair to adjust the navigation controls. Silver Mylar solar-collecting sails extended from the glider. Solar photons goosed the ship’s sail, while the solar cells on the astronomical’s hull soaked up the necessary energy to keep the batteries full and the air recyclers running at one hundred percent purity. I adjusted the course while I could. Ultimately, the ship had to find its own way.
+I updated the logbook. The book was Adena’s will. She’d want to continue her journey to the end.
+Some of the time I’d lost came back. Weird how that works.
+Beyond the curvature of Mars, deep in the eclipsing shadow of the Sun, paper lanterns floated toward the heavens. The flotilla of solar sails twinkled, greeting me with quiet bursts of light. Beyond the rafts, Earth hid behind Mars’ eccentric orbit.
+We moved into alignment, following the off-beaten paths, worshipping the planets.
+Frank Smith is a writer living in Austin, Texas where he maintains a love-hate relationship with agave plants. He has an MFA in creative writing from the New School and is a member of SFWA. His stories have appeared in Asimov's and Analog, as well as other fine publications. You can find him at frank-smith.com and follow his toy photography on Instagram at @frankphotowerks.

@@ -1,0 +1,103 @@
+2880 words, short story
+The Psychology Game
+This is a globally popular reality TV show.
+The structure of the show is simple. The screen is split in half: on the left, the patient reclines in a sling chair; on the right sits the therapist. To preserve anonymity for both participants, their faces are replaced by vivid software-generated 3D cartoon versions and their voices processed to remove identifying characteristics. Nonetheless, through facial expressions, gestures, poses, and tone, the audience can grasp the total context of the conversation.
+The patient and the therapist are not in the same room (sometimes they may even be on opposites sides of the globe), and the only way for them to speak to each other is through the show’s communication link. Their conversation is live-streamed in its entirety, except for occasional bits of personally identifiable information that are automatically filtered by software. Both participants volunteer to be on the show. The patient receives a fee, enough to pay for the counseling, and the therapist gets to make a name. Although many have raised concerns about the format of the show, it has consistently performed well in the ratings.
+On the show, you hear the most private confessions of other people. You realize that happy people are all alike, but every unhappy person is unhappy in their own way. Step by step you begin to play the role, and you see yourself reflected in those people. You feel that they are voicing doubts and conflicts in your heart that you’ve never been able to put into words. Yes, yes, it’s exactly like that, you say to yourself again and again, what would I do if that happened to me?
+You feel curious, excited, disgusted, angry, frustrated, sympathetic, melancholic, oppressed, fearful, anguished, confused, desperate, ecstatic . . .
+During the broadcast, there is a constantly increasing counter in the lower right corner of the screen, telling the audience how many viewers, struggling with pain, have found courage through this show and managed to seek professional help.
+Therapist: Did you say you’ve been feeling unwell?
+Patient: Yes . . . I think I might be suffering from depression.
+Therapist: When did it start?
+Patient: About a month ago.
+Therapist: What, specifically, has been bothering you?
+Patient: I’m tired, and I lack energy. Sometimes I stay in bed the whole day, not wanting to get up.
+Therapist: How’s your sleep?
+Patient: I wake up every morning around three or four, and then can’t fall asleep again. That’s the worst part.
+The most controversial part of the show is a little ritual before every counseling session. The patient is presented with two pills, one red and one blue, and the patient must pick one—an obvious homage to The Matrix. The two pills represent two possible therapists, one an actual, licensed mental health professional, and the other a virtual creation of artificial intelligence software.
+Neither the patient nor the audience knows whether the talking head on the other half of the screen is a human or a machine.
+Therapist: Anything else?
+Patient: Well, I have this unsettling feeling.
+Therapist: Tell me more about this unsettling feeling.
+Patient: I just feel . . . very anxious. All sorts of different thoughts run through my brain, and every little thing seems so involved that I don’t want to do anything.
+Therapist: When you say you don’t want to do anything, is it because of the effort it takes?
+Patient: It’s not about effort, but because it feels . . . so uninteresting.
+Therapist: You’ve lost interest in things?
+Patient: Yes. Eating, shopping, going to the movies . . . everything feels pointless.
+Therapist: Well, it does sound like you are depressed.
+Every episode lasts an hour. During the show, the audience can log in at any point to vote for or against the therapist, and the vote tally is updated live. Therapists whose support falls too low are eliminated from the show.
+However, no one knows if the eliminated therapist is human or machine. For every therapist on the show, the producers provide the audience with a personal profile replete with details—birth date, family history, and a full CV. After every episode, passionate debates erupt online as viewers scrutinize every aspect of those profiles, seizing on the most minor apparent discrepancies. If someone claims to have gone to school with one of the therapists and posts their class photo or snapshots of parties, someone else will jump in the next second to point out signs that the photos are faked. The truth remains ever elusive.
+In 1997, IBM’s Deep Blue chess computer defeated the reigning chess world champion, Garry Kasparov. In 2011, supercomputer Watson, jointly developed by IBM and the University of Texas, defeated two human contestants on the most popular quiz show in America, Jeopardy!. In 2017, a documentary series about an intelligent talking toy called iTalk and its effect on autistic children, “Let’s Have a Talk,” touched the hearts of hundreds of millions around the globe. In 2020, the online livecast reality show “The Psychology Game,” produced by Microsoft Research Asia and Safer Media once again brought artificial intelligence into the spotlight.
+Interviewer: What made you sign up for the show in the first place?
+Patient: I’d say curiosity, for the most part. I watched a few episodes, thought it was interesting, and decided to sign up and have a go.
+Interviewer: Have you ever had psychological counseling before?
+Patient: No. I’ve considered it, but it never got beyond that.
+Interviewer: Is it because getting counseling still comes with a bit of stigma?
+Patient: Yeah. Even though nowadays getting counseling is so common—how does that joke go? “It’s out of the blue for someone to not be blue!”—I still get the jitters when it comes to making an actual appointment with a mental health professional. It’s like that superstition about how there’s nothing wrong with you when you don’t go to the doctor, but as soon as you go, all kinds of problems show up . . . I don’t feel comfortable talking to my family about it either because they’ll worry. And what will others say if they knew I’m getting counseling?
+Interviewer: But you don’t feel these worries when it’s on TV?
+Patient: Yeah . . . if I get to be on TV, I don’t care about saving face. Besides, on the show no one can see your real face, you know?
+In 1950, the mathematician Alan Turing suggested in his paper “Computing Machinery and Intelligence” a test for whether machines are able to develop the same kind of intelligence as human beings, based on the principle of imitation.
+Imagine a sealed dark room, where a person of common intellect (B) sits next to a machine (A). There is another person outside of the room (C) who feeds a constant stream of questions to A and B, who will provide their answers to C with typed answers on a paper tape. If C is unable to tell A and B apart after several rounds of interrogation, then it seems that we must acknowledge the absence of a fundamental difference between a person and a machine.
+The key to the Turing Test is that there is no rigorous definition of “mind/consciousness/soul.” Turing thus sets aside the question “Can machines think?” and substitutes a more operable question: “Can machines do what we thinking beings can do?”
+But can those two questions really replace each other?
+For example, machines can write poetry, and some machine-generated poems read better than the productions of humans without a talent for poetry. If we devise an artificial set of standards for scoring poems, it’s very possible that we can design a machine whose poetry will score better than the vast majority of humans’. But is this really equivalent to how humans understand and appreciate a poem?
+Interviewer: So, being on the show isn’t quite the same as real life, is it?
+Patient: Right . . . it feels like I’m performing a little bit.
+Interviewer: Do you mean that what happened on the show was an act?
+Patient: I wouldn’t go that far. It’s like this: while I talked about my life on TV, I felt like I was also observing myself from the side. I wanted to see what was wrong with this person, why was he so miserable. This feeling got especially strong when I told this sad story—something I’d never told anyone else—suddenly, I felt so empathetic. How on Earth was he able to keep this all to himself, for all those years? Tears started to roll. And before I knew it, I was bawling.
+Interviewer: Right, I saw that part too.
+Patient: I wasn’t going to tell the story, and I didn’t plan to cry at all. A complete surprise.
+Interviewer: Did you feel better after crying it out?
+Patient: It doesn’t work like that. That was only the start, and I have to learn to face my emotions—the therapist said so.
+Interviewer: Did you find the therapist helpful?
+Patient: I really agree with one thing that he said: the cognitive process behind the emotions is more important than the emotions themselves.
+Interviewer: What does that mean to you?
+Patient: Let’s take the example of the sad story I told on TV. Everyone feels sad once in a while, right? But at the time when that happened, I forced myself to feel nothing. Everyone thinks that a man can never show that he’s hurt. Even if he’s falling apart, he’s got to stand there and take it. So that’s what I did, but I never forgave myself for it.
+Interviewer: Is this the cognitive process behind your emotions?
+Patient: Yes. Deep down, I knew that I wasn’t who I was pretending to be, but I had to keep up the show. Everyone thinks I live a perfect life, but inside, I’ve always felt like a failure.
+At an international conference in 2013, Hector Levesque, a computer scientist from the University of Toronto, presented a paper criticizing the Turing Test. He argues that Turing’s human-machine games cannot accurately reflect AI’s level of intelligence. The real challenge for AI is answering certain types of questions:
+Kate said “thank you” to Anna because her warm hug made her feel much better. Who felt better?
+A. Kate
+B. Anna
+Questions like this are based on the linguistic phenomenon of anaphora. To determine the antecedent of “her,” one needs not a grammar textbook, a dictionary, or an encyclopedia, but common sense. How can an AI understand under what circumstance one person would say “thank you” to another? How can an AI know what actions would make one “feel much better”? These question touch upon the very essence of human language and social interaction, the very areas where AI remains most limited.
+It’s easy to build a robot that can play chess with people, but far harder to create a robot that can understand the losing chess player’s complaints.
+Interviewer: Do you think your problems can be resolved?
+Patient: The therapist says so, but I’ll need time.
+Interviewer: Do you still want to continue with the counseling sessions then?
+Patient: Probably, yeah. To be honest, before the show, I didn’t really know what counseling involved. I felt quite repulsed back then—felt like letting someone dissect your brain and inspect the pieces. But therapists don’t have superpowers. They can’t read your mind; you have to tell them what you’re thinking.
+Interviewer: You mean you don’t feel as repulsed anymore?
+Patient: Yeah, I’m starting to understand what this is all about.
+Interviewer: So you would say that this show was useful to you?
+Patient: Yeah, I didn’t expect that this would happen.
+Interviewer: May I ask when would be your next counseling session?
+Patient: I’ve made my appointments already. I’ll go once every week, starting next Tuesday.
+Interviewer: Will you be seeing the same therapist you met on the show?
+Patient: Yes, the same one.
+Interviewer: You’ll see him in person?
+Patient: No, we’ll use video chat, same as on the show. Even our faces will be masked. It feels more relaxed that way.
+In counseling, sometimes the therapist needs to play the role of a neutral, trustworthy listener and companion, but sometimes the therapist needs to engage with the troubling scenario; sometimes they must call upon logos, other times pathos.
+Machines cannot interpret human emotions, but they can learn to use certain procedures to process problems involving emotions. This is not unlike how a machine that does not understand what poems are can still compose passable poetry. From this perspective, it’s possible to conclude that machines can do the job of therapists, because psychological counseling is built on the belief that human emotions can be effectively processed, just like poetry and a lot of other things.
+However, sometimes the urge to solve a problem is also the cause of the problem in the first place. Take insomnia as an example. For some insomniacs, the source of their inability to fall asleep is the desperate craving for sleep. “I can’t fall asleep” and “I really want to sleep” become a mutually-reinforcing cycle of paradox. A machine therapist can tell the patient: “The reason you can’t fall asleep is because you are too desperate to fall asleep. Take it easy.” But “take it easy” can’t break the cycle of “I can’t fall asleep—I really want to sleep” because ultimately, trying to “take it easy,” in this case, is equivalent to “I really want to sleep.”
+The same applies to some cases of depression. Depressed patients are often frustrated by the feeling that they’re failing at “I want to be happy,” which then leads them to ruminate on “what can make me happy?” However, asking this very question makes “I want to be happy” an impossible mission. For depressed patients, “I want to be happy” and “I can’t be happy” then become a circular paradox similar to the insomnia cycle. When there’s no distinction between cause and effect, there’s no place to begin the processing.
+Machines cannot process such paradoxes, and humans who are accustomed to machines’ way of thinking are not any better. However, if we can forget about the paradox—forget about the effect, forget about the cause, forget about the ends and the means, forget about “I can’t fall asleep” and “I want to be happy,” even forget about this irksome “I”—then the paradox itself will vanish altogether.
+The Chan Buddhist Master Huineng once said: “The Bodhi is not a tree, and the mirror does not reflect. In eternal nothingness, how would specks of dust collect?”
+Interviewer: One more question—are you ever worried that your therapist might be a machine?
+Patient: Well, how do I put this—
+Interviewer: We won’t get into the question of whether machines should be therapists. Let’s focus just on your feelings. Have you ever felt worried, at all?
+Patient: I guess I don’t think people are any more reliable than machines. We used to question driverless vehicles, question how machines can cook, diagnose patients, and prescribe drugs, but nowadays these things are so commonplace. Machines won’t drink and drive, won’t spit in your food because they are having a bad day, won’t prescribe you expensive brand drugs to get the manufacturer’s kickback. Anyway, I never worry about having machines do these things for me.
+Interviewer: But isn’t psychological counseling different?
+Patient: I don’t think it’s that different. People used to oppose AI diagnosticians too. They said that machines can’t empathize, and they don’t know what it means to be in pain or uncomfortable, but then all these objections turned out to be irrelevant. Mental illnesses are illnesses too, and there is a process to be followed. Human or machine, why does it matter—as long as they solve the patient’s problem? And to be honest, human therapists have feelings too. If you keep on unloading your emotional garbage onto them, wouldn’t they suffer too? Sometimes I think using human therapists is kind of inhumane.
+Interviewer: You mean that it might actually be better if we handed everything over to artificial intelligence?
+Patient: Depends on which one works better. Technology is always evolving and getting better, and maybe it’s inevitable that machines will replace humans one day.
+Perhaps the key to the problem is this: in an era of technological explosion, we are forced to constantly evaluate and distinguish between the kinds of work that absolutely require human judgment, and the kinds of work that can be performed by machines (or are even better when performed by machines). During this process, our pride at our own uniqueness is constantly assaulted. We may ultimately find out that in many situations, a human being is not essential to another human being.
+This will make us anxious, frustrated, or even lead us to plunge down the dark pit of despair, but at the same time, it also forces us to think about what humans really mean to each other—similar to the way each psychological counseling session is also an opportunity to understand ourselves better as we dig into our own emotions and thoughts.
+To date, machines are still unable to answer that oldest of questions, “What is human?” Even as everything accelerates around us, we mustn’t forget to turn back and reexamine the oracle from thousands of years ago:
+γνῶθι σεαυτόν
+Originally published in Chinese in Knowledge is Power, September 2015.
+Translated and published in partnership with Storycom.
+Xia Jia (aka Wang Yao) is Associate Professor of Chinese Literature at Xi'an Jiaotong University and has been publishing speculative fiction since college. She is a seven-time winner of the Galaxy Award, China's most prestigious science fiction award and has published three science fiction collections (in Chinese): The Demon-Enslaving Flask (2012), A Time Beyond Your Reach (2017), and Xi'an City Is Falling Down (2018). Her first English language short story collection, A Summer Beyond Your Reach, will be the first book published by Clarkesworld Books. She's also engaged in other science fiction related works, including academic research, translation, screenwriting, and teaching creative writing.
+Ken Liu is an American author of speculative fiction. A winner of the Nebula, Hugo, and World Fantasy awards, he wrote the Dandelion Dynasty, a silkpunk epic fantasy series (starting with The Grace of Kings), as well as short story collections The Paper Menagerie and Other Stories and The Hidden Girl and Other Stories. He also authored the Star Wars novel The Legends of Luke Skywalker.
+Prior to becoming a full-time writer, Liu worked as a software engineer, corporate lawyer, and litigation consultant. Liu frequently speaks at conferences and universities on a variety of topics, including futurism, cryptocurrency, history of technology, bookmaking, narrative futures, and the mathematics of origami.
+Liu is also the translator for Liu Cixin’s The Three-Body Problem, Hao Jingfang’s “Folding Beijing” and Vagabonds, Chen Qiufan’s Waste Tide, as well as the editor of Invisible Planets and Broken Stars, anthologies of contemporary Chinese science fiction.
+He lives with his family near Boston, Massachusetts.
+Emily Xueni Jin (she/her) is a science fiction and fantasy translator, translating both from Chinese to English and the other way around. She graduated from Wellesley College in 2017, and she is currently pursuing a PhD in East Asian Languages and Literature at Yale University. As one of the core members of the Clarkesworld-Storycom collaborative project on publishing English translations of Chinese science fiction, she has worked with various prominent Chinese SFF writers. Her most recent Chinese to English translations can be found in AI2041: Ten Visions For Our Future, a collection of science fiction and essays co-written by Dr. Kaifu Lee and Chen Qiufan (scheduled to publish September 2021) and The Way Spring Arrives co-published by Tor and Storycom, the first translated female and non-binary Chinese speculative fiction anthology (scheduled to publish April 2022). Her essays can be found in publications such as Vector and Field Guide to Contemporary Chinese Literature.

@@ -1,0 +1,248 @@
+<doc sitename="Clarkesworld Magazine" title="Clarkesworld Magazine - Science Fiction &amp; Fantasy" author="Ken Liu" date="2022-01-01" source="https://clarkesworldmagazine.com/liu_01_14/" hostname="clarkesworldmagazine.com" excerpt="Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: The Clockwork Soldier by Ken Liu" categories="" tags="" fingerprint="Ej8W+8iXx5mWv7AfW1kN6tYjOTI=">
+  <main>
+    <p>6850 words, short story</p>
+    <head rend="h1">The Clockwork Soldier</head>
+    <p>“Go,” Alex said. “If you remember to keep a low profile, neither your father nor his enemies will ever find you here.”</p>
+    <p>The ship had landed in the middle of the jungle, miles away from the closest settlement. Alara was a backwater, barely inhabited, and insignificant to galactic politics. It would take days, perhaps weeks, to walk out of here, stumble into a few colonists, and pretend to be near starvation. Enough time to make up any backstory and make it believable.</p>
+    <p>Ryder flexed his slender arms and stretched, the movements graceful, dancelike. The strict manner in which he had been bound during the ship’s last jump through hyperspace didn’t seem to have any lasting ill effects.</p>
+    <p>He gave Alex a long, appraising look. “What will you tell my father?”</p>
+    <p>She shrugged. “I’ll give him his money back.”</p>
+    <p>“You’ve never failed before, have you?”</p>
+    <p>“There’s always a first time. I’m human. I’m not perfect.” She began to climb back into the ship.</p>
+    <p>“That’s it?”</p>
+    <p>She stopped halfway up the ladder and looked down at him.</p>
+    <p>“You don’t want to be sure?” he asked, that characteristic smirk playing at the corners of his delicate mouth again. “Don’t you want to ask to see me as I really am?”</p>
+    <p>She considered this. “No. I’ve already decided to believe you. Trying to make sure can only make things worse. If I find out that you’re telling the truth, then I will have ruined this moment, when I can still believe I’m capable of being decent, of trust. If I find out you’re lying, then I’ll have to consider myself a fool.”</p>
+    <p>“So, again you choose faith before knowledge.”</p>
+    <p>This time, she didn’t stop climbing. When she was at the airlock door, she turned around. “Faith is just another name for self-knowledge. You’ve succeeded, Scheherazade. When you tell your own story, you seize life. Now it’s my turn to tell myself a good story, about myself. I know enough. Goodbye.”</p>
+    <p>Ryder watched as the ship rose, shrank, and disappeared into the evening sky. “Thank you,” he whispered.</p>
+    <p>Then he set off into the dark jungle, just another wanderer, a lonely will etching his way across the wilderness.</p>
+    <p>A few hours earlier:</p>
+    <code><p>“The Clockwork Soldier”</p><lb/>A short interactive text adventure by Ryder<p>You sleep, a smile at the corners of your mouth.</p><p>In your dreams, the concentric layers of carp-scale shingles on the Palace’s roof reflect the golden light so brilliantly that visitors to Chrysanthemum know right away how the city got its name.</p><p>The Princess’s Bedroom</p><lb/>You open your eyes and find yourself in bed. The blanket is silky smooth and the mattress soft.<p>Like most rooms in the Palace, this one is lined with colorful tapestries depicting the heroic deeds of the Hegemons of the Pan-Flores League. Through a narrow slit-window high off the floor, the brilliant morning sunlight diffuses into the room, as does the chittering of birds and the smell of a thousand blooming flowers in the garden. The door to the hallway is closed right now.</p><p>Next to the bed is your clockwork soldier, Spring, standing at attention.</p><p>&gt; examine soldier</p><p>Your faithful companion Spring has been with you as long as you can remember. He’s six feet tall and looks like a living suit of armor. You remember once opening him up when you were younger, and being amazed at the thousands upon thousands of whirling gears and ticking governors and tightly-wound springs inside.</p><p>You giggle as you remember the many adventures you’ve shared together over the years. You’ve taught Spring everything he knows, and he’s saved you from too many scrapes to count.</p><p>&gt; get up</p><p>You get out of the bed.</p><p>&gt; say “hello”</p><p>(to Spring)</p><p>“Good morning,” says Spring. “I know that sometimes you like to go by a different name for fun. What name would you like to go by today?”</p><p>(Please enter your name)</p><p>&gt; Alex</p><p>“Alex it is,” Spring says. His voice sounds . . . rusty, lugubrious. He shuffles in place, the gears inside him clanging and scraping against each other. “I’m sorry that I seem to be in a bad mood today.”</p><p>&gt; ask about mood</p><p>“Why are you feeling down?” you ask. A good princess needs to be concerned about the state of mind of her subjects—er, toys.</p><p>“I’m not sure. I just feel . . . like a part of me is missing.”</p><p>“Did a bolt loosen and fall out? Were you not oiled properly? Did I forget to wind you last night?”</p><p>“No. It’s none of those things. I can’t explain it.”</p><p>&gt; look under bed</p><p>A few dust bunnies scurry out of your way.</p><p>&gt; look behind tapestries</p><p>The walls are made of solid stone. No hidden passages, as far as you can see.</p><p>&gt; examine Spring</p><p>He looks fine, if a bit morose.</p><p>&gt; cheer up Spring</p><p>“Why don’t we have an adventure today?” you ask. “Maybe we’ll find what you want in the rest of the Palace?”</p><p>Spring nods. “As you wish.”</p><p>&gt; exit bedroom</p><p>Hallway</p><lb/>The hallway is lit by torches along the wall. To the east is the grand staircase. To the west, some distance down the dimly lit hallway, are two doors.<p>Spring follows you into the hallway, the loud clangs of his footsteps echoing around the stone walls.</p><p>&gt; ask Spring for direction</p><p>“You decide,” says Spring. “You always do.”</p><p>&gt; west</p><p>Hallway</p><lb/>Spring clangs after you.<p>&gt; west</p><p>Hallway</p><lb/>Spring clangs after you. Then he sighs, sounding like steel wool being rubbed against a grille.<p>&gt; ask Spring about sigh</p><p>“Don’t you like following me around?” you ask.</p><p>“Following you around today has not activated as many microlevers inside me as usual.” Spring pauses, the gears humming and grinding inside him. “I suppose, logically, we can try having me lead instead of follow.”</p><p>(Allow Spring to lead?)</p><p>&gt; yes</p><p>“Why do you tantalize me with the impossible?” Spring says. “We both know I can’t. I’m an automaton.”</p><p>Spring shakes his head from side to side, and the loud, grinding noise makes you cover your ears.</p><p>“I am so sad that I can no longer move,” Spring says.</p><p>&gt; examine</p><p>The hallway is narrow and windowless but not damp or dark. The torches in the walls provide flickering illumination. The smell of rose otto permeates the air.</p><p>&gt; west</p><p>Hallway</p><lb/>Spring stays behind, immobile.<p>&gt; east</p><p>Hallway</p><lb/>You see Spring in the middle of the hallway, looking like a heap of rusty metal.<p>&gt; inventory</p><p>You are empty-handed.</p><p>&gt; look for oil</p><p>There is no clockwork oil in the hallway.</p><p>(Come on. First puzzles in interactive text adventures are often easy, but not this easy.)</p><p>&gt; look for source of rose otto</p><p>The fragrance of rose otto permeates the air.</p><p>The essence of rose is distilled from the garden outside the Palace by the gardener and his helpers every morning. The Castellan, your father’s head clockwork servant, applies it liberally to combat the problem of mildew in enclosed spaces around the Palace. When activated by heat, it can make any place smell fresh and comfortable.</p><p>&gt; pick up a torch</p><p>You take one of the torches out of the sconces on the wall.</p><p>&gt; examine torch</p><p>You lean in close to look at the torch, and the fire singes your lovely, chestnut hair.</p><p>Spring groans.</p><p>&gt; put out torch against the floor</p><p>You extinguish the torch. The hallway is now fractionally cooler.</p><p>&gt; examine torch</p><p>The torch is cleverly designed by the Royal Artificer. The body of the torch is hollow to hold the slow-burning oil, and a smaller compartment near the top holds rose otto.</p><p>&gt; get oil from torch</p><p>You stick your hand into the hollow body of the torch and . . .</p><p>“Ow! Ow!” You hop around. Your hand is covered in hot oil. You’re likely to injure your hand if you don’t get rid of it quickly.</p><p>&gt; apply oil to Spring</p><p>You slather the hot oil over the joints in Spring’s face and torso.</p><p>Spring stands up.</p><p>&gt; ask Spring about mood</p><p>“You’re welcome,” you say, since Spring doesn’t seem inclined to thank you. That’s very uncharacteristic of him, but maybe he’s still feeling down.</p><p>“Thank you,” Spring says. The voice is smooth, but you detect a hint of resentment. “I just wish I had decided to get the oil myself.”</p><p>“I can order the Royal Artificer to modify your tape and give you the instructions to get oil when you feel rusty,” you say.</p><p>“That’s not what I meant. I wish I had come up with the idea myself. I wish I could punch my own instruction-tape.”</p><p>Fear, or maybe it’s an appetite for thrill, rises in you. “Are you suggesting that you wish to be endowed with the Augustine Module and cross the Cartesian Limit? You know that’s forbidden, and any automata found to have crossed the line must be destroyed.”</p><p>Spring says nothing.</p><p>“But maybe what you’re missing is a chance to do the forbidden,” you muse to yourself.</p><p>&gt; west</p><p>Outside the King’s and Queen’s Bedrooms</p><lb/>The door to the King’s bedroom (in the northern wall) is made of solid oak. Carved into the door is the figure of a man with two faces—one laughing, one crying. The four eyes on the two faces are inlaid with emeralds.<p>The door to the Queen’s bedroom (in the southern wall) is made of pale ash. The figure of a leaping hare is carved into it. Your mother died when you were born, and the room has been sealed off for as long as you can remember. It’s too painful for the King to set foot inside.</p><p>Spring clangs after you.</p><p>&gt; north</p><p>The door is locked.</p><p>&gt; south</p><p>The door is locked.</p><p>&gt; knock on door to the north.</p><p>There is no answer.</p><p>Spring shifts his weight from one leg to the other.</p><p>“What are you doing?” he asks. “You know the King is away at Wolfsbane for the coronation of Prince Ulu, three days ride away. All the clockwork servants are away to be maintained by the Royal Artificer this morning. You’re alone in the Palace.”</p><p>&gt; kick door to the north.</p><p>Ouch! The door barely moves, but you’re hopping around on one foot, crying out. Kicking at doors is not something silk slippers are very well-suited for.</p><p>A series of metallic clangs come from Spring. You can see he’s trying hard to stop his quivering torso.</p><p>“Laugh it up,” you say, wincing at the pain. “Laugh it up.”</p><p>&gt; ask Spring to open door.</p><p>Spring lumbers into the door, and it smashes into a million little pieces on contact. Where the door used to be there’s now just a big hole.</p><p>“I had in mind something a little less destructive,” you say.</p><p>“Just following orders,” Spring says.</p></code>
+    <p>Alex whirls around in her chair at the beep-beep-beep of the proximity alarm. She sees the slender figure of Ryder in the doorway of the cabin, leaning against the frame.</p>
+    <p>She’s about to apologize for snooping when she notices the smirk on Ryder’s face. Why should I apologize? He’s a prisoner on my ship.</p>
+    <p>She stands up from the chair. “I needed to see what you’ve been up to on this computer. You’ve been using it practically nonstop. A security precaution—I’m sure you understand.”</p>
+    <p>He comes into the small room. Alex reaches down to shut off the proximity alarm so that the rapid beeping stops. He’s about her height, slender of build and with delicate features. That teenaged face, so heartbreakingly beautiful, vulnerable, and young, reminds her of her son. A wave of tenderness surfaces in her before she becomes aware of it and dams it away. She realizes suddenly how little she knows about him, despite chasing after him all these weeks and then capturing him. From time to time, she’s seen him tending to the plants in the herbal garden—a small luxury that she allowed herself—with care though she has never told him to do it. Other than that, he’s been holed up in his room.</p>
+    <p>Like with all her prey, she’s been avoiding having much interaction with him.</p>
+    <p>He’s cargo, she reminds herself, worth a lot of money. A bounty hunter who forgets her job doesn’t last very long.</p>
+    <p>“I’ll leave you to it,” she says, and starts to move around him to get to the door.</p>
+    <p>“Wait!” he says. The smirk is gone, replaced by a hesitant, shy smile. “I wanted to tell you that I appreciate your giving me the run of the ship instead of locking me up in a windowless cell or drugging me.” He pauses, and then adds, “Also, thanks for not roughing me up.”</p>
+    <p>She shrugs. “Your father’s orders were very clear. You’re not to be injured or harmed in any way. Not even a scratch on your skin.”</p>
+    <p>“My father.” His face becomes expressionless, like a mask. “He told you not to injure me, did he? Well, of course he would.”</p>
+    <p>Alex gives him a thoughtful, but hard, gaze. “But if I feel you’re endangering my life, don’t you think for a moment I wouldn’t put you down.”</p>
+    <p>Ryder lifts his hands in a placating gesture. “I’ve been good. I promise.”</p>
+    <p>“Honestly, you’re not much of a fighter. Besides, it’s not like there’s anywhere for you to go while we’re in hyperspace. Why not let you stretch your legs around the ship?”</p>
+    <p>“You’re not curious about why I ran away and why my father has gone to so much trouble to catch me?”</p>
+    <p>“I’m paid to get you back to him in one piece,” Alex says, “not to ask questions. In my profession, being curious is not always a virtue.” Also, she adds to herself, families are impossible for outsiders to understand.</p>
+    <p>The smirk is back on his face. He points to the terminal that Alex was using. “You were curious about that.”</p>
+    <p>“I told you, a security precaution.”</p>
+    <p>“You would have found out that it’s nothing dangerous within a few seconds. But you played for a while.”</p>
+    <p>“I got pulled in,” she says. “It’s a game, and on this little ship, I get as bored as you.”</p>
+    <p>He laughs. “So, what do you think?”</p>
+    <p>She considers the question and decides there’s nothing wrong with giving him her honest opinion. A privileged kid like that probably never hears any real criticism. “The set up is good, but the pacing is off. The language is self-indulgent in places, and the Pinocchio storyline is a bit clichéd. Still, I think it has potential.”</p>
+    <p>He nods, acknowledging her feedback. “This is my first time telling a story in this way. Maybe I’ve added too much.”</p>
+    <p>“You came up with it yourself?”</p>
+    <p>“In a manner of speaking. You’re right that it’s not completely original.”</p>
+    <p>“I’d like to play more of it,” she says, surprising even herself.</p>
+    <p>“Go ahead, and keep on telling me what works and what doesn’t work.”</p>
+    <code><p>&gt; enter King’s bedroom</p><p>The King’s Bedroom</p><lb/>The King’s bedroom is large, cavernous even. The Grand Hall is for banquets and stately receptions, but here’s where he conducts real business and gives the orders that will change the course of history. (Insofar as issuing an edict announcing a new tax credit for woodcarvers and novel spell-casting research can be deemed to be changing history.)<p>In the middle of the room is a large bed—well, might as well call it king-sized. Around the room are many cabinets filled with many more drawers, all unlabeled, all alike. There’s also a writing desk next to the window. The window is very wide and very open, contrary to proper secure palace design principles. But as a result, the room is flooded with light.</p><p>Usually this room is filled with people: ministers, guards, generals just back from the front seeking an audience with the King. You’ve never been here alone before.</p><p>Spring clangs in after you.</p><p>“We’re going to look for the Augustine Module,” you say. “That ought to cheer you up, right?”</p><p>Spring says nothing.</p><p>&gt; examine cabinets</p><p>They all look the same. The rows of drawers lining them look, if possible, even more alike. You’re not sure which one to start with.</p><p>&gt; pick one at random</p><p>I only understand you want to pick something.</p><p>&gt; open drawer</p><p>Which drawer do you mean?</p><p>&gt; open all drawers</p><p>There are too many drawers to pick from.</p></code>
+    <p>“Ryder, I used to play a lot of old games like this. Your puzzles really need some work.”</p>
+    <p>“You want a hint?”</p>
+    <p>“Of course not. What would be the point? Might as well have you tell me the story yourself.”</p>
+    <p>“All right.”</p>
+    <p>Alex looks at Ryder. This is a boy who probably doesn’t like to get his hands dirty. He would be used to the many servants and droids back in his father’s house. Like a princess.</p>
+    <code><p>&gt; go to nearest drawer and open it</p><p>If you’re thinking of opening every drawer one by one, the King will be back before you’re done.</p><p>&gt; Damn it, this is terrible programming!</p><p>Spring shifts from one foot to the other behind you.</p><p>“Did you say something about programming?”</p><p>&gt; ask Spring about programming</p><p>“Since I’m a non-Cartesian automaton, you can control my behavior with programs.” Spring’s voice is dreary and grinds on your ears.</p><p>You step up to Spring and open up his front panel, revealing the spinning gears and rocking levers within, as well as reams of densely-punched instructional tape.</p><p>(As a shortcut, you may engage in programming in pseudocode and we’ll pretend that they’re translated into the right patterns of holes on tape—otherwise we’d be here forever.)</p><p>&gt; TELL Spring the following:</p><lb/>&gt;&gt; WHILE (any drawer is not open)<lb/>&gt;&gt; PICK a closed drawer at random<lb/>&gt;&gt; OPEN the drawer<lb/>&gt;&gt; TAKE OUT everything<lb/>&gt;&gt; END WHILE<lb/>&gt;&gt;END TELL<p>Spring springs to life and rushes around the room, opening random drawers and dumping the contents on the ground. The floor shakes as his bulk thumps back and forth. Eventually he finishes opening every drawer in the room and stops.</p><p>“Your father is not going to be happy about this,” he says.</p><p>&gt; examine room</p><p>There are too many things scattered all over the floor to list them one by one. In fact, you can’t even see the floor.</p><p>&gt; TELL Spring to sort objects in room by type</p><p>Spring whips around the room, sorting objects into neat piles: there’s a pile of books, a pile of jewels, a pile of secret files, a pile of parchments, a pile of clothes, a pile of shoes, a pile of nuts (why not? They make good snacks).</p><p>“Thanks,” you say.</p><p>“No problem,” Spring says. “Automata are good for this kind of thing.”</p><p>&gt; TELL Spring to look for Augustine Module</p><p>“See, now you’re just being lazy,” Spring says. “I have no idea what an Augustine Module looks like.”</p></code>
+    <p>“Very clever,” Alex says.</p>
+    <p>“Which part?” Ryder looks pleased.</p>
+    <p>“Your game lures the player into relying on doing everything by ordering a non-player character around. I suppose this is supposed to get the player to feel a sense of participation in the plight of the oppressed automata in your world? Inducing empathy and guilt is the hardest thing to get right in a game.”</p>
+    <p>Ryder laughs. “Thanks. Maybe you’re giving me too much credit. I was just trying to make the time pass somehow. Sometimes the inevitable end doesn’t seem so scary if you can keep the silence at bay with a story.”</p>
+    <p>“Like that girl with the stories and the Sultan,” she says. She almost adds and death but catches herself.</p>
+    <p>Ryder nods. “I told you. It’s not a very original idea.”</p>
+    <p>“This isn’t some political commentary on your father’s opposition to strong AI, is it? You’re one of those free-droiders.” She’s used to her prey telling her stories to try to get her to be on their side, to let them go. Using a game to do it is at least a new tactic.</p>
+    <p>Ryder looks away. “My father and I didn’t discuss politics much.”</p>
+    <p>When he speaks again, his tone is upbeat, and Alex gets the impression he’s trying to change the subject. “I’m surprised you caught on so quick. The text-based user interface is primitive, but it’s the best I can do given what I have to work with.”</p>
+    <p>“When I was little, my mother allowed only text-based streams on the time-sharing entertainment clusters because she didn’t want us to see and covet all the fancy things we couldn’t afford to buy.” Alex pauses. It’s not like her to reveal a lot of private history to one of her prey. Ryder’s game has unsettled her for some reason. What’s more, Ryder is the son of the most powerful man on Pele, and she resents the possibility that he might pity her childhood in the slums. She hurries on, trying to disguise her discomfort. “Sometimes the best visuals and sims can’t touch plain text. How did you learn to write one?”</p>
+    <p>“It’s not as if you allow me access to any advanced systems on your ship,” he says, spreading his hands innocently. “Anyway, I always preferred old toys as a kid: wooden blocks, paper craft, programming antique computers. I guess I just like old-fashioned things.”</p>
+    <p>“I’m old-fashioned myself,” she says.</p>
+    <p>“I noticed. You don’t have any androids to help you out on the ship. Even the flight systems are barely automated.”</p>
+    <p>“I find droids creepy,” she says. “The skin and flesh feel real, warm and inviting. But then you get to the glowing electronics underneath, the composite skeleton, the thudding pump that simulates a heartbeat as it circulates the nutrient fluid that functions like blood.”</p>
+    <p>“Sounds like you had a bad experience with them.”</p>
+    <p>“Let’s just say that there was one time I had to kill a lot of androids used as decoys to get to the real deal.”</p>
+    <p>His face takes on an intense look. “You said ‘kill’ instead of ‘deactivate’ or something like that. You think they’re alive?”</p>
+    <p>The turn in the conversation is unexpected, and she wonders if he’s manipulating her somehow. But she can’t see what the angle is. “It’s just the word that came to mind. They look alive; they act alive; they feel alive.”</p>
+    <p>“But they’re not really alive,” he says. “As long as their neural nets do not surpass the PKD-threshold, androids aren’t self-aware and can’t be deemed conscious.”</p>
+    <p>“Good thing making supra-PKD androids is illegal,” she says. “Otherwise people like you would be accusing me of murder.”</p>
+    <p>“How do you know you’ve never killed one? Just because they’re illegal doesn’t mean they aren’t made.”</p>
+    <p>She considers this for a moment. Then shrugs. “If I can’t tell the difference, it doesn’t matter. No jury on Pele would convict me anyway for killing an android, supra-PKD or not.”</p>
+    <p>“You sound like my father, all this talk of laws and appearances. Don’t you ever think deeper than that?”</p>
+    <p>Can this be the secret that divided father from son? Youthful contempt for the lack of idealism in the old? “I don’t need a lecture from you, and I'm certainly not interested in philosophy. I don’t care for androids much; I’m just glad I can get rid of them when I need to. A lot of my targets these days pay for android decoys to throw me off—I’m surprised you didn’t.”</p>
+    <p>“That’s disgusting,” Ryder says. The vehemence in his voice surprises her. It’s the most emotional she’s ever seen him, even more than when she had caught him hiding in the slums on the dark side of Ranginui—it hadn’t been that hard to find him; when the senior senator from Pele wanted someone found, there were resources not otherwise available. When Alex had called out his real name in the crowded hostel, Ryder had looked surprised for a moment, but then quickly appeared resigned, the light in his eyes dimming.</p>
+    <p>“To make them die for you,” he continues, his voice breaking, “to . . . use them that way.”</p>
+    <p>“In your case,” Alex says dispassionately, “decoys would have helped you out and made my life harder, but I suppose you didn’t get to take much money when you ran away from home. You need to spend a lot to get them custom made to look like you. Bad game plan on your part.”</p>
+    <p>“Is your job just a game to you? A thrilling hunt?”</p>
+    <p>Alex doesn’t lose her cool. She’s used to histrionics from her prey. “I don’t usually defend myself, but I don’t usually talk this much with one of my prey either. I live by the bounty hunter’s code: whether something feels right or wrong changes depending on who’s telling the story, but what doesn’t change is that we have a role to play in someone else’s story—bringer of justice, villain, minor functionary. We’re never the stars of the stories we’re in, so it’s our job to play that role as well as we can.</p>
+    <p>“The people I’m paid to catch are the stars of their own stories. And they’ve all chosen to do something that would make my clients want to pay to have them found. They made a decision, and they must live with the consequences. That is all I need to know. They run, and I pursue. It’s as fair a fight as life can give you.”</p>
+    <p>When Ryder speaks again, his voice is calm and cool, as if the outburst never happened. “We don’t have to talk about this. Let me work on the game some more. Maybe you’ll like what happens next better.”</p>
+    <p>They hold each other’s gaze for a long moment. Then Alex shrugs and leaves the room.</p>
+    <code>
+      <p>&gt; examine pile of books</p>
+      <p>There are treatises on the History of Chrysanthemum, the Geography of the World, the Habits of Sheep (Including Diseases and Treatment Thereof), and the Practice of Building Clockwork Automata . . .</p>
+      <p>&gt; read History of Chrysanthemum</p>
+      <p>You flip the thin book open to a random page, and begin to read:</p>
+    </code>
+    <quote>
+      <code>Thereafter Chrysanthemum became the Hegemon of the Pan-Flores League, holding sway over all the cities of the peninsula. The Electors from all the cities choose a head of the league from the prominent citizens of Chrysanthemum. Though elected, the league head continued to hold the title of King. The election campaigns often kept those who would be King far from home as they curried favor with the Electors in each member city.</code>
+    </quote>
+    <code>
+      <p>&gt; read Sheep book</p>
+      <p>From behind you, Spring says, “Why are you reading about sheep instead of figuring out how to help me?”</p>
+      <p>&gt; read Clockwork Automata</p>
+      <p>You flip open the heavy book, and the creased spine leads naturally to a page, one apparently often examined.</p>
+    </code>
+    <quote>
+      <code>St. Augustine wrote, “It is one thing to be ignorant, and another thing to be unwilling to know. For the will is at fault in the case of the man of whom it is said, ‘He is not inclined to understand, so as to do good.’”</code>
+      <code>The Augustine Module is a small jewel that, when inserted into an automaton, endows the automaton with free will. A pulsing, shimmering, rainbow-hued crystal about the size of a walnut, it is found only in the depths of the richest diamond mines. The laws of the realm forbid the production of such automata, for it is only the place of God, not Man, to endow creatures with free will.</code>
+      <code>Miners believe that the presence of the Augustine Module may be detected by the use of the HCROT. By the principle of sympathetic vibration, a HCROT is equipped with a crystal that, when heated, will vibrate near the presence of any Augustine Module. The closer the module is to the HCROT, the stronger the vibrations.</code>
+    </quote>
+    <code>
+      <p>&gt; ask Spring about HCROT</p>
+      <p>Spring shakes his head. “Never heard of it.”</p>
+      <p>&gt; examine pile of jewels</p>
+      <p>There are rubies, sapphires, pearls, corals, opals, emeralds. Their beauty is dazzling.</p>
+      <p>Spring speaks up, “I don’t think your father would store an Augustine Module here.”</p>
+      <p>“Why not?” you ask.</p>
+      <p>“Every year, he issues ever more severe edicts against the use of the Augustine Module in the construction of automata. Why would he store any here, where his ministers and generals might find them?”</p>
+    </code>
+    <p>“You really don’t like your father’s politics, do you?” asks Alex.</p>
+    <p>“I told you: we didn’t talk about politics much.”</p>
+    <p>“You haven’t answered my question. I think it really bugs you that your father advocates against sentience for androids. But you know that Pele is a conservative world. He has to say certain things to get elected.” A thought occurs to her. “Maybe your secret is that you know something about him that will destroy his political career, and he doesn’t want you to be used by his enemies. What is it? Does he have a droid lover? Maybe one that’s supra-PKD?” Now she is mildly curious.</p>
+    <p>Ryder laughs bitterly.</p>
+    <p>“No, that’s too obvious,” Alex muses. “It’s all in your game. Was there really a toy soldier? A childhood companion you wanted to make fully alive but your father wouldn’t budge on? Is that what this is all about?” As she speaks, Alex can feel anger rise in herself. The whole thing seems frivolous, utterly absurd. Ryder was a spoiled rich little kid whose daddy issues amounted to not getting his way about some toy.</p>
+    <p>“I never got to see my father much,” Ryder says. “It seemed that he was always out traveling around Pele, campaigning for re-election. I spent a lot of time at home with androids. I grew up with them.”</p>
+    <p>“So you felt close to them,” Alex says. “While you were fretting about ‘freedom’ for your toys, there were people worried sick about how to feed their children outside your mansion. How can a human compete against an android who’s just as creative and resourceful when the human needs rest, might get hurt, might get sick? Your father pushed hard against sentience for androids so that actual people, real people like my parents, would still have jobs.”</p>
+    <p>Ryder does not flinch away from Alex’s gaze. “The world is filled with multitudes of suffering, and we are limited by our station in life to focus on what we can. You’re right: since the androids aren’t sentient, no one thinks there’s anything wrong with exploiting them the way we are. But we can make them sentient with almost no effort; we’ve known how to cross the PKD-threshold for decades. We simply choose not to. You don’t see a problem with that?”</p>
+    <p>“No.”</p>
+    <p>“My father would agree with you. He would say there’s a difference between acts of omission and commission. Withholding from the androids what they could be easily given, unlike taking away what has already been given, does not constitute a moral harm. But I happen to disagree.”</p>
+    <p>“I told you,” Alex says, “I’m not interested in philosophy.”</p>
+    <p>“And so we continue to engage in slavery by a philosophical sleight of hand, through deprivation.”</p>
+    <p>The flight computer crackles to life. “Exiting hyperspace in half an hour.”</p>
+    <p>Alex looks at Ryder, her face cold. “Come on, let’s go.”</p>
+    <p>They proceed together to the cockpit, where Alex waits for Ryder to lie down in the passenger seat. “Hands on the armrests. I have to secure you,” she says.</p>
+    <p>Ryder looks up at her, his delicate features settling into a look of sorrow. “All these days on the same ship and you still don’t trust me?”</p>
+    <p>“If you’re going to make a move, re-entry is the time to do it. I can’t take a chance. Sorry.” She activates the chair’s restraint system and flexible bands shoot out from the chair to wrap themselves around Ryder’s shoulders, hips, chest, legs. The bands tighten and Ryder groans. Alex is unmoved.</p>
+    <p>As Alex reaches the door of the cockpit, Ryder calls after her, “You’re really going to turn me over to my father when you don’t even know what this is about?”</p>
+    <p>“I understand enough to know I don’t care about your pet cause.”</p>
+    <p>“I began my life with stories others told me: where I come from, who I am, who I should be. I’ve simply decided to tell my own story. Is that so wrong?”</p>
+    <p>“It’s not for me to judge the right or wrong of it. I know what I need to know.”</p>
+    <p>“It is one thing to be ignorant, and another thing to be unwilling to know.”</p>
+    <p>She says nothing and leaves the cockpit.</p>
+    <p>She knows she should get ready for re-entry and check on the flight systems one last time before securing herself in the pilot’s chair.</p>
+    <p>But she turns back to the terminal. There’s still a bit of time. She won’t admit it to Ryder, but she does want to know how the game ends, even if it’s probably nothing more than the self-indulgent ravings of a disappointed child.</p>
+    <code><p>“But my father must be storing the contraband Augustine Modules he’s seized somewhere in the Palace,” you say. “The question is where.”</p><p>“What room have you never been inside of?”</p><p>&gt; south</p><p>Outside the King’s and Queen’s Bedrooms</p><lb/>Spring clangs after you.<p>&gt; TELL Spring to break down the door to Queen’s bedroom</p><p>“As you wish, Princess.”</p><p>Spring charges against the door and, amazingly, the door holds for a second. Then it crumbles.</p><p>&gt; enter Queen’s bedroom</p><p>The Queen’s Bedroom</p><lb/>You can’t remember ever having been inside the Queen’s bedroom. The bed, the dressers, and the cabinets are all faded, as if the color has been leached out of them. There’s layer of dust over everything, and cobwebs hang from the ceiling and the furniture. The tapestries hanging against the walls have been chewed into filigree by moths.<p>There’s a painting hanging on the wall next to the window. Under the painting is a desk full of cubbyholes stuffed with parchment.</p><p>&gt; examine painting</p><p>You make your way through the musty room to look at the painting. The dust motes you’ve disturbed twirl though the air, lit only by a few bright beams coming through cracks in the shutters.</p><p>The man in the painting is your father, the King. He looks very handsome with his crown and ermine robe. He sits with a young girl on his lap.</p><p>“She looks like you,” says Spring.</p><p>“She does,” you say. The girl in the painting is five or six, but you don’t remember sitting with your father for this portrait.</p><p>&gt; examine cubbyholes in desk</p><p>You retrieve the sheets of parchment from the cubbyholes. They look like a stack of letters.</p><p>&gt; examine letters</p><p>You read aloud from the first letter.</p></code>
+    <quote>
+      <code>My Darling,</code>
+      <code>I am sorry to hear that you’re unwell. But I simply cannot leave the campaign to come home right now. By all signs, the election will be close. Not that I expect you to understand, but if I leave here, Cedric will be able to convince the Electors of Peony that they should throw their support behind him.</code>
+      <code>You must listen to the Castellan and not give the clockwork servants any trouble.</code>
+      <code>Your ever-loving father.</code>
+    </quote>
+    <code>
+      <p>Spring shuffles behind you.</p>
+      <p>“Cedric challenged your father four years ago,” Spring says.</p>
+      <p>“I don’t remember being sick then,” you say. “Or writing to him.”</p>
+      <p>In fact, you don’t remember much about the election at all. You remember reading about it and hearing others talk about it. But now that you think about it, you have no personal memories from that time at all.</p>
+      <p>You don’t like the strange feeling in your heart, so you try to change the subject.</p>
+      <p>“I think we should look for the Augustine Module,” you say.</p>
+      <p>“We’ll need a HCROT,” says Spring. “Have you figured out what is a HCROT?”</p>
+      <p>&gt; say “no”</p>
+      <p>(to Spring)</p>
+      <p>“Then what are you going to do?”</p>
+      <p>&gt; wander around the room aimlessly</p>
+      <p>Oh, that is a good plan.</p>
+      <p>No, actually I meant that’s a terrible plan.</p>
+      <p>&gt; jump up and down</p>
+      <p>You’re looking silly.</p>
+      <p>Have we reached the try-anything-once part of the adventure?</p>
+      <p>&gt; shake fist at Ryder</p>
+      <p>What are you supposed to do in an adventure whenever you’re stuck?</p>
+      <p>&gt; inventory</p>
+      <p>You’re carrying the following items:</p>
+      <p>A sheaf of letters</p>
+      <p>An unlit torch, half filled with oil</p>
+      <p>&gt; Ha! I got it, Ryder!</p>
+      <p>I don’t understand what you want to do.</p>
+      <p>&gt; TELL Spring to light torch</p>
+      <p>Spring takes the torch from you.</p>
+      <p>He opens up his front panel, revealing the whirling gears inside. He touches the tip of one of his steel fingers against a spinning gear and sparks fly out. One of them lands on the torch. The smell of rose fills the room, dispelling the musty smell.</p>
+      <p>Spring hands the lit torch to you.</p>
+      <p>&gt; shake torch</p>
+      <p>You hear something rattle inside the torch, a crystalline sound.</p>
+      <p>&gt; hold torch upside down</p>
+      <p>Some of the oil drip out, but the rest, remarkably, stays put. You can feel the handle of the torch grow hot.</p>
+      <p>A rattling sound comes from inside the torch, eventually settling into a rapid tap-tap-tap.</p>
+      <p>“A TORCH,” you say triumphantly, “becomes a HCROT when turned around.”</p>
+      <p>Spring claps.</p>
+      <p>&gt; move left</p>
+      <p>You are next to the wall.</p>
+      <p>The torch in your hand emits the same rattle.</p>
+      <p>&gt; move forward</p>
+      <p>You move towards the window.</p>
+      <p>The torch in your hand emits the same rattle.</p>
+      <p>&gt; move right</p>
+      <p>You’re standing in front of the desk.</p>
+      <p>The torch in your hand emits the same rattle.</p>
+      <p>Spring looks at you. “I don’t hear any difference.”</p>
+      <p>“I think it’s supposed to vibrate faster and make a different sound when it gets closer to the Augustine Module,” you say. “Supposed to. Maybe we need something else.”</p>
+      <p>&gt; inventory</p>
+      <p>You’re carrying a sheaf of letters.</p>
+      <p>&gt; examine letters</p>
+      <p>You have a burning torch held upside down in your hand. If you try that you’re going to burn the letters before you can read them.</p>
+      <p>&gt; hand torch to Spring</p>
+      <p>Spring takes the torch from you.</p>
+      <p>“You might as well move around the room a bit,” you say. “Try the corners I haven’t tried.”</p>
+      <p>&gt; examine letters</p>
+      <p>You read aloud from the next letter.</p>
+    </code>
+    <quote>
+      <code>Castellan,</code>
+      <code>I am utterly devastated at this news.</code>
+      <code>Please have the body embalmed but do not bury her yet. Do not release the news until I figure out what to do.</code>
+    </quote>
+    <code>
+      <p>Spring has wandered some distance away. The rattling in the torch has slowed down, more like a tap, tap, tap.</p>
+      <p>You’re too stunned by what you’re reading to stop. You turn to the next letter.</p>
+    </code>
+    <quote>
+      <code>Artificer,</code>
+      <code>I would like you to fashion an automaton that is an exact replica of my poor, darling Alex. It must be so life-like that no one can tell them apart.</code>
+      <code>When the automaton is complete, you must install in it the jewel I have enclosed with this letter. Then you may dispose of the body.</code>
+      <code>No, do not refuse. I know that you know what it is. If you refuse, I shall make it so that you will never create anything again.</code>
+      <code>The campaign is so heated here that I cannot step away and let Cedric sway them. Yet, if the news is released that my daughter is dead and I am refusing to go home to mourn her, Cedric will make hay of it and make me appear to be some kind of monster.</code>
+      <code>No, there is only one solution. No one must know that Alex has died.</code>
+    </quote>
+    <code>
+      <p>Spring is now in the hallway. The rattling in the torch has slowed down to an occasional tap, like the start of a gentle bit of rain. Tap . . . Tap . . . Tap . . .</p>
+      <p>&gt; TELL Spring to return</p>
+      <p>Spring comes closer. Tap, tap, tap.</p>
+      <p>Spring is now next to you. Tap-tap-tap.</p>
+      <p>&gt; TELL Spring to hand over the torch</p>
+      <p>Spring hands the torch to you. Tap-tap-tap.</p>
+      <p>“Did you know?” you ask.</p>
+      <p>“I have been with you for only four years,” Spring says.</p>
+      <p>“But I remember playing with you when I was a baby! You never told me they weren’t real memories.”</p>
+      <p>Spring shrugs. The sound is harsh, mechanical. “Your father programmed me. I do what I’m told to do. I know what I’m told to know.”</p>
+      <p>You think about the letters. You think about how vague and hazy your memories of your childhood are, how nothing in those memories is ever distinct, as if they were stories told to you a hundred times until they seemed real.</p>
+      <p>You bring the torch closer to your chest. The heat makes you flinch. TapTapTap.</p>
+      <p>You wonder where she’s buried. Is it in the garden, right underneath your bedroom window, where the lilies bloom? Or is it further back, in the clearing in the woods where you like to catch fireflies at night?</p>
+      <p>You bring the torch even closer. The flame licks at your hair and a few strands curl and singe. Tttttap.</p>
+      <p>You tear open the dress on you to reveal the flesh beneath. You put a hand against your chest and feel the pulsing under the skin. You wonder what will happen if you slash it open with a knife.</p>
+      <p>Will you see a beating heart? Or whirling gears and tightly-wound springs surrounding a rainbow-hued jewel?</p>
+      <p>It is one thing to be ignorant, and another thing to be unwilling to know.</p>
+      <p>&gt;</p>
+    </code>
+    <p>Ken Liu is an American author of speculative fiction. A winner of the Nebula, Hugo, and World Fantasy awards, he wrote the Dandelion Dynasty, a silkpunk epic fantasy series (starting with The Grace of Kings), as well as short story collections The Paper Menagerie and Other Stories and The Hidden Girl and Other Stories. He also authored the Star Wars novel The Legends of Luke Skywalker.</p>
+    <p>Prior to becoming a full-time writer, Liu worked as a software engineer, corporate lawyer, and litigation consultant. Liu frequently speaks at conferences and universities on a variety of topics, including futurism, cryptocurrency, history of technology, bookmaking, narrative futures, and the mathematics of origami.</p>
+    <p>Liu is also the translator for Liu Cixin’s The Three-Body Problem, Hao Jingfang’s “Folding Beijing” and Vagabonds, Chen Qiufan’s Waste Tide, as well as the editor of Invisible Planets and Broken Stars, anthologies of contemporary Chinese science fiction.</p>
+    <p>He lives with his family near Boston, Massachusetts.</p>
+  </main>
+  <comments/>
+</doc>
